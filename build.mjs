@@ -698,7 +698,7 @@ function pageAbout(reports) {
 </section>
 
 <section class="band">
-  <div class="wrap prose prose--page">
+  <div class="wrap"><div class="prose prose--page">
     <p class="prose__lede">H Heuristics is an independent research practice publishing long-form analytical reports on systemic risk, climate resilience, development finance, and the energy transition.</p>
 
     <p>The series works on a single premise: the risks that matter most now are the ones that travel together. A drought becomes a harvest failure, a price spike, a run on reserves, and a strain on a health system. A pandemic becomes a supply-chain crisis, an inflation shock, and a sovereign-debt crisis. Institutions that were built to handle these problems one at a time are, predictably, overwhelmed by them arriving at once.</p>
@@ -721,7 +721,7 @@ function pageAbout(reports) {
     <p class="prose__meta">The series currently comprises ${reports.length} reports, published between ${fmtDate(
       reports[reports.length - 1].published
     )} and ${fmtDate(reports[0].published)}.</p>
-  </div>
+  </div></div>
 </section>`;
 
   return layout({
