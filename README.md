@@ -52,16 +52,28 @@ creates its topic page automatically. Adding it to `topicOrder` controls where i
 | Build command | `npm run build` |
 | Build output directory | `dist` |
 | Root directory | *(repository root)* |
-| Environment variable | `SITE_URL` = the site's canonical origin |
 
-**`SITE_URL` matters.** Google Scholar requires an absolute `citation_pdf_url`, so
-canonical links, the sitemap, the RSS feed, and all citation metadata are built from
-it. Until it is set, the build falls back to `CF_PAGES_URL` and then to the
-`.pages.dev` default in `site.config.mjs`. Set it to the custom domain as soon as one
-is attached, and rebuild — otherwise Scholar will index the `.pages.dev` URLs.
+The site is served at **https://rr.hheuristics.com**, which is set as
+`CANONICAL_ORIGIN` in `site.config.mjs`. No environment variable is required; set
+`SITE_URL` only to override it (for a staging host, say).
 
-Preview deployments (any branch other than `main`) are automatically marked
-`noindex` and served a `Disallow: /` robots file, so they cannot pollute the index.
+**If the domain ever changes, change `CANONICAL_ORIGIN`.** Google Scholar requires an
+absolute `citation_pdf_url`, and canonical links, the sitemap, the feed, and every
+citation tag are built from that one constant. Whatever it says is what gets indexed
+and cited.
+
+`CF_PAGES_URL` is deliberately *not* consulted on production builds. Cloudflare sets
+it to the per-deployment host (`70c3490d.<project>.pages.dev`), a different string on
+every deploy — canonicalising to it publishes citation URLs that break on the next
+push. Preview builds may use it, since they are `noindex` anyway and their deployment
+host is the correct self-reference.
+
+Preview deployments (any branch other than `main`) are marked `noindex` and served a
+`Disallow: /` robots file, so they cannot pollute the index.
+
+Because Pages also serves the project on `*.pages.dev`, every page carries a
+`rel="canonical"` pointing at `rr.hheuristics.com` regardless of which host served
+it — that is what keeps the duplicate hosts out of Scholar and Google.
 
 ## Google Scholar indexing
 
@@ -80,6 +92,12 @@ both things Scholar's parser looks for.
 Scholar crawls from the browse pages, so `/reports/` links to every abstract page and
 each abstract page links to its PDF with a plain `<a href>`. `robots.txt` explicitly
 allows `/pdf/`.
+
+Before submitting to Scholar, confirm the live metadata is on the right host:
+
+```bash
+curl -s https://rr.hheuristics.com/reports/<slug>/ | grep citation_pdf_url
+```
 
 After the first deploy, submit the site through
 [Google Search Console](https://search.google.com/search-console) and request Scholar

@@ -1,20 +1,31 @@
 // ---------------------------------------------------------------------------
 // Site-wide configuration.
 //
-// siteUrl matters: Google Scholar requires absolute URLs in citation_pdf_url,
-// so canonical links and PDF URLs are all built from it. Set SITE_URL in the
-// Cloudflare Pages build environment once a custom domain is attached.
+// siteUrl is load-bearing: Google Scholar requires an absolute citation_pdf_url,
+// and canonical links, the sitemap, and the feed are all built from it. Whatever
+// it says is what gets indexed and cited, so it must be the permanent public
+// domain — not whichever host happens to serve a given deployment.
+//
+// Note CF_PAGES_URL is deliberately NOT used on production builds. Cloudflare
+// sets it to the per-deployment host (70c3490d.<project>.pages.dev), which is a
+// different string on every deploy; canonicalising to it would publish citation
+// URLs that break on the next push. Preview builds may use it, since they are
+// noindex anyway and their deployment host is the correct self-reference.
 // ---------------------------------------------------------------------------
 
-const fallback = 'https://research-platform-for-reports.pages.dev';
+const CANONICAL_ORIGIN = 'https://rr.hheuristics.com';
 
 export const isProduction =
   process.env.CF_PAGES_BRANCH === undefined ||
   process.env.CF_PAGES_BRANCH === 'main' ||
   process.env.CF_PAGES_BRANCH === 'master';
 
+const resolvedOrigin =
+  process.env.SITE_URL ||
+  (isProduction ? CANONICAL_ORIGIN : process.env.CF_PAGES_URL || CANONICAL_ORIGIN);
+
 export default {
-  siteUrl: (process.env.SITE_URL || process.env.CF_PAGES_URL || fallback).replace(/\/$/, ''),
+  siteUrl: resolvedOrigin.replace(/\/$/, ''),
 
   name: 'H Heuristics',
   tagline: 'Navigating a Changing World',
