@@ -156,7 +156,9 @@ function citations(r) {
 
 /* ------------------------------------------------------------------ layout */
 
-const LOGO = `<svg class="mark" viewBox="0 0 32 32" aria-hidden="true" focusable="false"><rect width="32" height="32" rx="1" fill="currentColor"/><path d="M9 8v16M23 8v16M9 16h14" stroke="var(--paper)" stroke-width="2.6" fill="none" stroke-linecap="square"/></svg>`;
+// The wordmark reads "H Heuristics" immediately to its right, so the mark is a
+// plain square — an H inside it repeated the letter twice in a row.
+const LOGO = `<svg class="mark" viewBox="0 0 32 32" aria-hidden="true" focusable="false"><rect width="32" height="32" rx="1" fill="currentColor"/></svg>`;
 
 function layout({ title, description, canonical, head = '', body, cls = '', activeNav = '' }) {
   const fullTitle = title === config.name ? `${config.name} — ${config.tagline}` : `${title} · ${config.name}`;

@@ -53,7 +53,7 @@ creates its topic page automatically. Adding it to `topicOrder` controls where i
 | Build output directory | `dist` |
 | Root directory | *(repository root)* |
 
-The site is served at **https://rr.hheuristics.com**, which is set as
+The site is served at **https://researchreports.hheuristics.com**, which is set as
 `CANONICAL_ORIGIN` in `site.config.mjs`. No environment variable is required; set
 `SITE_URL` only to override it (for a staging host, say).
 
@@ -72,7 +72,7 @@ Preview deployments (any branch other than `main`) are marked `noindex` and serv
 `Disallow: /` robots file, so they cannot pollute the index.
 
 Because Pages also serves the project on `*.pages.dev`, every page carries a
-`rel="canonical"` pointing at `rr.hheuristics.com` regardless of which host served
+`rel="canonical"` pointing at `researchreports.hheuristics.com` regardless of which host served
 it — that is what keeps the duplicate hosts out of Scholar and Google.
 
 ## Google Scholar indexing
@@ -96,7 +96,7 @@ allows `/pdf/`.
 Before submitting to Scholar, confirm the live metadata is on the right host:
 
 ```bash
-curl -s https://rr.hheuristics.com/reports/<slug>/ | grep citation_pdf_url
+curl -s https://researchreports.hheuristics.com/reports/<slug>/ | grep citation_pdf_url
 ```
 
 After the first deploy, submit the site through

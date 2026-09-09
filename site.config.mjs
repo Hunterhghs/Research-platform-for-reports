@@ -13,7 +13,7 @@
 // noindex anyway and their deployment host is the correct self-reference.
 // ---------------------------------------------------------------------------
 
-const CANONICAL_ORIGIN = 'https://rr.hheuristics.com';
+const CANONICAL_ORIGIN = 'https://researchreports.hheuristics.com';
 
 export const isProduction =
   process.env.CF_PAGES_BRANCH === undefined ||
