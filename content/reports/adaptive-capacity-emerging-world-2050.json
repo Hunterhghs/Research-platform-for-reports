@@ -1,0 +1,83 @@
+{
+  "slug": "adaptive-capacity-emerging-world-2050",
+  "number": "HH-2026-04",
+  "title": "Building Adaptive Capacity Across the Emerging World Before 2050",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-09-09",
+  "updated": "2026-09-09",
+  "language": "en",
+  "pdf": "adaptive-capacity-emerging-world-2050.pdf",
+  "pages": 35,
+  "dek": "Adaptive capacity is the meta-capability that decides whether a shock becomes a contained disruption or a cascading crisis. It runs on two engines — infrastructure and institutions — that must be built together.",
+  "topics": [
+    "Climate Adaptation",
+    "Institutions & Governance",
+    "Infrastructure",
+    "Emerging Markets"
+  ],
+  "abstract": [
+    "The risks facing the emerging world are increasingly interconnected. A drought becomes a harvest failure, a price spike, a run on reserves, a migration wave, and a strain on health systems, in sequence or all at once; a pandemic becomes a supply-chain crisis, an inflation shock, and a sovereign-debt crisis across much of the developing world. When shocks transmit this way, the variable that decides a country's fate is not how many hazards it can forecast but how much adaptive capacity it holds — the standing, general ability to anticipate, absorb, adapt to, and transform in the face of whatever arrives. This report argues that adaptive capacity, so defined, is the decisive development variable of the century to 2050, and that the emerging world holds too little of it.",
+    "The central thesis is that adaptive capacity is produced by two engines that must be built together: infrastructure and institutions. Infrastructure — power that stays on, water that keeps flowing, transport and digital networks that route around failure — supplies the physical buffering, redundancy, and flexibility to absorb a shock. Institutions — early-warning agencies, fiscal buffers and shock-responsive finance, adaptive social protection, data systems, and the state capacity to run them — convert that physical potential into timely, coordinated action. The two are complements, not substitutes: infrastructure without the institutions to operate and finance it is brittle, and institutions without the infrastructure to act on are hollow. The report's analytical core is a two-by-two framework in which genuine adaptive capacity lies only where both engines are built, and a mapping of each engine onto the four functions of adaptive capacity.",
+    "The report measures the emerging world's adaptive-capacity gap along the two axes of the ND-GAIN framework — high vulnerability combined with low readiness — and traces it to two proximate causes: thin fiscal buffers, with 3.4 billion people living in countries that spend more on debt interest than on health or education, and a cost-of-capital penalty of several hundred basis points that makes capacity-building investment most expensive exactly where it is most needed. The financing shortfall is stark: the UN Environment Programme estimates developing-country adaptation needs at roughly US$215–387 billion a year against international public flows of about US$28 billion, an eight- to fourteen-fold gap. Yet the returns to building capacity are exceptional — benefit-cost ratios reaching ten to one for early warning and resilient infrastructure — which makes the gap a failure of finance and accounting rather than of underlying value.",
+    "The implication is an agenda and a timetable. Build both engines together, funding operations and institutions alongside every asset; prioritise the double-duty investments — digital public infrastructure, distributed clean energy, adaptive social protection — that strengthen both engines with a single outlay; fix the financing by buying down the cost of capital, rebuilding fiscal space, and reforming the multilateral banks; and value capacity at its full risk-reduction return across the whole portfolio of shocks it mitigates. Above all, move early: the quarter-century to 2050 is the window in which most of the emerging world's infrastructure and much of its institutional architecture will actually be built, and capacity designed in now is cheap where retrofitting it later is not. Grounded in the experience of Bangladesh, Kenya, Morocco, Vietnam, Barbados, and Rwanda — where infrastructure and institutions built together turned survivable hazards into contained disruptions — the report's central finding is that adaptive capacity is not given by geography but built by choice, in time, and that building it across the emerging world before the window closes is the most consequential investment in human security available this century."
+  ],
+  "findings": [
+    "Adaptive capacity is a meta-capability — the standing ability to anticipate, absorb, adapt to, and transform in the face of whatever arrives — rather than a hazard-by-hazard defence.",
+    "It is produced by two engines that are complements, not substitutes: infrastructure without the institutions to operate and finance it is brittle, and institutions without the infrastructure to act on are hollow.",
+    "The emerging world’s gap is measurable on the two ND-GAIN axes of high vulnerability and low readiness, and traces to thin fiscal buffers — 3.4 billion people live in countries spending more on debt interest than on health or education — and a cost-of-capital penalty of several hundred basis points.",
+    "UNEP puts developing-country adaptation needs at roughly US$215–387 billion a year against about US$28 billion in international public flows: an eight- to fourteen-fold gap, against benefit-cost ratios reaching 10:1.",
+    "The quarter-century to 2050 is the window in which most of the emerging world’s infrastructure and much of its institutional architecture will be built — capacity designed in now is cheap where retrofitting it later is not."
+  ],
+  "keywords": [
+    "adaptive capacity",
+    "resilience",
+    "interconnected risk",
+    "systemic risk",
+    "emerging markets and developing economies",
+    "climate adaptation",
+    "resilient infrastructure",
+    "institutions",
+    "anticipatory governance",
+    "early-warning systems",
+    "adaptive social protection",
+    "shock-responsive finance",
+    "fiscal space",
+    "cost of capital",
+    "adaptation finance gap",
+    "lock-in",
+    "digital public infrastructure",
+    "maladaptation",
+    "development finance",
+    "polycrisis"
+  ],
+  "jelCodes": [
+    "Q54",
+    "O13",
+    "H54",
+    "F34",
+    "O19"
+  ],
+  "jelNote": "climate and natural disasters; agriculture and natural resources in development; infrastructure and public investment; international lending, debt and finance; international linkages to development",
+  "method": "This report synthesises institutional and peer-reviewed research on adaptive capacity, resilience, and development finance, including the *IPCC Sixth Assessment Report* (Working Group II); the socio-ecological resilience tradition (Holling; Folke); the WMO *Atlas of Mortality and Economic Losses (1970–2021)*; the Notre Dame Global Adaptation Initiative (*ND-GAIN*) country index; the UNEP *Adaptation Gap Report 2024*; the Global Commission on Adaptation's *Adapt Now* and the World Bank's *Lifelines*; UNCTAD's *A World of Debt (2025)*; the *IEA World Energy Investment 2025*; the World Economic Forum *Global Risks Report*; and primary reporting on country programmes in Bangladesh, Kenya, Morocco, Vietnam, Barbados, and Rwanda. Every quantitative claim is attributed inline to a primary or authoritative secondary source. Figures 1, 2, and 5 are conceptual schematics; Figure 3's regional positions are stylised after the ND-GAIN framework; Figure 8's trajectories are illustrative of the lock-in argument; Figures 4, 6, and 7 report values from the cited primary sources. The report is analytical rather than predictive.",
+  "contents": [
+    "1. Introduction: The Age of Interconnected Risk",
+    "2. What Adaptive Capacity Is",
+    "3. Why Adaptive Capacity Matters Now: The Rising Interconnection of Risk",
+    "4. The Adaptive-Capacity Gap in the Emerging World",
+    "5. The Two Engines: Infrastructure and Institutions",
+    "6. Infrastructure for Adaptive Capacity",
+    "7. Institutions for Adaptive Capacity",
+    "8. How the Two Engines Reinforce Each Other",
+    "9. Financing Adaptive Capacity to 2050",
+    "10. The Investment Window: Lock-In and the Cost of Delay",
+    "11. Failure Modes: Maladaptation, Unused Capacity, and the Limits of the Argument",
+    "12. Country Experience",
+    "13. Conclusion: An Agenda for Building Adaptive Capacity Before 2050"
+  ],
+  "doi": null,
+  "license": "CC BY-NC-ND 4.0"
+}

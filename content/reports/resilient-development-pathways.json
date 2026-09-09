@@ -1,0 +1,82 @@
+{
+  "slug": "resilient-development-pathways",
+  "number": "HH-2026-02",
+  "title": "Building Resilient Development Pathways Through the Global Polycrisis",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-09-09",
+  "updated": "2026-09-09",
+  "language": "en",
+  "pdf": "resilient-development-pathways.pdf",
+  "pages": 32,
+  "dek": "Systemic vulnerability is built, not given. Two levers — adaptation and clean infrastructure — can lower it, but only if they are financed and sequenced before the concrete is poured.",
+  "topics": [
+    "Systemic Risk",
+    "Climate Adaptation",
+    "Infrastructure",
+    "Development Finance"
+  ],
+  "abstract": [
+    "The defining danger of the current period is not the size of any single hazard but the coupling between hazards, and that coupling falls hardest on the economies least able to absorb it. Since 2020 a pandemic, a food and energy price spike, the sharpest rise in global borrowing costs in a generation, an accelerating run of climate extremes, and a fragmenting geopolitics have arrived on top of one another and transmitted their stress into one another. This report treats that condition, commonly labelled \"polycrisis\", as a development problem: shocks that originate in one system now propagate through a small set of shared channels — prices, exchange rates, fiscal space, credit, and confidence — that are concentrated in the structure of developing economies, so that the same physical hazard does far more systemic damage there than in a diversified, local-currency economy.",
+    "The report's central argument is that the systemic vulnerability which turns coupled shocks into cascading crises is built rather than given — accumulated through the composition of a country's energy system, the placement and standard of its infrastructure, the depth of its safety nets, and the state of its public finances — and can therefore be reduced by deliberate choices about how development proceeds. Using the disaster-risk framework of hazard, exposure, sensitivity, and adaptive capacity, it identifies two levers that do most of that work: adaptation, which raises adaptive capacity and lowers sensitivity to the shocks that arrive regardless; and clean infrastructure, which cuts exposure, severs the imported-fuel transmission channel, hardens systems through distribution, and shrinks the hazard itself. The two are complements whose combined return exceeds the sum of their parts, concentrated in a set of double-duty investments that pay in conventional development terms and in resilience at once.",
+    "The binding constraints are financial and institutional, not technical. The highest-return interventions are known and their benefit–cost ratios are exceptional: the Global Commission on Adaptation put returns across a portfolio of measures at two-to-one up to ten-to-one, the World Bank's Lifelines analysis found roughly four dollars of benefit per dollar of resilient-infrastructure premium, and multi-hazard early warning returns on the order of ten to one. Yet UNCTAD reports developing-country external debt at a record US$11.4 trillion and net interest at US$921 billion in 2024, with 3.4 billion people in countries that spend more on debt service than on health or education; the UNEP Adaptation Gap Report 2025 puts adaptation needs at US$310–365 billion a year by 2035 against international public flows of about US$26 billion; and clean-energy investment, now roughly twice that in fossil fuels globally, barely reaches developing economies outside China because of a 400–800 basis-point cost-of-capital wedge that a capital-intensive, front-loaded pathway is acutely sensitive to.",
+    "Because infrastructure is long-lived and vulnerability accumulates, the timing of the choice is decisive: the pathway a developing economy sets in this decade is locked in for the life of the assets it builds, and the premium on the resilient option is smallest before the concrete is poured. The report sets out the framework, shows why the polycrisis is a development problem, examines lock-in and each of the two levers, makes the case for their synergy, addresses the financing and institutional constraints, proposes a three-tier sequencing rule, and grounds the argument in the experience of Bangladesh, Kenya, Morocco, Vietnam, Barbados, and Rwanda. Its central finding is that the countries which absorb shocks well are distinguished less by their wealth or exposure than by whether they built and protected the enabling capacity — fiscal space, delivery institutions, pre-arranged finance, durable coordination — before the shocks arrived; and that the task for the coming decade is not to invent a resilience agenda but to fund it, integrate it, sequence it, and build it in advance."
+  ],
+  "findings": [
+    "Vulnerability is accumulated through the composition of a country’s energy system, the siting and standard of its infrastructure, the depth of its safety nets, and the state of its public finances — and can therefore be deliberately reduced.",
+    "Two levers do most of the work: adaptation raises adaptive capacity and lowers sensitivity to shocks that arrive regardless; clean infrastructure cuts exposure and severs the imported-fuel transmission channel.",
+    "Benefit–cost ratios run from 2:1 to 10:1 across adaptation measures, about 4:1 per dollar of resilient-infrastructure premium in the World Bank’s Lifelines analysis, and near 10:1 for multi-hazard early warning.",
+    "A 400–800 basis-point cost-of-capital wedge keeps clean investment out of developing economies outside China, and a front-loaded, capital-intensive pathway is acutely sensitive to it.",
+    "Timing is decisive: the pathway set this decade is locked in for the life of the assets built, and the premium on the resilient option is smallest before the concrete is poured."
+  ],
+  "keywords": [
+    "polycrisis",
+    "systemic vulnerability",
+    "risk transmission",
+    "development pathways",
+    "path dependence",
+    "infrastructure lock-in",
+    "climate adaptation",
+    "adaptation finance",
+    "clean infrastructure",
+    "distributed energy",
+    "energy security",
+    "cost of capital",
+    "sovereign debt",
+    "adaptive social protection",
+    "early warning systems",
+    "nature-based solutions",
+    "anticipatory action",
+    "maladaptation",
+    "benefit–cost ratio"
+  ],
+  "jelCodes": [
+    "Q54",
+    "O13",
+    "H54",
+    "F34",
+    "O19"
+  ],
+  "jelNote": "climate and natural disasters; agriculture, natural resources and environment in development; infrastructure and public investment; international lending and sovereign debt; economic development and international linkages",
+  "method": "This report synthesises institutional and peer-reviewed research on systemic risk, climate adaptation, clean infrastructure, and development finance, including the *IPCC Sixth Assessment Report* (WGII); the WMO *Atlas of Mortality and Economic Losses (1970–2021)* and the *UNDRR Global Assessment Report*; the Global Commission on Adaptation's *Adapt Now* and the World Bank's *Lifelines*; the *UNEP Adaptation Gap Report 2025*; UNCTAD's *A World of Debt 2025*; the *IEA World Energy Investment 2025* and *SDG7* data; the World Bank *State of Social Protection Report 2025*; and primary reporting on country programmes in Bangladesh, Kenya, Morocco, Vietnam, Barbados, and Rwanda. Every quantitative claim is attributed inline to a primary or authoritative secondary source. Figures 1, 5, and 6 are conceptual schematics; Figure 2 is an illustrative decadal series reflecting documented WMO trends; Figures 4 and 8 present indicative ranges. The report is analytical rather than predictive.",
+  "contents": [
+    "1. Introduction: Development at Risk in an Age of Polycrisis",
+    "2. From Hazard to Systemic Vulnerability: A Working Framework",
+    "3. The Polycrisis Is a Development Problem",
+    "4. Lock-In: Why the Pathway Chosen Now Persists for Decades",
+    "5. The First Lever: Adaptation as Vulnerability Reduction",
+    "6. The Second Lever: Clean Infrastructure as Resilience",
+    "7. Why the Two Levers Reinforce Each Other",
+    "8. The Financing Constraint and How to Loosen It",
+    "9. Institutions: Turning Money and Technology into Resilience",
+    "10. Sequencing: A Practical Order of Operations",
+    "11. Country Pathways: Evidence from Practice",
+    "12. Measuring Progress and Avoiding Maladaptation",
+    "13. Conclusion: Choosing the Pathway"
+  ],
+  "doi": null,
+  "license": "CC BY-NC-ND 4.0"
+}

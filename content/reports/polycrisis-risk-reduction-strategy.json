@@ -1,0 +1,82 @@
+{
+  "slug": "polycrisis-risk-reduction-strategy",
+  "number": "HH-2026-01",
+  "title": "Designing a Global Strategy for Polycrisis Risk Reduction",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-09-08",
+  "updated": "2026-09-08",
+  "language": "en",
+  "pdf": "polycrisis-risk-reduction-strategy.pdf",
+  "pages": 38,
+  "dek": "Coupled shocks defeat siloed responses. Four mutually reinforcing pillars — climate resilience, development finance, the energy transition, and institutional capacity — form a single strategy rather than a menu.",
+  "topics": [
+    "Systemic Risk",
+    "Development Finance",
+    "Energy Transition",
+    "Institutions & Governance"
+  ],
+  "abstract": [
+    "The defining danger of the current period is not the size of any single hazard but the coupling between hazards. Since 2020 a pandemic, a food and energy price spike, the sharpest rise in global borrowing costs in a generation, an accelerating run of climate extremes, and a fragmenting geopolitics have arrived on top of one another — and, crucially, transmitted their stress into one another. This report treats that condition, commonly labelled \"polycrisis\", as an analytical problem rather than a slogan: shocks that originate in one system now propagate rapidly into the others through a small number of shared channels — prices, exchange rates, fiscal space, credit, and confidence — so that the cost of managing them separately has become prohibitive. It argues that the coupling, not the individual shocks, is what a strategy must target.",
+    "The report sets out a strategy built on four pillars pursued together: climate resilience, which limits the frequency and severity of the physical shocks increasingly driving the system; development finance, which determines whether countries have the fiscal space to absorb any shock at all; the energy transition, reframed as risk reduction because it simultaneously cuts emissions, reduces exposure to imported-fuel price shocks, and can harden power systems; and institutional capacity, the anticipatory, delivery, and data functions that turn money and technology into outcomes. The core claim is that these four are complements, not a menu — each lowers the cost and raises the return of the others — so that the return to pursuing them as one integrated agenda far exceeds the sum of pursuing them separately.",
+    "The binding constraints are financial and institutional, not technical. The highest-return interventions are known and their benefit–cost ratios are exceptional: roughly four to one for resilient infrastructure, above ten to one for adaptation broadly, and around nine to one for multi-hazard early warning. Yet UNCTAD reports developing-country external debt at a record US$11.4 trillion and net interest payments at US$921 billion in 2024, with 3.4 billion people living in countries that spend more on debt service than on health or education; the UNEP Adaptation Gap Report 2025 puts adaptation needs at US$310–365 billion a year by 2035 against international public flows of just US$26 billion; and clean-energy investment, now roughly twice that in fossil fuels globally, barely reaches developing economies outside China because of a 400–800 basis-point cost-of-capital wedge. The returns concentrate in a small set of double- and triple-duty investments — digital ID and payments, early warning, adaptive social protection, distributed clean energy, and resolved debt — that strengthen several pillars at once.",
+    "The report establishes the analytical and empirical foundations, sets out the four-pillar framework, examines each pillar and the synergies between them, inventories the financing architecture assembled since 2022 and the capitalisation gap that plagues it, confronts the problem of governing a strategy in what the risk analysts call an \"age of competition\", proposes a three-tier sequencing rule, and grounds the argument in country experience — Barbados, Bangladesh, Rwanda, and Kenya, alongside the cautionary case of Indonesia's Just Energy Transition Partnership. Its central finding is that the countries which absorb shocks well are distinguished less by their wealth or exposure than by whether they built and protected the enabling capacity — fiscal space, delivery institutions, pre-arranged finance, durable coordination — before the shocks arrived; and that the task for the rest of the decade is not to invent a resilience agenda but to fund it, integrate it, and build it in advance."
+  ],
+  "findings": [
+    "Shocks now propagate through five shared channels — prices, exchange rates, fiscal space, credit, and confidence — which makes the coupling, not the individual hazards, the correct target of strategy.",
+    "The four pillars are complements rather than a menu: each lowers the cost and raises the return of the others, so the return to pursuing them together exceeds the sum of pursuing them separately.",
+    "Returns on the highest-value interventions are known and exceptional — roughly 4:1 for resilient infrastructure, above 10:1 for adaptation broadly, and about 9:1 for multi-hazard early warning.",
+    "The binding constraint is financial: developing-country external debt reached a record US$11.4 trillion with US$921 billion in net interest in 2024, while adaptation finance runs at about US$26 billion against needs of US$310–365 billion a year by 2035.",
+    "Value concentrates in a small set of double- and triple-duty investments — digital ID and payments, early warning, adaptive social protection, distributed clean energy, and resolved debt."
+  ],
+  "keywords": [
+    "polycrisis",
+    "systemic risk",
+    "risk transmission",
+    "climate resilience",
+    "adaptation finance",
+    "development finance",
+    "sovereign debt",
+    "cost of capital",
+    "energy transition",
+    "energy security",
+    "institutional capacity",
+    "anticipatory action",
+    "adaptive social protection",
+    "early warning systems",
+    "blended finance",
+    "MDB reform",
+    "loss and damage"
+  ],
+  "jelCodes": [
+    "Q54",
+    "F34",
+    "H63",
+    "O19",
+    "G28"
+  ],
+  "jelNote": "climate and natural disasters; international lending and sovereign debt; debt and fiscal policy; economic development and international linkages; government policy and financial regulation",
+  "method": "This report synthesises institutional and peer-reviewed research on systemic risk, climate resilience, development finance, and the energy transition, including the *WEF Global Risks Report 2026*; the *UNDRR Global Assessment Report* and WMO disaster-loss data; the *UNEP Adaptation Gap Report 2025*; UNCTAD's *A World of Debt 2025* and World Bank and IMF debt analyses; the *IEA World Energy Investment 2025* and *Tracking SDG7* reports; the World Bank *State of Social Protection Report 2025*; the 2025 Sevilla Commitment (FfD4) and the COP30 outcome in Belém; and primary reporting on country programmes in Barbados, Bangladesh, Indonesia, Rwanda, and Kenya. Every quantitative claim is attributed inline to a primary or authoritative secondary source. Figures 1 and 3 are conceptual schematics; Figure 2 is an illustrative decadal series reflecting documented WMO trends; Figures 5 and 7 are explicitly illustrative. The report is analytical rather than predictive.",
+  "contents": [
+    "1. Introduction: The Case for a Strategy",
+    "2. What Polycrisis Risk Is — and Why It Needs a Strategy",
+    "3. The Global Risk Landscape: A Data Portrait",
+    "4. A Framework: Four Integrated Pillars",
+    "5. Pillar I — Climate Resilience and Adaptation",
+    "6. Pillar II — Development Finance and Fiscal Space",
+    "7. Pillar III — The Energy Transition as Risk Reduction",
+    "8. Pillar IV — Institutional Capacity and Anticipatory Governance",
+    "9. Integration: How the Pillars Reinforce One Another",
+    "10. Financing the Strategy: Instruments and the Capitalisation Gap",
+    "11. Governance: Coordinating a Strategy in a Fragmented System",
+    "12. Sequencing and Prioritisation: A Decision Rule",
+    "13. Applications: The Strategy in Practice",
+    "14. Metrics and Accountability: Knowing Whether It Works",
+    "15. Conclusion: From Crisis Management to Strategic Resilience"
+  ],
+  "doi": null,
+  "license": "CC BY-NC-ND 4.0"
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "clean-development-risk-reduction",
+  "number": "HH-2026-03",
+  "title": "Clean Development as a Strategy for Global Risk Reduction",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-09-09",
+  "updated": "2026-09-09",
+  "language": "en",
+  "pdf": "clean-development-risk-reduction.pdf",
+  "pages": 32,
+  "dek": "One asset class cuts seven coupled threats at once. The obstacle is not technology or cost but an appraisal system that credits a single benefit and prices none of the harm.",
+  "topics": [
+    "Systemic Risk",
+    "Energy Transition",
+    "Infrastructure",
+    "Public Health"
+  ],
+  "abstract": [
+    "Governments confront their systemic dangers one at a time — a climate ministry and a climate budget, a health ministry and a health budget, separate strategies for energy, debt, water, and disaster — and this report argues that the division of labour systematically undervalues the one class of investment that cuts across all of it. The early twenty-first century has produced a portfolio of coupled systemic threats: climate disruption; the air-pollution death toll, now the second-leading risk factor for death worldwide at 8.1 million lives a year; energy insecurity; macro-financial fragility; water and food stress; the loss of nature; and the geopolitics of scarce energy and minerals. Treated separately, each looks nearly unaffordable, because the drivers overlap: the combustion of fossil fuels is at once the largest source of greenhouse gases, of lethal particulate pollution, of destabilising import bills, and of coercive energy dependence.",
+    "The central thesis is that this overlap is an opportunity, not merely a complication. Because the threats are coupled through shared physical drivers, an investment made at a node of coupling reduces several of them at once. Sustainable infrastructure — clean power, energy efficiency and green buildings, clean cooking and heat, electrified and public transport, resilient water and sanitation, nature-based systems, and the digital backbone that ties them together — sits at exactly those nodes. A single act of clean development therefore delivers a risk-reduction multiplier: on the reading developed here, each asset class materially reduces three to five distinct systemic threats simultaneously. The report's analytical core is a co-benefit matrix mapping eight infrastructure asset classes against seven systemic threats, from which the multiplier can be read directly.",
+    "The report's diagnosis of why so much of this value goes uncaptured is an accounting failure rather than a technological one. Across much of the world the core technologies are already the cheapest available, yet appraisal, budgeting, and finance are organised threat by threat, so an investment that reduces four threats is credited with reducing one and its measured return is a fraction of its true return. The same regime that hides clean development's co-benefits hides fossil fuels' co-harms: the IMF estimates fossil-fuel subsidies at about US$7 trillion in 2024, close to 7 percent of world GDP, of which some US$6.7 trillion is the implicit value of unpriced pollution and climate damage. Under-counting the benefits of the challenger and the harms of the incumbent are two faces of one mispricing.",
+    "The implication is a reframing: sustainable infrastructure should be appraised, budgeted, and financed as portfolio risk reduction rather than as sectoral climate policy competing for an environmental budget. Concretely, that means counting the full portfolio of co-benefits in every major public investment decision, ending the implicit subsidy that unpriced harm confers on fossil fuels, hard-wiring good outcomes through standards where appraisal is absent, clearing the debt and cost-of-capital barriers that keep high-return investments unfinanced, and designing each investment against the whole portfolio so that co-benefits are secured and co-harms avoided. Grounded in the experience of China, India, Morocco, Europe, and East Africa — where clean investment undertaken for clean air, secure energy, or basic access delivered climate and fiscal benefits as a bonus — the report's central finding is that clean development is not a cost borne for the planet's sake but the rare investment that pays many times over, in many currencies of risk at once, for those with the accounting to see it and the finance to build it."
+  ],
+  "findings": [
+    "Seven systemic threats — climate disruption, air pollution, energy insecurity, macro-financial fragility, water and food stress, nature loss, and resource geopolitics — share fossil-fuel combustion as a driver.",
+    "Because the threats are coupled through shared drivers, each sustainable-infrastructure asset class materially reduces three to five of them simultaneously; a matrix of eight asset classes against seven threats makes the multiplier legible.",
+    "Air pollution is now the second-leading risk factor for death worldwide at 8.1 million lives a year, making the health dividend the largest uncounted return to clean development.",
+    "The failure is in accounting, not technology: appraisal and budgeting are organised threat by threat, so an investment that reduces four threats is credited with reducing one.",
+    "The same regime hides fossil fuels’ co-harms — the IMF puts subsidies at about US$7 trillion in 2024, close to 7 percent of world GDP, of which some US$6.7 trillion is unpriced pollution and climate damage."
+  ],
+  "keywords": [
+    "clean development",
+    "sustainable infrastructure",
+    "global risk reduction",
+    "systemic risk",
+    "co-benefits",
+    "multisolving",
+    "risk-reduction multiplier",
+    "air pollution",
+    "energy security",
+    "fossil-fuel subsidies",
+    "externalities",
+    "integrated appraisal",
+    "climate mitigation",
+    "energy transition",
+    "nature-based solutions",
+    "cost of capital",
+    "sovereign debt",
+    "development finance",
+    "carbon pricing",
+    "health co-benefits"
+  ],
+  "jelCodes": [
+    "Q56",
+    "Q48",
+    "H54",
+    "I18",
+    "O13"
+  ],
+  "jelNote": "environment and development, sustainability; energy and the environment; infrastructure and public investment; government policy and health; agriculture, natural resources and environment in economic development",
+  "method": "This report synthesises institutional and peer-reviewed research on systemic risk, sustainable infrastructure, health, and development finance, including the *IPCC Sixth Assessment Report* (WGII and WGIII); the Health Effects Institute *State of Global Air 2024*; the WMO *Atlas of Mortality and Economic Losses (1970–2021)*; the *IEA World Energy Investment 2025*, *Global Critical Minerals Outlook 2025*, and *Tracking SDG7 (2025)*; the IMF's *Fossil Fuel Subsidies 2025 Update*; UNCTAD's *A World of Debt (2025)*; the WHO/UNICEF Joint Monitoring Programme and FAO *SOFI*; the *New Climate Economy* report; and primary reporting on country programmes in China, India, Morocco, the European Union, Kenya, and Ethiopia. Every quantitative claim is attributed inline to a primary or authoritative secondary source. Figures 1 and 3 are conceptual schematics; Figure 3's intensities and Figure 4's counts are a qualitative expert reading; Figure 2's bars are an illustrative severity ranking; Figure 7's components are stylised; Figures 5, 6, and 8 report values from the cited primary sources. The report is analytical rather than predictive.",
+  "contents": [
+    "1. Introduction: Solving Many Problems With One Investment",
+    "2. The Threat Portfolio: Seven Coupled Systemic Risks",
+    "3. What Clean Development Means: Sustainable Infrastructure as an Asset Class",
+    "4. The Risk-Reduction Multiplier: A Co-Benefit Framework",
+    "5. The Climate Channel: The Threat That Amplifies the Rest",
+    "6. The Health Dividend: Air Pollution as the Largest Hidden Return",
+    "7. Energy Security and Macro-Financial Resilience",
+    "8. Water, Food, and the Nature Nexus",
+    "9. Why the Multiplier Is Under-Counted: The Appraisal Gap",
+    "10. The Financing Constraint: Paying for Diffuse Returns",
+    "11. Designing for Co-Benefits: Trade-Offs and the Conditions for Success",
+    "12. Evidence from Practice: Clean Development as Multi-Threat Policy",
+    "13. Conclusion: Infrastructure as Risk Policy"
+  ],
+  "doi": null,
+  "license": "CC BY-NC-ND 4.0"
+}

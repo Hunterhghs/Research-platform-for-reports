@@ -1,0 +1,14 @@
+{
+  "name": "h-heuristics-research-platform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Publishing platform for the H Heuristics research report series.",
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "build": "node build.mjs",
+    "dev": "node build.mjs && node scripts/serve.mjs",
+    "serve": "node scripts/serve.mjs",
+    "new": "node scripts/new-report.mjs"
+  }
+}
