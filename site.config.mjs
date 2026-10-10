@@ -36,9 +36,17 @@ export default {
   series: 'H Heuristics Research Report',
   publisher: 'H Heuristics',
   language: 'en',
+  // Default licence for the series. A report record may override it with a
+  // `license` naming any key in `licenses` below — the Zenodo deposit is the
+  // source of truth for anything with a DOI.
   license: {
     name: 'CC BY-NC-ND 4.0',
     url: 'https://creativecommons.org/licenses/by-nc-nd/4.0/',
+  },
+  licenses: {
+    'CC BY-NC-ND 4.0': { name: 'CC BY-NC-ND 4.0', url: 'https://creativecommons.org/licenses/by-nc-nd/4.0/' },
+    'CC BY-NC 4.0':    { name: 'CC BY-NC 4.0',    url: 'https://creativecommons.org/licenses/by-nc/4.0/' },
+    'CC BY 4.0':       { name: 'CC BY 4.0',       url: 'https://creativecommons.org/licenses/by/4.0/' },
   },
 
   // Order in which topic facets are displayed.
@@ -50,6 +58,7 @@ export default {
     'Infrastructure',
     'Institutions & Governance',
     'Public Health',
+    'Water & Food Security',
     'Emerging Markets',
   ],
 

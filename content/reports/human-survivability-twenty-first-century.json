@@ -1,0 +1,73 @@
+{
+  "slug": "human-survivability-twenty-first-century",
+  "number": "HH-2026-05",
+  "title": "Human Survivability in the Twenty-First Century",
+  "subtitle": "Assessing Long-Term Exposure to Climate, Pollution, Water, Food, and Systemic Risks Across Global Regions",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-10",
+  "updated": "2026-10-10",
+  "language": "en",
+  "pdf": "human-survivability-twenty-first-century.pdf",
+  "pages": 46,
+  "dek": "How much of humanity will live for decades with a shrinking margin for error, and where? A Survivability Exposure Index across seven world regions, set against each region’s adaptive capacity.",
+  "topics": [
+    "Systemic Risk",
+    "Climate Adaptation",
+    "Public Health",
+    "Water & Food Security"
+  ],
+  "abstract": [
+    "Public debate about the climate century often asks whether parts of the planet will become uninhabitable. This report asks a more useful question: how much of humanity will live for decades with a shrinking margin for error, and where? It assesses long-term exposure to heat, air pollution, water stress, food insecurity and systemic risk across seven world regions, and sets that exposure against each region’s adaptive capacity. The starting point is a set of present-day deficits that predate the next two degrees of warming: about 3.3 to 3.6 billion people in contexts highly vulnerable to climate change, 2.1 billion without safely managed drinking water, 645 million facing hunger, and 7.9 million deaths linked to air pollution in 2023. The three-year average of global temperature has passed 1.5 °C, and current pledges point to 2.3 to 2.8 °C by 2100.",
+    "Using World Bank indicators and CMIP6 climate projections, the report builds a transparent Survivability Exposure Index (SEI) from five exposure dimensions and a capacity deficit. Sub-Saharan Africa scores highest (70), driven by thin buffers: 22% undernourished, 55% with electricity and 23% with clean cooking. The Middle East and North Africa (50) is the most hazard-exposed, with about 100 days a year above 35 °C already and water withdrawals at 148% of renewable resources. South Asia (43) combines the world’s worst air pollution (55 µg/m³, eleven times the WHO guideline) with rising heat. These three regions hold 3.8 billion people, 47% of humanity, and remain the top three in 85% of 20,000 random weightings. Latin America and the Caribbean scores lower today but sees the fastest proportional rise in heat, a ninefold increase in days above 35 °C under very high emissions.",
+    "The report argues that survivability erodes in stages: pollution and chronic heat erode health and working capacity now, infrastructure fragility peaks in a 2040–2060 Danger Window when heat, water stress, cooling demand, demographic loading and fiscal strain converge, and geographic thinning depends on the emissions path. Systemic coupling, not any single hazard, moves regions from strain to crisis. Because capacity is the variable that can be changed fastest and cheaply relative to the damage it prevents, the report concludes that priorities lie in electricity, clean cooking, water and sanitation, cooling standards, early warning and pre-arranged finance, in the capacity-limited regions, before the Danger Window opens."
+  ],
+  "findings": [
+    "The deficits that matter most are already here, and predate the next two degrees of warming: roughly 3.3–3.6 billion people live in contexts highly vulnerable to climate change, 2.1 billion lack safely managed drinking water, 645 million face hunger, and 7.9 million deaths were linked to air pollution in 2023.",
+    "Sub-Saharan Africa scores highest on the Survivability Exposure Index (70) not because it is the most hazard-exposed but because its buffers are thinnest — 22% undernourished, 55% with electricity, 23% with clean cooking.",
+    "The Middle East and North Africa (50) is the most hazard-exposed region, with about 100 days a year above 35 °C already and water withdrawals at 148% of renewable resources; South Asia (43) pairs the world’s worst air pollution (55 µg/m³, eleven times the WHO guideline) with rising heat.",
+    "Those three regions hold 3.8 billion people — 47% of humanity — and remain the top three under 85% of 20,000 random index weightings, so the ranking does not depend on the chosen weights.",
+    "Survivability erodes in stages rather than at a date: health and working capacity now, infrastructure fragility peaking in a 2040–2060 Danger Window as heat, water stress, cooling demand, demographic loading and fiscal strain converge, and geographic thinning contingent on the emissions path.",
+    "Capacity is the variable that can be changed fastest and most cheaply relative to the damage it prevents, which puts electricity, clean cooking, water and sanitation, cooling standards, early warning and pre-arranged finance ahead of everything else in the capacity-limited regions — and puts them there before the Danger Window opens."
+  ],
+  "keywords": [
+    "survivability",
+    "climate exposure",
+    "extreme heat",
+    "air pollution",
+    "water stress",
+    "food security",
+    "systemic risk",
+    "polycrisis",
+    "adaptive capacity",
+    "regional risk assessment"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "Regional indicators are World Bank aggregates (latest year, 2015 to 2025) retrieved in October 2026. Heat projections are population-weighted country averages of CMIP6 ensemble medians from the World Bank Climate Change Knowledge Portal for SSP1-2.6, SSP2-4.5 and SSP5-8.5. Global findings are drawn from the institutional and peer-reviewed sources linked in the text. The SEI is a structured summary of public data, not a forecast; regional aggregates mask internal variation, only heat is forward-looking in the index, and the coupling matrix in Section 8 is an expert judgement. Section 13 sets out the limits.",
+  "contents": [
+    "1. Introduction: Survivability Is a Process, Not a Date",
+    "2. Framework, Data and Method",
+    "3. The Planetary Baseline: Where the Climate Stands",
+    "4. Heat: The Expanding Functional Envelope",
+    "5. Pollution and Toxics: Erosion of the Medium",
+    "6. Water: Stress, Service Gaps and Vanishing Buffers",
+    "7. Food: Hunger, Yields and the Transmission of Shocks",
+    "8. Systemic Risk: How the Channels Couple",
+    "9. Adaptive Capacity and Demography",
+    "10. Regional Assessment: Who Is Most Exposed",
+    "11. Time Horizons: The Layering Phase and the Danger Window",
+    "12. Implications: Where Action Buys the Most Survivability",
+    "13. Limitations and Uncertainty",
+    "14. Conclusion: A Narrowing Margin, Unevenly Distributed"
+  ],
+  "backmatter": [
+    "Sources and Data Notes",
+    "Appendix A. Underlying Data"
+  ],
+  "doi": "10.5281/zenodo.23273105",
+  "license": "CC BY 4.0"
+}

@@ -37,6 +37,16 @@ There are no dependencies to install. Node 18+ is the only requirement.
    | `method` | The report's "Data and method" note |
    | `contents` | Section headings, for the on-page table of contents |
 
+   Optional fields, omit when they don't apply:
+
+   | Field | What it is |
+   | --- | --- |
+   | `doi` | e.g. `10.5281/zenodo.23273105`. Adds a `citation_doi` tag, a DOI row, and makes the DOI the citation target in APA/Chicago/BibTeX instead of the site URL |
+   | `subtitle` | Cover subtitle, set in italic under the title |
+   | `license` | Overrides the series default. Must match a key in `licenses` in `site.config.mjs`. **For anything deposited with a DOI, use the licence on the deposit** — that record is the one people will cite |
+   | `backmatter` | Back-matter headings, if not the default `["References and Further Reading"]` |
+   | `jelCodes` / `jelNote` | Omit or leave empty and the JEL row is dropped |
+
    Inline markdown is supported in `abstract`, `findings`, and `method`:
    `*italic*`, `**bold**`, and `[text](https://url)`.
 

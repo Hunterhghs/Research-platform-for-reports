@@ -120,6 +120,10 @@ function buildTopics(reports) {
 
 /* ---------------------------------------------------------------- citation */
 
+// A report may carry its own licence (the Zenodo deposit wins for DOI'd work).
+const licenceOf = (r) => config.licenses?.[r.license] || config.license;
+const doiUrl = (r) => (r.doi ? `https://doi.org/${r.doi.replace(/^https?:\/\/doi\.org\//, '')}` : null);
+
 function surnameFirst(name) {
   const parts = name.trim().split(/\s+/);
   const last = parts.pop();
@@ -136,9 +140,11 @@ function citations(r) {
   const authorsApa = r.authors.map(initialise).join(', & ');
   const authorsChi = r.authors.map(surnameFirst).join(', and ');
   const key = `hughes${y}${r.slug.split('-')[0]}`;
+  const doi = doiUrl(r);
+  const locator = doi || r.absUrl;   // a DOI is the stabler citation target
   return {
-    APA: `${authorsApa} (${y}). ${r.title} (${config.series} No. ${r.number}). ${config.publisher}. ${r.absUrl}`,
-    Chicago: `${authorsChi}. "${r.title}." ${config.series} ${r.number}. ${config.publisher}, ${y}. ${r.absUrl}.`,
+    APA: `${authorsApa} (${y}). ${r.title} (${config.series} No. ${r.number}). ${config.publisher}. ${locator}`,
+    Chicago: `${authorsChi}. "${r.title}." ${config.series} ${r.number}. ${config.publisher}, ${y}. ${locator}.`,
     BibTeX: [
       `@techreport{${key},`,
       `  title       = {${r.title}},`,
@@ -148,6 +154,7 @@ function citations(r) {
       `  number      = {${r.number}},`,
       `  year        = {${y}},`,
       `  month       = {${MONTHS[Number(r.published.slice(5, 7)) - 1].toLowerCase().slice(0, 3)}},`,
+      ...(r.doi ? [`  doi         = {${r.doi.replace(/^https?:\/\/doi\.org\//, '')}},`] : []),
       `  url         = {${r.absUrl}}`,
       `}`,
     ].join('\n'),
@@ -230,7 +237,7 @@ ${body}
   </div>
   <div class="wrap footer__legal">
     <p>© ${new Date().getFullYear()} H Heuristics · ${esc(config.author)}</p>
-    <p>Reports licensed under <a href="${config.license.url}" rel="license noopener" target="_blank">${config.license.name}</a>.</p>
+    <p>Open access · each report states its own licence</p>
   </div>
 </footer>
 
@@ -410,6 +417,8 @@ function pageReports(reports, topics) {
 
 function pageReport(r, reports) {
   const cite = citations(r);
+  const lic = licenceOf(r);
+  const doi = doiUrl(r);
   const related = reports
     .filter((o) => o.slug !== r.slug)
     .map((o) => ({ o, n: o.topics.filter((t) => r.topics.includes(t)).length }))
@@ -435,6 +444,7 @@ ${r.authors.map((a) => `<meta name="citation_author" content="${esc(surnameFirst
 <meta name="citation_pdf_url" content="${r.pdfAbsUrl}">
 <meta name="citation_firstpage" content="1">
 <meta name="citation_lastpage" content="${r.pages}">
+${r.doi ? `<meta name="citation_doi" content="${esc(r.doi.replace(/^https?:\/\/doi\.org\//, ''))}">\n` : ''}
 <meta name="DC.title" content="${esc(r.title)}">
 ${r.authors.map((a) => `<meta name="DC.creator" content="${esc(a)}">`).join('\n')}
 <meta name="DC.date" content="${r.published}">
@@ -442,8 +452,8 @@ ${r.authors.map((a) => `<meta name="DC.creator" content="${esc(a)}">`).join('\n'
 <meta name="DC.type" content="Text">
 <meta name="DC.format" content="application/pdf">
 <meta name="DC.identifier" content="${r.absUrl}">
-<meta name="DC.language" content="${r.language}">
-<meta name="DC.rights" content="${esc(config.license.name)}">
+${doi ? `<meta name="DC.identifier" scheme="DCTERMS.URI" content="${doi}">\n` : ''}<meta name="DC.language" content="${r.language}">
+<meta name="DC.rights" content="${esc(lic.name)}">
 <meta name="DC.description" content="${esc(plain(r.abstract[0]))}">
 <meta name="DC.subject" content="${esc(r.keywords.join('; '))}">
 <meta property="og:type" content="article">
@@ -469,8 +479,9 @@ ${r.topics.map((t) => `<meta property="article:tag" content="${esc(t)}">`).join(
     keywords: r.keywords.join(', '),
     about: r.topics,
     numberOfPages: r.pages,
-    license: config.license.url,
+    license: lic.url,
     url: r.absUrl,
+    ...(doi ? { identifier: doi, sameAs: doi } : {}),
     isPartOf: { '@type': 'PublicationVolume', name: config.series },
     author: r.authors.map((a) => ({ '@type': 'Person', name: a })),
     publisher: { '@type': 'Organization', name: config.publisher, url: SITE + '/' },
@@ -503,6 +514,7 @@ ${r.topics.map((t) => `<meta property="article:tag" content="${esc(t)}">`).join(
     </nav>
     <p class="eyebrow">${esc(config.series)} · ${esc(r.number)}</p>
     <h1 class="paper__title">${esc(r.title)}</h1>
+    ${r.subtitle ? `<p class="paper__subtitle">${esc(r.subtitle)}</p>` : ''}
     <p class="paper__dek">${esc(r.dek)}</p>
     <p class="paper__byline">
       <span class="paper__author">${r.authors.map(esc).join(' · ')}</span>
@@ -541,7 +553,7 @@ ${r.topics.map((t) => `<meta property="article:tag" content="${esc(t)}">`).join(
       <h2 class="sect__h">Contents</h2>
       <ol class="toc">
         ${r.contents.map((c) => `<li>${esc(c.replace(/^\d+\.\s*/, ''))}</li>`).join('\n        ')}
-        <li class="toc__end">References and Further Reading</li>
+        ${(r.backmatter || ['References and Further Reading']).map((b) => `<li class="toc__end">${esc(b)}</li>`).join('\n        ')}
       </ol>
     </section>
 
@@ -586,8 +598,9 @@ ${r.topics.map((t) => `<meta property="article:tag" content="${esc(t)}">`).join(
         <dt>Publisher</dt><dd>${esc(config.publisher)}</dd>
         <dt>Pages</dt><dd class="tabular">${r.pages}</dd>
         <dt>Language</dt><dd>English</dd>
-        <dt>JEL codes</dt><dd class="tabular">${r.jelCodes.map(esc).join(', ')}</dd>
-        <dt>Licence</dt><dd><a href="${config.license.url}" rel="license noopener" target="_blank">${esc(config.license.name)}</a></dd>
+        ${doi ? `<dt>DOI</dt><dd><a href="${doi}" rel="noopener" target="_blank">${esc(r.doi.replace(/^https?:\/\/doi\.org\//, ''))}</a></dd>` : ''}
+        ${r.jelCodes?.length ? `<dt>JEL codes</dt><dd class="tabular">${r.jelCodes.map(esc).join(', ')}</dd>` : ''}
+        <dt>Licence</dt><dd><a href="${lic.url}" rel="license noopener" target="_blank">${esc(lic.name)}</a></dd>
       </dl>
       ${r.jelNote ? `<p class="railcard__note">${esc(r.jelNote)}</p>` : ''}
     </div>
@@ -711,7 +724,7 @@ function pageAbout(reports) {
     <p>Reports synthesise institutional and peer-reviewed research. Every quantitative claim is attributed inline to a primary or authoritative secondary source, and each report states explicitly which of its figures are conceptual schematics, which are illustrative, and which report values drawn from the cited sources. The reports are analytical rather than predictive: they set out mechanisms and their implications, not forecasts.</p>
 
     <h2>Access and licensing</h2>
-    <p>Every report is open access and free to read and download. No registration, no paywall, no tracking. Reports are licensed under <a href="${config.license.url}" rel="license noopener" target="_blank">${esc(config.license.name)}</a>: you may share them with attribution, for non-commercial purposes, without modification.</p>
+    <p>Every report is open access and free to read and download. No registration, no paywall, no tracking. Most reports are licensed under <a href="${config.license.url}" rel="license noopener" target="_blank">${esc(config.license.name)}</a> — share with attribution, non-commercially, without modification — but some are released more permissively. Each report page states its own licence, and that is the one that governs.</p>
 
     <h2 id="citation">Citation</h2>
     <p>Each report page carries a structured citation in APA, Chicago, and BibTeX form, alongside its report number in the ${esc(config.series)} series. Report pages also expose Google Scholar citation metadata and Dublin Core tags, so the series can be indexed and cited like any other working-paper series. Machine-readable metadata for the whole series is available at <a href="/reports.json">/reports.json</a>, and new reports are announced on the <a href="/feed.xml">RSS feed</a>.</p>
@@ -837,7 +850,8 @@ function metadataJson(reports) {
         abstract: r.abstract,
         url: r.absUrl,
         pdf: r.pdfAbsUrl,
-        license: r.license || config.license.name,
+        doi: r.doi || null,
+        license: licenceOf(r).name,
       })),
     },
     null,
