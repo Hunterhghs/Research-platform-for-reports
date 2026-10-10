@@ -415,6 +415,14 @@ function pageReports(reports, topics) {
   });
 }
 
+function tocRow(raw, isEnd = false) {
+  const m = String(raw).match(/^(\d+)[.)]?\s+(.*)$/);
+  const cls = isEnd ? ' class="toc__end"' : m ? '' : ' class="toc__un"';
+  const n = m ? m[1] : '&mdash;';
+  const label = m ? m[2] : String(raw);
+  return `<li${cls}><span class="toc__n">${n}</span><span>${esc(label)}</span></li>`;
+}
+
 function pageReport(r, reports) {
   const cite = citations(r);
   const lic = licenceOf(r);
@@ -552,8 +560,8 @@ ${r.topics.map((t) => `<meta property="article:tag" content="${esc(t)}">`).join(
     <section class="sect" id="contents">
       <h2 class="sect__h">Contents</h2>
       <ol class="toc">
-        ${r.contents.map((c) => `<li>${esc(c.replace(/^\d+\.\s*/, ''))}</li>`).join('\n        ')}
-        ${(r.backmatter || ['References and Further Reading']).map((b) => `<li class="toc__end">${esc(b)}</li>`).join('\n        ')}
+        ${r.contents.map(tocRow).join('\n        ')}
+        ${(r.backmatter || ['References and Further Reading']).map((b) => tocRow(b, true)).join('\n        ')}
       </ol>
     </section>
 

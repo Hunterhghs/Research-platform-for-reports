@@ -380,19 +380,19 @@ a.pill:hover { border-color: var(--navy); color: var(--navy); }
 }
 .findings li:last-child { margin-bottom: 0; }
 
-.toc { list-style: none; counter-reset: t; padding: 0; margin: 0; max-width: 60ch; }
+.toc { list-style: none; padding: 0; margin: 0; max-width: 60ch; }
 .toc li {
-  counter-increment: t; display: flex; gap: 1rem; align-items: baseline;
+  display: flex; gap: 1rem; align-items: baseline;
   padding: 0.55rem 0; border-bottom: 1px dotted var(--line);
   font-size: 0.955rem; line-height: 1.4;
 }
-.toc li::before {
-  content: counter(t); flex: none; width: 1.6rem;
+.toc__n {
+  flex: none; width: 1.6rem;
   font-family: var(--sans); font-size: 0.72rem; font-weight: 600;
   color: var(--ink-3); font-variant-numeric: tabular-nums;
 }
+.toc .toc__un { color: var(--ink-2); }
 .toc .toc__end { color: var(--ink-2); border-bottom: 0; }
-.toc .toc__end::before { content: "—"; }
 
 .pdfframe {
   border: 1px solid var(--line-strong); background: var(--paper-2);

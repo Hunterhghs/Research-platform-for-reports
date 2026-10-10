@@ -1,0 +1,81 @@
+{
+  "slug": "polycrisis-risk-reduction-index",
+  "number": "HH-2026-06",
+  "title": "The Polycrisis Risk Reduction Index",
+  "subtitle": "A Comparative Assessment of National Resilience, Adaptive Capacity, and Risk Mitigation Potential Through 2100",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-10",
+  "updated": "2026-10-10",
+  "language": "en",
+  "pdf": "polycrisis-risk-reduction-index.pdf",
+  "pages": 40,
+  "dek": "A transparent 0–100 index of national capacity to reduce, absorb and adapt to compound risk — 40 countries, 18 indicators, six pillars, projected to 2100 under four IPCC pathways.",
+  "topics": [
+    "Systemic Risk",
+    "Climate Adaptation",
+    "Institutions & Governance",
+    "Emerging Markets"
+  ],
+  "abstract": [
+    "Since 2022 the word polycrisis has moved from academic niche to boardroom shorthand, popularized by Adam Tooze and given a causal definition by the Cascade Institute as a situation in which crises in multiple global systems become causally entangled and degrade humanity’s prospects more than the sum of their parts. The evidence of entanglement is now hard to ignore: the 2023–2025 period was the first three-year span averaging more than 1.5 °C above pre-industrial levels; seven of nine planetary boundaries are assessed as transgressed; and the World Economic Forum’s 2026 survey ranks geoeconomic confrontation first for the next two years and environmental risks first for the next ten.",
+    "What is missing is a way to compare countries on the one question that matters when many risks arrive together: how much capacity does each society have to reduce, absorb and adapt to compound risk, and how much could that capacity change over this century? This report introduces the Polycrisis Risk Reduction Index (PCRRI), a transparent 0–100 composite built from 18 publicly available indicators in six pillars, and applies it to 40 countries that together hold 6.1 billion people, about three-quarters of humanity. A stylized scenario engine anchored to IPCC AR6 warming pathways then projects the index to 2100 and derives a Risk Reduction Potential (RRP): the number of index points a country gains by moving from a fragmented, high-emissions world to a cooperative, low-emissions one.",
+    "Resilience turns out to be concentrated where few people live. PCRRI runs from 82.5 (Switzerland) to 20.3 (Pakistan); the seven Tier I countries hold 1.7% of the sample population while Tiers III and IV together hold 80.1%, and the population-weighted mean of 47.0 sits well below the simple mean of 55.3. The weakest pillars are the ones that matter most for coordination — governance (37.6), economic and technological capacity (39.9) and mitigation and stewardship (37.8). The ranking is robust: across 5,000 random weighting schemes the mean Spearman correlation with the baseline is 0.983. Scenario outcomes are not. The 2100 population-weighted index ranges from 70.3 under the sustainability pathway to 29.7 under regional rivalry, and the share of sample population in the Fragile tier ranges from zero to 81.3% depending on which pathway the world takes.",
+    "The policy implication is a two-track strategy. For the high-capacity, high-footprint countries, the priority is to decarbonize faster and to finance capacity elsewhere, because their own resilience is only as durable as the global pathway. For lower-capacity countries, the highest-return investments are in governance, state capability and human capital, the foundations on which every other adaptation measure depends. Mean Risk Reduction Potential is 35.2 points, rising from 23.2 in Tier I to 51.5 in Tier IV, with roughly 59% of the gain coming from building capacity, 28% from avoided climate damage and 13% from avoided systemic shocks. The model is a structured way to explore trade-offs, not a forecast."
+  ],
+  "findings": [
+    "Resilience is concentrated where few people live. PCRRI runs from 82.5 (Switzerland) to 20.3 (Pakistan); the seven Tier I countries hold 1.7% of the sample population, Tiers III and IV together hold 80.1%, and the population-weighted mean (47.0) sits well below the simple mean (55.3).",
+    "The weakest pillars are the ones that matter most for coordination: population-weighted scores are lowest for governance (37.6), economic and technological capacity (39.9) and mitigation and stewardship (37.8).",
+    "A resilience–responsibility paradox. The United States, Canada, South Korea and Australia combine above-average resilience with per-capita CO₂ emissions above 10 tonnes; PCRRI and per-capita emissions are positively but loosely related (Spearman ρ = 0.52), and the mitigation pillar is slightly negatively correlated with the capacity pillars.",
+    "Rankings are robust but scenario outcomes are not. Across 5,000 random weighting schemes the mean Spearman correlation with the baseline ranking is 0.983 (minimum 0.852), while the 2100 population-weighted PCRRI ranges from 70.3 under sustainability to 29.7 under regional rivalry.",
+    "Where people live in 2100 depends on the pathway: the share of sample population in the Fragile tier is 0% under SSP1-2.6, 12.1% under SSP2-4.5, 47.9% under SSP5-8.5 and 81.3% under SSP3-7.0.",
+    "Growth without decarbonization borrows from the future. The fossil-fuelled scenario tracks the middle road until about 2051, then falls below it as climate damage compounds, ending 9.3 points lower by 2100.",
+    "The largest returns to action are in the least resilient countries. Mean Risk Reduction Potential is 35.2 points, rising from 23.2 in Tier I to 51.5 in Tier IV, with about 59% of the gain from building capacity, 28% from avoided climate damage and 13% from avoided systemic shocks."
+  ],
+  "keywords": [
+    "polycrisis",
+    "risk reduction",
+    "resilience",
+    "adaptive capacity",
+    "vulnerability",
+    "compound risks",
+    "climate risk",
+    "climate adaptation",
+    "national resilience",
+    "resilience index",
+    "risk reduction potential (RRP)",
+    "economic capacity",
+    "technological capacity",
+    "governance",
+    "global risks",
+    "sustainable development",
+    "sustainability"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "The PCRRI is a transparent 0–100 composite of 18 publicly available indicators grouped into six pillars, applied to 40 countries holding about 6.1 billion people. All baseline inputs are open indicators retrieved from the World Bank Indicators API on 9 October 2026 and listed in Table 2 and Appendix B. Every transformation — winsorization, log transforms, min–max scaling, aggregation — and every scenario equation and parameter is documented in Section 4, so that the results can be reproduced and challenged. A stylized scenario engine anchored to IPCC AR6 warming pathways projects the index to 2100 under SSP1-2.6, SSP2-4.5, SSP3-7.0 and SSP5-8.5; reported ranges are 5th–95th percentiles across 1,500 parameter draws, and ranking robustness is tested across 5,000 random weighting schemes. The 2100 warming values are stylized extensions of IPCC AR6 end-century estimates. The model is a structured way to explore trade-offs, not a forecast; Section 10 sets out its limitations.",
+  "contents": [
+    "Executive Summary",
+    "1 Introduction",
+    "2 Conceptual Foundations",
+    "3 The State of the Polycrisis, 2026",
+    "4 Methodology",
+    "5 Baseline Results",
+    "6 Robustness",
+    "7 Pathways to 2100",
+    "8 Risk Reduction Potential",
+    "9 Policy Implications",
+    "10 Limitations and Research Agenda",
+    "11 Conclusion"
+  ],
+  "backmatter": [
+    "References",
+    "Appendix A. Country Results",
+    "Appendix B. Input Data"
+  ],
+  "doi": "10.5281/zenodo.23273553",
+  "license": "CC BY 4.0"
+}
