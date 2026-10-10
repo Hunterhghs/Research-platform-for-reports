@@ -1,0 +1,79 @@
+{
+  "slug": "global-polycrisis-outlook-2027",
+  "number": "HH-2026-07",
+  "title": "The Global Polycrisis Outlook 2027",
+  "subtitle": "Mapping the Convergence of Climate, Pollution, Resource, Demographic, and Governance Risks in an Increasingly Interconnected World",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-10",
+  "updated": "2026-10-10",
+  "language": "en",
+  "pdf": "global-polycrisis-outlook-2027.pdf",
+  "pages": 45,
+  "dek": "Why 2027 is the year the slow variables and the fast shocks arrive together, and what that means for those who must prepare.",
+  "topics": [
+    "Systemic Risk",
+    "Climate Adaptation",
+    "Water & Food Security",
+    "Institutions & Governance"
+  ],
+  "abstract": [
+    "The risks that researchers have long treated as separate problems are arriving together. In 2026 the world is on course for its first- or second-warmest year on record while a very strong El Niño builds toward a December peak; a war in the Gulf has halted traffic through the Strait of Hormuz and produced what the International Energy Agency calls the largest supply disruption in the history of the oil market; the FAO Food Price Index has risen for three straight months to its highest level since November 2022; official development assistance fell by 23 per cent in 2025, the largest one-year drop on record; and a Bundibugyo-virus Ebola outbreak with no licensed vaccine is spreading through a conflict zone in eastern Congo. This report asks what that convergence means for 2027, and how to think about it clearly.",
+    "The report organises the evidence into five risk clusters, climate, pollution, resource, demographic and governance, and three coupling pathways from the polycrisis literature: common stresses, domino effects and inter-systemic feedbacks. It finds that the clusters are unequal in the pressure they transmit. A transparent coupling assessment (Figure 13) ranks resource systems and governance as the strongest transmitters of stress, and resource and demographic systems as the strongest receivers. The binding vulnerability in 2027 is therefore not any single hazard but the thinning of the buffers, aid, fiscal space, grain reserves, health capacity and diplomatic trust, that normally stop a hazard becoming a crisis. The report maps nine regional convergence hotspots, led by the Sahel, the Horn of Africa and Sudan, South Asia and the Middle East, and sets out four scenarios for 2027 defined by two swing factors: whether the Gulf energy shock resolves, and how severe the El Niño impacts prove.",
+    "The outlook is serious but not fatalistic. Global hunger fell for a third consecutive year in 2025, clean energy investment ($2.2 trillion) is nearly double fossil investment ($1.2 trillion), and wind and solar met 99 per cent of the growth in global electricity demand in 2025. The report closes with priorities by actor, a monitoring dashboard with explicit trigger thresholds, and a 2027 calendar of decision points. Its central conclusion is that the cheapest response to a convergence of risks is to protect the buffers before the shocks land."
+  ],
+  "findings": [
+    "The five risk clusters are unequal in the pressure they transmit: a transparent coupling assessment ranks resource systems and governance as the strongest transmitters of stress, and resource and demographic systems as the strongest receivers.",
+    "The binding vulnerability in 2027 is not any single hazard but the thinning of the buffers — aid, fiscal space, grain reserves, health capacity and diplomatic trust — that normally stop a hazard becoming a crisis.",
+    "Official development assistance fell by 23 per cent in 2025, the largest one-year drop on record, withdrawing the buffer most relied upon exactly where the clusters converge most sharply.",
+    "The Gulf war has halted traffic through the Strait of Hormuz, producing what the IEA calls the largest supply disruption in the history of the oil market, while the FAO Food Price Index has risen for three straight months to its highest level since November 2022.",
+    "Nine regional convergence hotspots are mapped, led by the Sahel, the Horn of Africa and Sudan, South Asia and the Middle East; four scenarios for 2027 turn on two swing factors — whether the Gulf energy shock resolves, and how severe the El Niño impacts prove.",
+    "The outlook is serious but not fatalistic: global hunger fell for a third consecutive year in 2025, clean energy investment ($2.2 trillion) is nearly double fossil investment ($1.2 trillion), and wind and solar met 99 per cent of the growth in global electricity demand in 2025.",
+    "The cheapest response to a convergence of risks is to protect the buffers before the shocks land — hence the closing priorities by actor, a monitoring dashboard with explicit trigger thresholds, and a 2027 calendar of decision points."
+  ],
+  "keywords": [
+    "polycrisis",
+    "global risks",
+    "climate change",
+    "El Niño",
+    "air pollution",
+    "plastics",
+    "water",
+    "food security",
+    "energy security",
+    "critical minerals",
+    "demography",
+    "displacement",
+    "governance",
+    "official development assistance",
+    "sovereign debt",
+    "early warning",
+    "scenarios",
+    "2027"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "This report synthesises 2025-26 publications from the WMO, NOAA, Copernicus, UNEP, IEA, FAO, WFP, FEWS NET, WHO, UNHCR, IDMC, OECD, UNCTAD, IMF, World Bank, SIPRI, UCDP, V-Dem and the World Economic Forum, together with peer-reviewed literature on crisis entanglement. Every quantitative claim is linked inline to its source. Figures 2-12 chart values reported by cited sources (with derivations noted); Figures 1, 14 and 16-17 are conceptual or calendar graphics; Figures 13 and 15 are author assessments on a transparent 0-3 scale and are labelled as such. Information is current to 9 October 2026; several events discussed (the El Niño peak, COP31, the IMF October outlook) have not yet occurred.",
+  "contents": [
+    "1. Introduction: The Year the Pressures Converge",
+    "2. Framework: Five Clusters, Three Pathways, One Test",
+    "3. Climate Risk: A Record-Warm Baseline Meets a Record El Niño",
+    "4. Pollution Risk: The Slow Emergency",
+    "5. Resource Risk: Energy, Food, Water and Minerals Under Strain",
+    "6. Demographic Risk: Many Young, Many Old, Many Displaced",
+    "7. Governance Risk: The Buffer Is Thinning",
+    "8. Convergence: How the Clusters Interact",
+    "9. Regional Hotspots: Where the Clusters Converge",
+    "10. Scenarios for 2027",
+    "11. Priorities for Action and a Monitoring Dashboard",
+    "12. Conclusion: Protect the Buffers"
+  ],
+  "backmatter": [
+    "Appendix A. Source Register, Data Notes and Limitations"
+  ],
+  "doi": "10.5281/zenodo.23273812",
+  "license": "CC BY 4.0"
+}
