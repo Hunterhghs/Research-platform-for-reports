@@ -1,0 +1,86 @@
+{
+  "slug": "future-of-global-habitability",
+  "number": "HH-2026-08",
+  "title": "The Future of Global Habitability",
+  "subtitle": "Identifying Regions Most Likely to Sustain Human Health, Stability, and Prosperity Under Emerging Polycrisis Conditions",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-10",
+  "updated": "2026-10-10",
+  "language": "en",
+  "pdf": "future-of-global-habitability.pdf",
+  "pages": 48,
+  "dek": "Which places are most likely to keep sustaining human health, stability and prosperity as climate, resource, demographic and governance stresses arrive together? A Habitability Resilience Index for 175 countries — and a demographic mismatch at its centre.",
+  "topics": [
+    "Systemic Risk",
+    "Climate Adaptation",
+    "Water & Food Security",
+    "Institutions & Governance"
+  ],
+  "abstract": [
+    "Public debate about the climate century often asks which parts of the planet will become uninhabitable. This report asks the question from the other side: which places are most likely to keep sustaining human health, stability and prosperity while climate, resource, demographic and governance stresses arrive together? It builds a transparent 0 to 100 Habitability Resilience Index (HRI) for 175 countries holding 8.19 billion people, 99.5 per cent of humanity, from 19 public indicators in five pillars: climate safety, water and food, health, stability, and prosperity and capacity. Inputs are World Bank indicators, the 2025 Worldwide Governance Indicators and CMIP6 climate projections from the World Bank Climate Change Knowledge Portal, with the population outlook from the UN World Population Prospects 2024.",
+    "The results are sharply concentrated. The 35 Tier 1 countries, led by Norway, Iceland, Canada, Sweden and New Zealand, hold 1.11 billion people, 13.5 per cent of the world; the 35 Tier 5 countries, 25 of them in sub-Saharan Africa, hold 1.46 billion. The ranking is robust: across 5,000 random weightings Norway and Iceland never leave the top two, and the Spearman correlation with four alternative weight sets never falls below 0.975. The index tracks the independent ND-GAIN Country Index closely (r = 0.89) but is not simply a proxy for income: Iceland, Bhutan, Canada, New Zealand and Norway beat the income-predicted score by 18 to 19 points, while the Gulf states fall short of it by 24 to 32. The decisive finding is a demographic mismatch. On UN medium-variant projections the population of Tiers 1 and 2 falls by 0.94 billion by 2100, while Tier 5 grows by 2.03 billion, more than the entire net growth of humanity, so that the share of people living in Tier 4 and 5 countries rises from 47 per cent today to 55 per cent in 2050 and 66 per cent in 2100, a share that barely moves across the UN low and high variants.",
+    "Heat is the pillar that changes most: the population-weighted number of days a year above 35 °C rises from 41 to 52 by mid-century under SSP2-4.5 and to 87 by the 2080s under SSP5-8.5. Yet a high-end climate stress test moves only 15 countries across a tier boundary, because most of the habitability gap is institutional rather than climatic. That is both the warning and the opportunity. The report also shows, from recent shocks in North Carolina, Canada, Europe, Uruguay and New Zealand, that no place is a refuge by geography alone. It closes with scenarios to 2050 and a three-track agenda: protect and adapt the high-habitability core, build capacity before the mid-century window in the middle tiers, and finance and plan mobility for the hotspots."
+  ],
+  "findings": [
+    "Habitability is sharply concentrated. The 35 Tier 1 countries — led by Norway, Iceland, Canada, Sweden and New Zealand — hold 1.11 billion people, 13.5 per cent of the world, while the 35 Tier 5 countries, 25 of them in sub-Saharan Africa, hold 1.46 billion.",
+    "The decisive finding is a demographic mismatch: on UN medium-variant projections the population of Tiers 1 and 2 falls by 0.94 billion by 2100 while Tier 5 grows by 2.03 billion — more than the entire net growth of humanity.",
+    "The share of people living in Tier 4 and 5 countries therefore rises from 47 per cent today to 55 per cent in 2050 and 66 per cent in 2100, and barely moves across the UN low and high variants.",
+    "Most of the habitability gap is institutional rather than climatic: a high-end climate stress test moves only 15 countries across a tier boundary. That is both the warning and the opportunity.",
+    "Heat is nonetheless the pillar that changes most — the population-weighted number of days a year above 35 °C rises from 41 to 52 by mid-century under SSP2-4.5, and to 87 by the 2080s under SSP5-8.5.",
+    "The index is robust and is not a proxy for income: across 5,000 random weightings Norway and Iceland never leave the top two, the Spearman correlation with four alternative weight sets never falls below 0.975, and it tracks ND-GAIN at r = 0.89 — yet Iceland, Bhutan, Canada, New Zealand and Norway beat their income-predicted scores by 18 to 19 points while the Gulf states fall short by 24 to 32.",
+    "No place is a refuge by geography alone, as recent shocks in North Carolina, Canada, Europe, Uruguay and New Zealand show — hence a three-track agenda: protect and adapt the high-habitability core, build capacity before the mid-century window in the middle tiers, and finance and plan mobility for the hotspots."
+  ],
+  "keywords": [
+    "habitability",
+    "climate havens",
+    "polycrisis",
+    "resilience index",
+    "extreme heat",
+    "water stress",
+    "food security",
+    "governance and stability",
+    "demographic change",
+    "adaptive capacity",
+    "migration",
+    "scenarios"
+  ],
+  "jelCodes": [
+    "Q54",
+    "Q56",
+    "O13",
+    "O57",
+    "J11",
+    "F22",
+    "I15"
+  ],
+  "jelNote": "climate and the economy; environment and development; comparative country studies; demography; international migration; health",
+  "method": "The HRI combines 19 indicators from the World Bank World Development Indicators, the 2025 Worldwide Governance Indicators and CMIP6 ensemble-median projections (World Bank CCKP), retrieved on 10 October 2026, with UN WPP 2024 populations. Indicators are winsorised, log-transformed where skewed, min-max scaled and aggregated by transparent weights; robustness is tested over 5,000 random weightings and against ND-GAIN. Country averages mask subnational variation and are not forecasts; Figures 1, 8 and 19 are conceptual, and the scenarios are qualitative. Figures 2 to 7 and 20 chart values from the cited sources or from the World Bank and UN data described above. Every external claim is linked to its source, and information is current to 10 October 2026.",
+  "contents": [
+    "1. Introduction: Which Places Keep Working?",
+    "2. Defining Habitability Under Polycrisis",
+    "3. The Planetary Envelope: Warming, Heat and the Shifting Niche",
+    "4. Water, Food and the Living Systems",
+    "5. Health, Demography and Human Capital",
+    "6. Stability, Governance and Prosperity",
+    "7. Method: The Habitability Resilience Index",
+    "8. Results: The Global Picture",
+    "9. Regional Patterns",
+    "10. Robustness, Validation and the Limits of the Index",
+    "11. The Demographic Mismatch",
+    "12. Stress Tests and Scenarios to 2050",
+    "13. Beyond the Country Average: Havens, Refuges and Their Limits",
+    "14. Implications: Protect the Core, Build the Middle, Finance the Hotspots",
+    "15. Limitations and Research Agenda",
+    "16. Conclusion: Habitability Is Built, and It Is Unevenly Distributed"
+  ],
+  "backmatter": [
+    "Appendix A. Country Results",
+    "Appendix B. Regional Groupings and Reproducibility"
+  ],
+  "doi": "10.5281/zenodo.23276000",
+  "license": "CC BY 4.0"
+}
