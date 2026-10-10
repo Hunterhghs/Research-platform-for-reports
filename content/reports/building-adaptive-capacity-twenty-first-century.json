@@ -1,0 +1,80 @@
+{
+  "slug": "building-adaptive-capacity-twenty-first-century",
+  "number": "HH-2026-12",
+  "title": "Building Adaptive Capacity for the Twenty-First Century",
+  "subtitle": "Strategies for Thriving Amid Climate, Pollution, and Instability",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-10",
+  "updated": "2026-10-10",
+  "language": "en",
+  "pdf": "building-adaptive-capacity-twenty-first-century.pdf",
+  "pages": 46,
+  "dek": "Climate, pollution and instability act on the same people at the same time. A five-layer Capacity Stack for anticipating, absorbing and adapting to all three at once — and why capacity built early is cheaper than capacity improvised.",
+  "topics": [
+    "Climate Adaptation",
+    "Systemic Risk",
+    "Public Health",
+    "Development Finance"
+  ],
+  "abstract": [
+    "The twenty-first century is being shaped by three pressures acting on the same people at the same time: a warming climate, a polluted environment, and a more unstable political and economic order. Each is large on its own — 2025 was the second or third warmest year on record, air pollution contributed to 7.9 million deaths in 2023, and 2025 saw 65 conflicts involving states, the most since records began — but what distinguishes the present is their interaction. A heatwave becomes a harvest failure, a price spike, a fiscal squeeze and a displacement crisis; an energy-supply shock becomes a pollution crisis as households return to dirtier fuels. Repeated shocks can ratchet systems downward, because each one erodes the buffers needed to absorb the next.",
+    "This report argues that the variable that most reliably separates societies damaged by compound stress from those that come through it intact is adaptive capacity: the standing ability to anticipate, absorb, adapt to and, where necessary, transform in the face of shocks. It organises capacity into a five-layer Capacity Stack — sense and anticipate; buffer; distribute and diversify; protect people; and govern, finance and learn — and shows how each layer pays off against all three stressors. The report quantifies the gaps: international public adaptation finance of about US$26 billion in 2023 against estimated needs of US$310–365 billion a year by 2035; US$921 billion of net interest paid by developing countries in 2024; and a pollution burden that exceeds the measured toll of heat, disasters and conflict.",
+    "Two arguments distinguish the analysis. First, pollution control and clean energy are treated as adaptation investments, not only as mitigation: Beijing’s two-thirds cut in particulate pollution, the global phase-out of leaded petrol and the Montreal Protocol show that exposure can be cut fast, and the same measures strengthen health, productivity, fiscal buffers and energy security. Second, capacity must be designed for instability as well as weather, which favours reduced dependence, modularity, flexible finance and local control over attempts to forecast political shocks. Seven case studies — Bangladesh, Ahmedabad, Beijing, the Netherlands, Singapore, Ethiopia and Barbados — show that capacity is buildable at many income levels where institutions, budgets and feedback loops are sustained.",
+    "The report concludes with actor-specific strategies, a three-phase roadmap to 2050, a capacity scorecard, an analysis of the ways adaptation can fail, and ten commitments. Its central finding is that thriving under compound stress is a matter of design and timing: capacity built early, for more than one stress at a time, is cheaper, more effective and more equitable than capacity improvised after the damage is done."
+  ],
+  "findings": [
+    "Three pressures now act on the same people at the same time — 2025 was the second or third warmest year on record, air pollution contributed to 7.9 million deaths in 2023, and 2025 saw 65 state-involved conflicts, the most since records began — but what distinguishes the present is their interaction, not their individual size.",
+    "Repeated shocks ratchet systems downward, because each one erodes the buffers needed to absorb the next: a heatwave becomes a harvest failure, a price spike, a fiscal squeeze and a displacement crisis; an energy-supply shock becomes a pollution crisis as households return to dirtier fuels.",
+    "Adaptive capacity — the standing ability to anticipate, absorb, adapt to and where necessary transform — is the variable that most reliably separates societies damaged by compound stress from those that come through intact.",
+    "Capacity resolves into a five-layer stack, each layer paying off against all three stressors: sense and anticipate; buffer; distribute and diversify; protect people; and govern, finance and learn.",
+    "The financing gap is stark: international public adaptation finance of about US$26 billion in 2023 against estimated needs of US$310–365 billion a year by 2035, alongside US$921 billion of net interest paid by developing countries in 2024.",
+    "Pollution control and clean energy are adaptation investments, not only mitigation. Beijing’s two-thirds cut in particulate pollution, the phase-out of leaded petrol and the Montreal Protocol show exposure can be cut fast, and the same measures strengthen health, productivity, fiscal buffers and energy security.",
+    "Capacity must be designed for instability as well as weather, which favours reduced dependence, modularity, flexible finance and local control over attempts to forecast political shocks.",
+    "Thriving under compound stress is a matter of design and timing: capacity built early, for more than one stress at a time, is cheaper, more effective and more equitable than capacity improvised after the damage is done."
+  ],
+  "keywords": [
+    "adaptive capacity",
+    "resilience",
+    "compound risk",
+    "polycrisis",
+    "climate adaptation",
+    "air pollution",
+    "clean energy",
+    "early warning",
+    "adaptive social protection",
+    "adaptation finance",
+    "fiscal space",
+    "fragility and conflict",
+    "decision-making under deep uncertainty",
+    "maladaptation"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "Synthesis of institutional and peer-reviewed research, official statistics and country case material, including the WMO State of the Global Climate 2025, UNEP Adaptation Gap Report 2025 and Emissions Gap Report 2025, State of Global Air 2025, the 2025 Lancet Countdown, UCDP, IDMC, FAO SOFI 2026, UNCTAD A World of Debt, IEA World Energy Investment 2026 and Munich Re loss data. Conceptual figures are labelled as such. The analysis is a framework and synthesis, not a forecast.",
+  "contents": [
+    "1. Introduction: Thriving Under Compound Stress",
+    "2. The Triple Stress: Where the Evidence Stands",
+    "3. How Stresses Compound: From Polycrisis to Policy",
+    "4. Adaptive Capacity: A Working Framework",
+    "5. Layer 1 — Sense and Anticipate",
+    "6. Layer 2 — Buffer: Fiscal Space, Insurance and Natural Capital",
+    "7. Layer 3 — Distribute and Diversify: Energy, Water and Food Systems",
+    "8. Layer 4 — Protect People: Health, Social Protection and Skills",
+    "9. Layer 5 — Govern, Finance and Learn",
+    "10. Pollution Control as Adaptation Strategy",
+    "11. Building Capacity Under Instability",
+    "12. Seven Case Studies in Capacity",
+    "13. Strategies for Each Actor and a Phased Roadmap",
+    "14. Risks, Limits and the Ways Adaptation Fails",
+    "15. Conclusion: An Agenda for Thriving"
+  ],
+  "backmatter": [
+    "References and Further Reading"
+  ],
+  "doi": "10.5281/zenodo.23288010",
+  "license": "CC BY 4.0"
+}
