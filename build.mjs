@@ -560,7 +560,7 @@ ${r.topics.map((t) => `<meta property="article:tag" content="${esc(t)}">`).join(
     <section class="sect" id="contents">
       <h2 class="sect__h">Contents</h2>
       <ol class="toc">
-        ${r.contents.map(tocRow).join('\n        ')}
+        ${r.contents.map((c) => tocRow(c)).join('\n        ')}
         ${(r.backmatter || ['References and Further Reading']).map((b) => tocRow(b, true)).join('\n        ')}
       </ol>
     </section>
