@@ -1,0 +1,75 @@
+{
+  "slug": "polycrisis-resilience-cascading-shocks",
+  "number": "HH-2026-11",
+  "title": "Polycrisis Resilience in an Era of Cascading Shocks",
+  "subtitle": "How Societies Can Adapt to Interconnected Global Risks",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-10",
+  "updated": "2026-10-10",
+  "language": "en",
+  "pdf": "polycrisis-resilience-cascading-shocks.pdf",
+  "pages": 38,
+  "dek": "Why risks now travel together, how shocks cascade through coupled systems, and what governments, firms and communities can do to keep functioning — the evidence, a framework and a roadmap.",
+  "topics": [
+    "Systemic Risk",
+    "Climate Adaptation",
+    "Infrastructure",
+    "Development Finance"
+  ],
+  "abstract": [
+    "Major risks no longer arrive one at a time. The 2020s have delivered a pandemic, a war that disrupted energy and food markets, a surge in interest rates, record climate extremes and renewed geopolitical confrontation, each landing on societies whose reserves were drawn down by the last. This report examines how societies can remain functional, and keep improving, when shocks arrive together and propagate across the systems on which modern life depends.",
+    "The evidence base is stark. Seven of nine planetary boundaries are now transgressed, and the first Earth system tipping point, for warm-water coral reefs, has been crossed. The United Nations estimates the true annual cost of disasters at about US$2.3 trillion, roughly ten times the direct losses officially recorded, and 80–90 per cent of catastrophe losses in emerging economies are uninsured. Public debt reached a record of about US$102 trillion in 2024, and 61 developing countries now spend a tenth or more of government revenue on interest, eroding the buffers on which crisis response depends. Half of the experts surveyed by the World Economic Forum expect a turbulent or stormy world within two years.",
+    "The report argues that the unit of analysis for resilience must change from the single hazard to the interaction between systems. It reviews the causal pathways of entanglement (common stresses, domino effects and feedback loops), examines two real cascades, the 2025 Iberian blackout and the 2021 Texas freeze, and uses an illustrative network simulation to show how buffers, connectivity, simultaneous shocks and firebreaks determine whether a local failure stays local. In the simulation, raising shock tolerance from 18 to 30 per cent eliminates single-shock cascades; ten simultaneous failures can collapse a network that absorbs one; and a modular design with under 1 per cent of links crossing module boundaries confines a cascade to about 4 per cent of the system, a benefit that disappears once a few per cent of links cross.",
+    "Drawing on four cases, Bangladesh’s cyclone preparedness, the Netherlands’ Delta Programme, Finland’s comprehensive security model and Jamaica’s pre-arranged catastrophe finance, the report proposes a four-layer framework (prevent and decouple, absorb, adapt, transform) with seven design principles. It shows that reported returns on resilience investment run from about 2:1 to 10:1, sets out a playbook for six groups of actors, proposes a twelve-indicator dashboard, and closes with a three-phase roadmap, an account of the trade-offs and a statement of what evidence would change its argument."
+  ],
+  "findings": [
+    "Entanglement, not hazard count, is the problem. Crises are linked by common stresses, domino effects and feedback loops, so the combined harm exceeds the sum of the parts.",
+    "The evidence base is stark: seven of nine planetary boundaries are transgressed, the first Earth system tipping point — warm-water coral reefs — has been crossed, the UN puts the true annual cost of disasters at about US$2.3 trillion (roughly ten times officially recorded direct losses), and 80–90 per cent of catastrophe losses in emerging economies are uninsured.",
+    "The buffers that crisis response depends on are eroding: public debt reached a record of about US$102 trillion in 2024, and 61 developing countries now spend a tenth or more of government revenue on interest.",
+    "Buffers and firebreaks decide outcomes. In an illustrative model, shock tolerance is the strongest lever — raising it from 18 to 30 per cent eliminates single-shock cascades — simultaneous shocks widen the danger zone, and genuine modularity contains cascades, confining one to about 4 per cent of the system where under 1 per cent of links cross module boundaries.",
+    "Resilience pays, if built early. Reported benefit-cost ratios range from about 2:1 to 10:1, and just 24 hours of warning can cut damage by about 30 per cent.",
+    "Adapted societies share a pattern: early and sustained investment, institutions that outlast political cycles, distributed responsibility and continuous learning.",
+    "Pre-arranged finance and early warning are the highest-value starting points, and both remain unevenly available: 60 per cent of countries have multi-hazard warning, and small island states only 43 per cent."
+  ],
+  "keywords": [
+    "polycrisis",
+    "resilience",
+    "cascading failures",
+    "systemic risk",
+    "tipping points",
+    "compound shocks",
+    "interdependent infrastructure",
+    "disaster risk finance",
+    "early warning",
+    "adaptation",
+    "polycentric governance",
+    "network models",
+    "sovereign debt",
+    "protection gap"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "This report synthesises institutional and peer-reviewed research, including the World Economic Forum’s Global Risks Report 2026; Lawrence et al. on the causal mechanisms of global polycrisis; the 2025 Planetary Health Check; the Global Tipping Points Report 2025; the WMO’s State of the Global Climate 2025; UNDRR’s Global Assessment Report 2025; Swiss Re’s sigma 1/2026; UNCTAD’s A World of Debt; the World Bank’s Lifelines; the Global Commission on Adaptation; and primary and official sources on the Iberian blackout, Winter Storm Uri, Bangladesh, the Netherlands, Finland and Jamaica. Quantitative claims about the world are attributed inline. Figures 2, 3, 8 and 12 are conceptual schematics; Figure 7 is generated by an illustrative simulation described in the Appendix and is not an estimate for any real system; all other figures report values from the cited sources. The report is analytical rather than predictive.",
+  "contents": [
+    "1. Introduction: Resilience in a World of Entangled Risks",
+    "2. Understanding Polycrisis: Concepts and Mechanisms",
+    "3. The Risk Landscape in 2026",
+    "4. How Shocks Cascade: Lessons from Failures and Models",
+    "5. A Framework for Polycrisis Resilience",
+    "6. Lessons from Societies That Adapted",
+    "7. The Economics of Resilience",
+    "8. A Policy Playbook for Six Groups of Actors",
+    "9. Governance, Measurement and a Phased Roadmap",
+    "10. Trade-offs, Risks and the Limits of This Analysis",
+    "11. Conclusion: Building the Capacity to Keep Going"
+  ],
+  "backmatter": [
+    "Appendix: Methods, Data and the Illustrative Simulation"
+  ],
+  "doi": "10.5281/zenodo.23287750",
+  "license": "CC BY 4.0"
+}
