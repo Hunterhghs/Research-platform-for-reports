@@ -1,0 +1,87 @@
+{
+  "slug": "resilience-dividend-sustainable-development",
+  "number": "HH-2026-13",
+  "title": "The Resilience Dividend of Sustainable Development",
+  "subtitle": "Reducing Systemic Risk While Accelerating Human Progress",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-10",
+  "updated": "2026-10-10",
+  "language": "en",
+  "pdf": "resilience-dividend-sustainable-development.pdf",
+  "pages": 45,
+  "dek": "Why the investments that lift people up are the same investments that stop shocks from spreading.",
+  "topics": [
+    "Systemic Risk",
+    "Development Finance",
+    "Energy Transition",
+    "Climate Adaptation"
+  ],
+  "abstract": [
+    "Sustainable development and disaster-risk reduction are usually budgeted as rivals. This report argues that they are largely the same investment seen at two moments in time: before a shock, as a reduction in exposure and vulnerability; after it, as faster recovery. It tests that claim against the evidence of 2026, a year in which a war-driven oil and fertiliser shock, the largest supply disruption in the history of the oil market according to the IEA, coincided with a record 23 per cent fall in development aid and a UN finding that only 36 per cent of SDG targets are on track.",
+    "The report extends the triple dividend of resilience (avoided losses, induced economic benefits and co-benefits) with a fourth, cascade dampening: the reduction in losses that propagate between systems. It reviews five domains: energy, health and human capital, food-water-nature, social protection and finance, and infrastructure and early warning. In energy, renewables passed coal in 2025 at 33.8 per cent of world electricity, and Pakistan’s solar build-out is modelled to have avoided more than $12 billion of fossil-fuel imports by February 2026. In human capital, immunisation has averted an estimated 154 million deaths, and Bangladesh cut cyclone deaths from about 500,000 in 1970 to 26 in 2020. Against this, developing countries paid almost $1 trillion in net interest in 2025, international public adaptation finance ($26 billion) is a twelfth to a fourteenth of modelled need, and social-protection coverage in the 20 most climate-exposed countries is 8.7 per cent.",
+    "Reported benefit–cost ratios for resilience-building investments range from about 2:1 to above 50:1; even halved, they stay above break-even. An illustrative Monte Carlo model shows that cutting vulnerability by a quarter and cascade transmission by half reduces mean annual loss by 58 per cent and the 99th-percentile loss by 61 per cent, and cuts the probability of a severe year from 7.9 to 0.9 per cent. The report proposes a five-question Resilience Dividend Test, five investment bundles, a risk register, four scenarios to 2035 and a ten-indicator scorecard with 2026 baselines."
+  ],
+  "findings": [
+    "Sustainable development and disaster-risk reduction are largely the same investment seen at two moments in time: before a shock, as reduced exposure and vulnerability; after it, as faster recovery — yet they are routinely budgeted as rivals.",
+    "The familiar triple dividend of resilience (avoided losses, induced economic benefits, co-benefits) needs a fourth: cascade dampening, the reduction in losses that propagate between systems.",
+    "2026 is the test case: a war-driven oil and fertiliser shock — the largest supply disruption in the history of the oil market according to the IEA — coincided with a record 23 per cent fall in development aid and a UN finding that only 36 per cent of SDG targets are on track.",
+    "The dividend is already visible in the record: renewables passed coal in 2025 at 33.8 per cent of world electricity, Pakistan’s solar build-out is modelled to have avoided more than $12 billion of fossil-fuel imports by February 2026, immunisation has averted an estimated 154 million deaths, and Bangladesh cut cyclone deaths from about 500,000 in 1970 to 26 in 2020.",
+    "The financing runs the other way: developing countries paid almost $1 trillion in net interest in 2025, international public adaptation finance ($26 billion) is a twelfth to a fourteenth of modelled need, and social-protection coverage in the 20 most climate-exposed countries is just 8.7 per cent.",
+    "Reported benefit–cost ratios for resilience-building investments range from about 2:1 to above 50:1 — and even halved, they stay above break-even.",
+    "An illustrative Monte Carlo model shows that cutting vulnerability by a quarter and cascade transmission by half reduces mean annual loss by 58 per cent and the 99th-percentile loss by 61 per cent, and cuts the probability of a severe year from 7.9 to 0.9 per cent."
+  ],
+  "keywords": [
+    "resilience",
+    "sustainable development",
+    "systemic risk",
+    "polycrisis",
+    "cascade dampening",
+    "energy security",
+    "clean energy",
+    "social protection",
+    "early warning",
+    "adaptation finance",
+    "disaster risk reduction",
+    "human capital",
+    "Hormuz energy shock",
+    "SDGs"
+  ],
+  "jelCodes": [
+    "Q54",
+    "O13",
+    "Q01",
+    "Q43",
+    "I15",
+    "H12"
+  ],
+  "jelNote": "climate and natural disasters; economic development and the environment; sustainable development; energy; health and development; crisis management",
+  "method": "This report synthesises UN, World Bank, IEA, IRENA, Ember, FAO, WMO, UNDRR, UNEP, UNCTAD, OECD, WHO and insurer data (2024-26), published benefit-cost studies and peer-reviewed research. Every quantitative claim is linked inline and listed in Appendix B. Figures are classified as reported, modelled or illustrative in their captions; the Monte Carlo model (Figures 17-18, Appendix A) and the break-even arithmetic are the author’s own and carry no empirical claim.",
+  "contents": [
+    "Executive Summary",
+    "1. Introduction: Progress and Peril",
+    "2. A Framework: Systemic Risk and the Four Dividends",
+    "3. The Risk Landscape: What Development Must Defend Against",
+    "4. The Progress Record: What Development Has Already Delivered",
+    "5. Energy: The Security Dividend of Clean Power",
+    "6. Health and Human Capital: Resilient Bodies, Resilient Minds",
+    "7. Food, Water and Nature: Securing the Biophysical Base",
+    "8. Social Protection, Finance and Fiscal Resilience",
+    "9. Infrastructure, Early Warning and Prevention",
+    "10. Quantifying the Dividend: Returns, Haircuts and Cascades",
+    "11. Failure Modes: What Could Undermine the Dividend",
+    "12. Four Scenarios to 2035",
+    "13. Strategy: Actions, Roadmap and Scorecard",
+    "14. Conclusion: Treating Development as Defence"
+  ],
+  "backmatter": [
+    "Appendix A. Method Notes and Data Classification",
+    "Appendix B. Source Register",
+    "Appendix C. Glossary and Abbreviations"
+  ],
+  "doi": "10.5281/zenodo.23288409",
+  "license": "CC BY 4.0"
+}
