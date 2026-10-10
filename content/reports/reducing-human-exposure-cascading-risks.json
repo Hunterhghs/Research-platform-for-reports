@@ -1,0 +1,85 @@
+{
+  "slug": "reducing-human-exposure-cascading-risks",
+  "number": "HH-2026-10",
+  "title": "Reducing Human Exposure to Cascading Risks in an Age of Polycrisis",
+  "subtitle": "A Strategic Framework for Building Long-Term Resilience",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-10",
+  "updated": "2026-10-10",
+  "language": "en",
+  "pdf": "reducing-human-exposure-cascading-risks.pdf",
+  "pages": 48,
+  "dek": "How shrinking the number of people in harm’s way, loosening the links between failing systems, and enlarging financial and institutional buffers can reduce the human cost of coupled global crises.",
+  "topics": [
+    "Systemic Risk",
+    "Climate Adaptation",
+    "Development Finance",
+    "Infrastructure"
+  ],
+  "abstract": [
+    "The defining danger of the present period is not the size of any single hazard but the way hazards are coupled. Since 2020 a pandemic, an energy and food price shock, the sharpest global rise in borrowing costs in a generation, and an accelerating run of climate extremes have arrived on top of one another and transmitted stress into one another. This report treats that condition, commonly called polycrisis, as a problem of human exposure: the number of people who sit in the path of a shock, the strength of the channels through which one shock becomes several, and the size of the buffers that remain once a shock lands. Of the elements that determine human risk, hazard, exposure, vulnerability and coping capacity, the last three are products of policy and investment that can be changed within a political cycle.",
+    "The report documents the scale of exposure. Between 3.3 and 3.6 billion people live in settings highly vulnerable to climate change; 1.81 billion are exposed to a once-in-a-century flood; about two billion lack adequate social protection; more than a billion urban residents live in slums or informal settlements; and a record 83.4 million people were internally displaced at the end of 2024. These categories overlap and are concentrated in countries with the least fiscal room to respond: developing-country external debt reached US$11.4 trillion in 2024. A stylised threshold model constructed for the report shows why exposure compounds: below a critical level of coupling a shock stays local, above it the same shock sweeps through the system, and buffers push that critical level a long way out.",
+    "The report proposes a six-lever framework. Place keeps people and assets out of harm’s way; lifelines hardens power, water, health, food and data systems; anticipation turns warning into action before the shock; buffers strengthens household and public financial shock absorbers; livelihoods and health reduces biological and economic vulnerability; and circuit-breakers decouples systems so that failure does not spread. Together they address every term in the risk equation and every stage of a cascade. The returns are high, with benefit-cost ratios of roughly four to one for resilient infrastructure and nine to one for early warning, yet international public adaptation finance of about US$26 billion a year is a small fraction of the US$310 to 365 billion estimated to be needed by 2035.",
+    "The strategy is designed to work in an age of competition: most of its value can be captured domestically and regionally, it relies on subsidiarity and durable institutions, and it treats international support as a bonus and not a precondition. The report sets out a three-horizon roadmap to 2050, a dashboard of indicators for measuring progress, six cases from practice (Bangladesh, Ahmedabad, Jamaica, Kenya, Rwanda and Barbados), and ten priority actions for 2026 to 2030. Its central finding is that countries which absorb shocks well are distinguished less by wealth or hazard than by whether they built and protected the enabling capacity before the shocks arrived."
+  ],
+  "findings": [
+    "Of the four elements that determine human risk — hazard, exposure, vulnerability and coping capacity — the last three are products of policy and investment, and can be changed within a political cycle.",
+    "The scale of exposure is large and overlapping: 3.3 to 3.6 billion people live in settings highly vulnerable to climate change, 1.81 billion are exposed to a once-in-a-century flood, about two billion lack adequate social protection, more than a billion urban residents live in slums or informal settlements, and a record 83.4 million were internally displaced at the end of 2024.",
+    "That exposure is concentrated in the countries with the least fiscal room to respond, with developing-country external debt reaching US$11.4 trillion in 2024.",
+    "A stylised threshold model shows why exposure compounds: below a critical level of coupling a shock stays local, above it the same shock sweeps through the system — and buffers push that critical level a long way out.",
+    "Six levers address every term in the risk equation and every stage of a cascade: place, lifelines, anticipation, buffers, livelihoods and health, and circuit-breakers.",
+    "The returns are high and the financing is not: benefit-cost ratios run at roughly four to one for resilient infrastructure and nine to one for early warning, while international public adaptation finance of about US$26 billion a year is a small fraction of the US$310 to 365 billion estimated to be needed by 2035.",
+    "The strategy is built for an age of competition — most of its value is captured domestically and regionally, it relies on subsidiarity and durable institutions, and it treats international support as a bonus rather than a precondition.",
+    "The central finding is that countries which absorb shocks well are distinguished less by wealth or hazard than by whether they built and protected the enabling capacity before the shocks arrived."
+  ],
+  "keywords": [
+    "polycrisis",
+    "cascading risk",
+    "systemic risk",
+    "human exposure",
+    "vulnerability",
+    "resilience",
+    "disaster risk reduction",
+    "early warning",
+    "anticipatory action",
+    "adaptive social protection",
+    "critical infrastructure",
+    "heat-health action plans",
+    "disaster risk finance",
+    "climate adaptation",
+    "sovereign debt"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "This report synthesises institutional and peer-reviewed research, including the WEF Global Risks Report 2026, the IPCC Sixth Assessment Report, the UNDRR Global Assessment Report 2025, the 2025 Lancet Countdown, IDMC, UNHCR, World Bank, UNEP and UNCTAD publications. Every quantitative claim is attributed in the text to its source. Figures are of three kinds: charts of published data (Figures 2, 7, 8, 9 and 10), conceptual schematics (Figures 1, 3, 5, 6, 11 and 13), and analytical products created for this report — Figure 4 is a stylised simulation and Figure 12 a qualitative prioritisation. The report is analytical rather than predictive.",
+  "contents": [
+    "Executive Summary",
+    "1. Introduction: From Hazards to Exposure",
+    "2. The Anatomy of Cascading Risk",
+    "3. How Large Is Human Exposure?",
+    "4. Why Exposure Compounds: Stacking, Thresholds and Ratchets",
+    "5. A Strategic Framework: Six Levers to Reduce Exposure",
+    "6. Lever 1 — Place: Keeping People and Assets Out of Harm’s Way",
+    "7. Lever 2 — Lifelines: Hardening the Systems People Depend On",
+    "8. Lever 3 — Anticipation: Early Warning and Acting Before the Shock",
+    "9. Lever 4 — Buffers: Household and Public Financial Shock Absorbers",
+    "10. Lever 5 — Livelihoods and Health: Reducing Biological and Economic Vulnerability",
+    "11. Lever 6 — Circuit-Breakers: Decoupling Systems So Failure Does Not Spread",
+    "12. The Return on Resilience",
+    "13. Financing the Framework",
+    "14. Governing in an Age of Competition",
+    "15. Prioritisation and Sequencing",
+    "16. Lessons from Practice",
+    "17. Measuring Whether Exposure Is Falling",
+    "18. Conclusion: A Resilience Agenda for the Next Decade"
+  ],
+  "backmatter": [
+    "References and Further Reading"
+  ],
+  "doi": "10.5281/zenodo.23286984",
+  "license": "CC BY 4.0"
+}
