@@ -1,0 +1,90 @@
+{
+  "slug": "human-resilience-converging-risks",
+  "number": "HH-2026-14",
+  "title": "Human Resilience in a World of Converging Risks",
+  "subtitle": "Protecting Well-Being During the Age of Polycrisis",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-11",
+  "updated": "2026-10-11",
+  "language": "en",
+  "pdf": "human-resilience-converging-risks.pdf",
+  "pages": 59,
+  "dek": "What protects health, security, connection and hope when climate, economic, conflict, health and information risks arrive together — the evidence, the four layers of protection, and a ten-year path.",
+  "topics": [
+    "Systemic Risk",
+    "Public Health",
+    "Climate Adaptation",
+    "Water & Food Security"
+  ],
+  "abstract": [
+    "The polycrisis is usually described in the language of systems: shocks, cascades and feedback loops. It is lived in the language of ordinary life: whether there is enough to eat, whether a night in a heatwave is survivable, whether sleep comes, whether anyone calls. This report asks what determines whether people’s wellbeing is protected or eroded when climate, economic, conflict, health and information risks converge, and which strategies protect it most efficiently.",
+    "The human footprint is large and measurable. The ILO estimates that 3.8 billion people have no social protection; the UN’s latest food-security assessment finds 2.7 billion unable to afford a healthy diet and 645 million facing chronic hunger; the WHO estimates that more than a billion people live with a mental disorder; UNHCR counts 117.8 million forcibly displaced; and the WHO Commission on Social Connection finds about one in six people lonely. The World Economic Forum’s Global Risks Report 2026 finds half of surveyed experts expecting a turbulent or stormy world over two years.",
+    "The report organises the problem around a wellbeing-loss identity: the wellbeing lost to converging risks is approximately the product of exposure, sensitivity, duration and the absence of buffering. Each term is answered by a family of strategy — prevent, prepare, restore and buffer. The terms multiply, so a portfolio outperforms any single programme, and the evidence shows how much depends on what stands between a hazard and a person: in a 1995 Chicago heatwave, adjacent neighbourhoods had death rates of about 33 and 3 per 100,000; in Bangladesh, cyclone deaths fell roughly a hundred-fold across three decades of warnings, shelters and volunteers.",
+    "Four findings follow. Wellbeing is the right measure because its losses persist and its domains interact. Buffers decide outcomes, yet they are thinnest where hazards are greatest: social protection covers 9.7 per cent of people in low-income countries, fewer than one in ten affected people in low-income countries receives mental-health care, and mental health receives about 2 per cent of health budgets. Resilience is common but conditional — an illustrative simulation shows the share of people beyond a distress threshold after twenty years ranging from about 53 per cent with no buffers to about 9 per cent with protection at four layers. And the most effective protections are modest, evidence-backed and under-funded: shock-responsive cash, lay-delivered mental-health care, heat and early-warning systems, and neighbourhood social infrastructure.",
+    "The report sets out what individuals and households, communities, employers and schools, governments and international institutions can each do; reviews six cases; proposes a fifteen-indicator wellbeing-resilience dashboard; sequences action over ten years; and states the trade-offs, the limits of the evidence, and the findings that would change its argument."
+  ],
+  "findings": [
+    "The polycrisis is described in the language of systems but lived in the language of ordinary life — whether there is enough to eat, whether a night in a heatwave is survivable, whether anyone calls.",
+    "The human footprint is large and measurable: 3.8 billion people have no social protection (ILO), 2.7 billion cannot afford a healthy diet and 645 million face chronic hunger, more than a billion live with a mental disorder (WHO), 117.8 million are forcibly displaced (UNHCR), and about one in six people are lonely.",
+    "Wellbeing lost to converging risks is approximately the product of exposure, sensitivity, duration and the absence of buffering — and because the terms multiply, a portfolio of prevent, prepare, restore and buffer outperforms any single programme.",
+    "What stands between a hazard and a person decides the outcome: in the 1995 Chicago heatwave adjacent neighbourhoods recorded death rates of about 33 and 3 per 100,000, and in Bangladesh cyclone deaths fell roughly a hundred-fold across three decades of warnings, shelters and volunteers.",
+    "Buffers are thinnest where hazards are greatest: social protection covers 9.7 per cent of people in low-income countries, fewer than one in ten affected people there receives mental-health care, and mental health receives about 2 per cent of health budgets.",
+    "Resilience is common but conditional. An illustrative simulation puts the share of people beyond a distress threshold after twenty years at about 53 per cent with no buffers, against about 9 per cent with protection at four layers.",
+    "The most effective protections are modest, evidence-backed and under-funded: shock-responsive cash, lay-delivered mental-health care, heat and early-warning systems, and neighbourhood social infrastructure."
+  ],
+  "keywords": [
+    "polycrisis",
+    "wellbeing",
+    "resilience",
+    "mental health",
+    "psychosocial support",
+    "social protection",
+    "social infrastructure",
+    "social capital",
+    "loneliness",
+    "displacement",
+    "heat",
+    "early warning",
+    "food insecurity",
+    "climate anxiety",
+    "information environment",
+    "task-sharing",
+    "community resilience",
+    "Global South"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "This report synthesises institutional and peer-reviewed research, including the World Economic Forum’s Global Risks Report 2026; FAO et al.’s SOFI 2026; the ILO’s World Social Protection Report 2024–26; WHO’s 2025 mental-health reports and its Commission on Social Connection; UNHCR’s Global Trends and IDMC’s 2026 displacement report; the Lancet Countdown 2025 and State of Global Air 2025; the Cascade Institute’s work on polycrisis; and research by Ridley, McGuire, Wollburg, Hickman, Charlson, Bonanno, Masten, Hobfoll, Holt-Lunstad, Aldrich, Klinenberg, Hess, Chibanda, Chisholm and Knippenberg and Hoddinott. Every quantitative claim about the world is attributed inline with a hyperlink. Figures 1, 4–11, 15, 17 and 18 report values from the cited sources; Figures 2, 3, 13, 14, 16 and 19 are conceptual schematics; Figure 12 is an illustrative simulation whose structure and parameters are given in Appendix A and which is not an estimate for any population. Several global figures are modelled estimates, and some values come from secondary summaries and are flagged. The report is analytical rather than predictive and is not medical advice.",
+  "contents": [
+    "Executive Summary",
+    "1. Introduction: What the Polycrisis Ultimately Threatens",
+    "2. The Age of Polycrisis: Converging Risks and Their Human Footprint",
+    "3. A Framework for Protecting Wellbeing: Four Terms, Four Strategies",
+    "4. Material Security: Food, Income and the Cost of Living",
+    "5. Physical Health: Heat, Air, Disease and the Fragility of Care",
+    "6. Mental Health: Distress, Trauma and the Gap in Care",
+    "7. The Social Fabric: Connection, Displacement, Trust and the Information Environment",
+    "8. How Risks Compound in Human Lives",
+    "9. What Resilience Is, and What Builds It",
+    "10. Strategies for Individuals and Households",
+    "11. Community Strategies: Social Infrastructure and Local Networks",
+    "12. Workplaces, Schools and Organisations",
+    "13. Government and International Strategies: Protecting the Systems That Protect People",
+    "14. Lessons from Practice: Six Cases",
+    "15. Measuring What Matters: A Wellbeing-Resilience Dashboard",
+    "16. Priorities and Sequencing: A Ten-Year Path",
+    "17. Trade-offs, Limits and What Would Change the Argument",
+    "18. Conclusion: Protecting What the Polycrisis Threatens"
+  ],
+  "backmatter": [
+    "References and Further Reading",
+    "Appendix A: Method Note on the Illustrative Simulation",
+    "Appendix B: Glossary"
+  ],
+  "doi": "10.5281/zenodo.23289755",
+  "license": "CC BY 4.0"
+}
