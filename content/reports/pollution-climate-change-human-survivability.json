@@ -1,0 +1,87 @@
+{
+  "slug": "pollution-climate-change-human-survivability",
+  "number": "HH-2026-15",
+  "title": "Pollution, Climate Change, and Human Survivability",
+  "subtitle": "Strengthening Resilience Against Interacting Environmental Threats",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-11",
+  "updated": "2026-10-11",
+  "language": "en",
+  "pdf": "pollution-climate-change-human-survivability.pdf",
+  "pages": 46,
+  "dek": "How climate change, pollution, and ecosystem degradation compound each other — and where three pillars of resilience should intervene.",
+  "topics": [
+    "Climate Adaptation",
+    "Public Health",
+    "Systemic Risk",
+    "Water & Food Security"
+  ],
+  "abstract": [
+    "Climate change and pollution are usually studied, financed, and negotiated as separate problems. This report argues that they are better understood as two expressions of one industrial metabolism acting on the same bodies, ecosystems, and infrastructure at once, and that the interactions between them are the main reason the margin for human survivability is narrowing faster than either threat alone would imply. It asks what would be required to keep human populations safe, healthy, and economically viable through mid-century when climate change, pollution, and ecosystem degradation compound rather than arrive one at a time.",
+    "The threats are individually large. Air pollution was linked to 7.9 million deaths in 2023 and pollution of all kinds to about 9 million a year; heat is estimated to kill roughly 546,000 people annually; observed warming reached about 1.43 °C in 2025, with current policies pointing toward roughly 2.8 °C by 2100; and seven of nine planetary boundaries are now transgressed. They are also coupled. Heat raises ozone and wildfire-smoke exposure; drought concentrates water contaminants; ecosystem loss strips away the buffers that absorb both; and cooling pollution, once removed, unmasks warming. A qualitative interaction matrix identifies heat and drought, ecosystem loss, and food-system stress as the strongest amplifiers, and ecosystems and water systems as the most amplified. An illustrative stress model shows that counting interaction terms brings the point at which combined load exceeds today’s adaptive capacity forward by roughly a decade.",
+    "The burden is unequal: about nine in ten pollution deaths occur in low- and middle-income countries, 2.4 billion workers are exposed to excessive heat, and 2.1 billion people lack safely managed drinking water. The report proposes a strategy with three pillars — cutting the shared sources of climate and pollution risk, protecting people directly, and strengthening the natural and built systems that buffer them — supported by finance, governance, and data. Measures are prioritised by a double-duty test: how many threats each advances. Clean power, methane abatement, clean cooking, early warning, heat action plans, and ecosystem protection score highest and are largely proven, cost-effective, and ready to scale. The binding constraints are finance, with adaptation needs of US$310–365 billion a year against about US$26 billion in international public flows, and governance, with the plastics treaty unfinished. The conclusion is a priority, not a prophecy: fund, connect, and aim a response whose components already exist, before interacting threats outgrow the institutions that must manage them."
+  ],
+  "findings": [
+    "Climate change and pollution are better understood as two expressions of one industrial metabolism acting on the same bodies, ecosystems and infrastructure at once — not as separate problems to be studied, financed and negotiated apart.",
+    "Each threat is individually large: air pollution was linked to 7.9 million deaths in 2023 and pollution of all kinds to about 9 million a year, heat kills roughly 546,000 annually, observed warming reached about 1.43 °C in 2025 against current policies pointing to roughly 2.8 °C by 2100, and seven of nine planetary boundaries are transgressed.",
+    "They are also coupled: heat raises ozone and wildfire-smoke exposure, drought concentrates water contaminants, ecosystem loss strips away the buffers that absorb both, and cooling pollution unmasks warming once removed.",
+    "An interaction matrix identifies heat and drought, ecosystem loss and food-system stress as the strongest amplifiers, and ecosystems and water systems as the most amplified.",
+    "Counting the interaction terms matters: an illustrative stress model brings the point at which combined load exceeds today’s adaptive capacity forward by roughly a decade.",
+    "The burden is unequal — about nine in ten pollution deaths occur in low- and middle-income countries, 2.4 billion workers are exposed to excessive heat, and 2.1 billion people lack safely managed drinking water.",
+    "Prioritised by a double-duty test — how many threats each measure advances — clean power, methane abatement, clean cooking, early warning, heat action plans and ecosystem protection score highest, and are largely proven, cost-effective and ready to scale.",
+    "The binding constraints are finance and governance, not technology: adaptation needs of US$310–365 billion a year against about US$26 billion in international public flows, with the plastics treaty still unfinished."
+  ],
+  "keywords": [
+    "climate change",
+    "pollution",
+    "human survivability",
+    "resilience",
+    "compound risk",
+    "air pollution",
+    "heat stress",
+    "planetary boundaries",
+    "short-lived climate pollutants",
+    "adaptation finance",
+    "early warning",
+    "double-duty investment",
+    "environmental health",
+    "interacting threats"
+  ],
+  "jelCodes": [
+    "Q54",
+    "Q53",
+    "Q56",
+    "I18",
+    "O13"
+  ],
+  "jelNote": "climate and natural disasters; air and water pollution; environment and development; government policy and health; economic development and the environment",
+  "method": "This report synthesises institutional and peer-reviewed evidence, including the Global Carbon Budget 2025, the WMO State of the Global Climate 2025, the UNEP Emissions Gap Report 2025 and Adaptation Gap Report 2025, the State of Global Air 2025, the Lancet Countdown on health and climate change 2025, the Lancet Commission on Pollution and Health update, the Planetary Health Check 2025, the ILO’s 2024 report on workplace climate hazards, the WHO/UNICEF Joint Monitoring Programme 2025, IRENA’s 2024 cost data, and the Global Commission on Adaptation. Every quantitative claim is attributed inline to a source with a hyperlink. Figures 1, 2, 7, 15, and 21 are conceptual schematics; Figures 3 and 5 include rounded or derived values noted in their source lines. Figures for different years and methods are not additive. Appendix A records provenance, exclusions, and caveats. The report is analytical rather than predictive.",
+  "contents": [
+    "Executive Summary",
+    "1 Introduction: Three Threats, One Survivability Question",
+    "2 A Framework for Survivability and Resilience",
+    "3 The Climate Threat: Where the World Stands",
+    "4 The Pollution Threat: A Larger and Less Visible Burden",
+    "5 How Pollution and Climate Change Interact",
+    "6 Heat, Air, and the Human Body",
+    "7 Water, Food, and Livelihoods",
+    "8 Ecosystems and Planetary Boundaries",
+    "9 Who Bears the Risk: Vulnerability and Inequality",
+    "10 A Strategy for Resilience: Architecture and Priorities",
+    "11 Pillar One: Cut the Shared Sources",
+    "12 Pillar Two: Protect People Directly",
+    "13 Pillar Three: Strengthen Systems and Ecosystems",
+    "14 Finance and Governance: The Enabling Layer",
+    "15 Roadmap and Monitoring, 2026–2050",
+    "16 Conclusion: Widening the Margin"
+  ],
+  "backmatter": [
+    "Appendix A: Data Notes and Source Index"
+  ],
+  "doi": "10.5281/zenodo.23290442",
+  "license": "CC BY 4.0"
+}
