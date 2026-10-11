@@ -1,0 +1,82 @@
+{
+  "slug": "geography-of-resilience-global-south",
+  "number": "HH-2026-16",
+  "title": "The Geography of Resilience in the Global South",
+  "subtitle": "Where Investments Could Most Reduce Future Risk",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-11",
+  "updated": "2026-10-11",
+  "language": "en",
+  "pdf": "geography-of-resilience-global-south.pdf",
+  "pages": 55,
+  "dek": "Resilience finance is scarce and barely correlated with vulnerability. Scoring 122 economies on risk intensity, risk mass and deliverability to show where each dollar would do the most.",
+  "topics": [
+    "Climate Adaptation",
+    "Development Finance",
+    "Emerging Markets",
+    "Systemic Risk"
+  ],
+  "abstract": [
+    "Resilience finance is scarce, and where it lands matters. UNEP estimates that developing countries need US$310 to 365 billion a year for adaptation by 2035, against about US$26 billion of international public flows in 2023, and independent analysis finds almost no correlation between adaptation finance per head and vulnerability. This report asks where resilience investments in the Global South could most reduce future risk.",
+    "Using the open INFORM Risk Index (mid-2026 release) and World Bank data, it scores 122 low- and middle-income economies, home to about 6.8 billion people, on three measures: risk intensity (the geometric mean of natural-hazard exposure, vulnerability and lack of coping capacity), risk mass (intensity times population) and deliverability (a discount for weak governance and conflict). The measures define two lenses, where the prize is and where each dollar works hardest, and five tiers: scale anchors, a return frontier, a fragile frontier, a small-state niche, and a group to maintain and mainstream.",
+    "Fourteen scale anchors hold 70 per cent of delivery-adjusted risk mass and 72 per cent of the people; India and China alone hold 39 per cent. Return intensity per person is highest in smaller, poorer and more exposed countries, including Madagascar, Papua New Guinea, the Solomon Islands, Haiti, Vanuatu and Honduras. Vulnerability, not hazard exposure, separates countries by risk, and 60 per cent of the risk-weighted population lives in thirteen countries facing compound hazards. The mass ranking is almost immune to reweighting, while the return ranking depends on how heavily fragility is discounted.",
+    "A review of the evidence supports sequencing investment from risk knowledge, warning and cushioning through to protective infrastructure: disaster mortality is nearly six times lower where early warning is comprehensive, and reported benefit-cost ratios run from 2:1 to 10:1. Enabling conditions are weakest where risk is highest, with social-protection coverage of 13 per cent in the fragile frontier against 54 per cent in the anchors. The report closes with allocation guardrails, ten recommendations, a three-horizon roadmap to 2040 and a monitoring scorecard."
+  ],
+  "findings": [
+    "Resilience finance is both scarce and badly aimed: developing countries need US$310–365 billion a year for adaptation by 2035 against about US$26 billion of international public flows in 2023, and independent analysis finds almost no correlation between adaptation finance per head and vulnerability.",
+    "Two lenses answer different questions. Risk mass shows where the prize is; deliverability-adjusted return intensity shows where each dollar works hardest — and they point to different countries.",
+    "Fourteen scale anchors hold 70 per cent of delivery-adjusted risk mass and 72 per cent of the people, with India and China alone holding 39 per cent.",
+    "Return intensity per person is highest in smaller, poorer and more exposed countries — Madagascar, Papua New Guinea, the Solomon Islands, Haiti, Vanuatu and Honduras among them.",
+    "Vulnerability, not hazard exposure, is what separates countries by risk, and 60 per cent of the risk-weighted population lives in thirteen countries facing compound hazards.",
+    "The two rankings differ in robustness: the mass ranking is almost immune to reweighting, while the return ranking depends on how heavily fragility is discounted.",
+    "The evidence supports sequencing from risk knowledge, warning and cushioning through to protective infrastructure: disaster mortality is nearly six times lower where early warning is comprehensive, and reported benefit-cost ratios run from 2:1 to 10:1.",
+    "Enabling conditions are weakest exactly where risk is highest — social-protection coverage is 13 per cent in the fragile frontier against 54 per cent in the scale anchors."
+  ],
+  "keywords": [
+    "resilience",
+    "climate adaptation",
+    "disaster risk",
+    "Global South",
+    "investment prioritisation",
+    "early warning",
+    "social protection",
+    "adaptation finance"
+  ],
+  "jelCodes": [
+    "Q54",
+    "Q56",
+    "O12",
+    "O19",
+    "H54"
+  ],
+  "jelNote": "climate and natural disasters; environment and development; economic development; infrastructures and other public investment",
+  "method": "The analysis uses the INFORM Risk Index mid-2026 release (European Commission Joint Research Centre, CC BY 4.0), World Bank Open Data and published institutional research available to October 2026. The country scores, tiers and archetypes are H Heuristics calculations; they are a prioritisation heuristic, not a cost-benefit analysis. Statistics from other organisations are attributed and hyperlinked in the text and in Appendix C.",
+  "contents": [
+    "Key Findings",
+    "1. Introduction: Resilience Has an Address",
+    "2. The Risk Geography of the Global South",
+    "3. A Framework for Locating Resilience Investment",
+    "4. Where the Prize Is: Risk Mass and the Scale Anchors",
+    "5. Where Each Dollar Works Hardest: The Return, Fragile and Small-State Frontiers",
+    "6. Robustness: What Survives Reasonable Disagreement",
+    "7. Hazard Archetypes and the Investment Portfolio",
+    "8. What Works: Evidence on the Returns to Resilience Investment",
+    "9. Enabling Conditions: Money, Warning, Protection and Infrastructure",
+    "10. Inside the Country: Subnational Hotspots",
+    "11. Regional Playbooks",
+    "12. Allocation Implications: Reweighting Resilience Finance",
+    "13. Recommendations and a Roadmap to 2040",
+    "14. Limitations and a Research Agenda"
+  ],
+  "backmatter": [
+    "Appendix A. Methods and Data",
+    "Appendix B. Country Results",
+    "Appendix C. Sources and Links"
+  ],
+  "doi": "10.5281/zenodo.23290679",
+  "license": "CC BY 4.0"
+}
