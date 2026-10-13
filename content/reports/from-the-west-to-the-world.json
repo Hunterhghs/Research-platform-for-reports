@@ -1,0 +1,79 @@
+{
+  "slug": "from-the-west-to-the-world",
+  "number": "HH-2026-17",
+  "title": "From the West to the World",
+  "subtitle": "Western Innovations That Have Already Diffused Across the Globe, and What the Record Teaches",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-13",
+  "updated": "2026-10-13",
+  "language": "en",
+  "pdf": "from-the-west-to-the-world.pdf",
+  "pages": 38,
+  "dek": "Debate about technology and development is usually conducted in the future tense. This report looks at what has already happened — which innovations reached the rest of the world, how completely, and what the record teaches about how diffusion works.",
+  "topics": [
+    "Technology & Innovation",
+    "Emerging Markets",
+    "Public Health",
+    "Infrastructure"
+  ],
+  "abstract": [
+    "Policy debate about technology and development is usually conducted in the future tense: what emerging economies might adopt, what they could leapfrog, what must be transferred. This report looks instead at what has already happened. It asks which innovations that first took scalable form in the Western world have diffused to the rest of it, how completely, and what the record shows about how diffusion works. By the mid-2020s about 92 per cent of people had electricity, 74 per cent were online, 79 per cent of adults held an account, 88 per cent of adults could read, and 85 per cent of infants received three doses of the DTP vaccine; the sovereign nation-state, which numbered 51 in the United Nations in 1945, numbered 193.",
+    "Applying four tests, reach, spread, local anchoring and persistence, to eight domains (health, energy and industry, food, transport and trade, information and communication, the state, law and education, finance and standards, and language, sport and culture), the report finds three clusters. Three of eleven indicators are near-complete at 85 per cent or more, six are substantial at 70 to 85 per cent, and two remain partial: safely managed sanitation at 58 per cent and democratic government in 49 per cent of countries. Diffusion follows the structure of an innovation more than its age. Household- and individual-scale technologies such as phones and vaccines spread fastest; network goods that need public capital, such as sewers and grids, spread slowest; and institutional forms spread more completely than the practices that give them substance.",
+    "The record also shows that arrival has become faster than depth. Radio took about six years to move from 10 to 50 per cent of US households and the internet nine, against 43 for the landline; yet gaps in intensity of use persist, with a typical high-income mobile user generating nearly eight times the data of a low-income one. The remaining gaps are concentrated: sub-Saharan Africa has electricity access of 55 per cent against 92 per cent worldwide. Finally, diffusion has erased the originator’s monopoly. Residents of China now file roughly half of the world’s patent applications, mobile money and real-time payments originate in Kenya and India, and, by the IEA’s 2022 count, China held more than 80 per cent of every stage of solar-panel manufacturing, a technology first demonstrated at Bell Laboratories. Early evidence on generative AI suggests the same pattern at higher speed: a leader-to-laggard gap of about 1.8 to one, against 53 to one for the internet in 2005, but with the hard capabilities still concentrated."
+  ],
+  "findings": [
+    "The record is already substantial: by the mid-2020s about 92 per cent of people had electricity, 74 per cent were online, 79 per cent of adults held an account, 88 per cent of adults could read, and 85 per cent of infants received three doses of the DTP vaccine.",
+    "Across eleven indicators, three are near-complete at 85 per cent or more and six substantial at 70 to 85 per cent; only two remain partial — safely managed sanitation at 58 per cent, and democratic government in 49 per cent of countries.",
+    "Diffusion follows the structure of an innovation more than its age: household- and individual-scale technologies such as phones and vaccines spread fastest, network goods needing public capital such as sewers and grids spread slowest.",
+    "Institutional forms spread more completely than the practices that give them substance — the nation-state went from 51 UN members in 1945 to 193, while democratic government reached only half of countries.",
+    "Arrival has become faster than depth. Radio took about six years to move from 10 to 50 per cent of US households and the internet nine, against 43 for the landline; yet a typical high-income mobile user generates nearly eight times the data of a low-income one.",
+    "The remaining gaps are concentrated rather than general: sub-Saharan Africa has electricity access of 55 per cent against 92 per cent worldwide.",
+    "Diffusion has erased the originator’s monopoly. Residents of China file roughly half of the world’s patent applications, mobile money and real-time payments originate in Kenya and India, and China held more than 80 per cent of every stage of solar-panel manufacturing by the IEA’s 2022 count — a technology first demonstrated at Bell Laboratories.",
+    "Early evidence on generative AI suggests the same pattern at higher speed: a leader-to-laggard gap of about 1.8 to one, against 53 to one for the internet in 2005, but with the hard capabilities still concentrated."
+  ],
+  "keywords": [
+    "technology diffusion",
+    "innovation",
+    "adoption lags",
+    "development",
+    "globalisation",
+    "institutions",
+    "health",
+    "digital infrastructure",
+    "artificial intelligence"
+  ],
+  "jelCodes": [
+    "O33",
+    "O30",
+    "O19",
+    "O57",
+    "F63"
+  ],
+  "jelNote": "technological change and diffusion; innovation; international linkages to development; comparative studies of countries; economic development",
+  "method": "This report synthesises institutional and peer-reviewed research, drawing mainly on World Bank, UN, ITU, WHO, UNICEF, FAO, WIPO, IEA and Our World in Data publications and datasets available to October 2026. All charts are built from public series downloaded for this report; the source of each is stated beneath it. Some 2025 and 2026 figures are preliminary or modelled and may be revised. Attribution of origin is conventional and sometimes contested. Figure 2 is a stylised illustration, not data, and the figures on generative AI come from a single company’s estimates.",
+  "contents": [
+    "1. Introduction: An Invention Is Not a Neighbourhood",
+    "2. How Innovations Diffuse: Lags, Curves and Channels",
+    "3. Health and Medicine: The Fastest Gains in Human History",
+    "4. Energy and Industry: Electricity, Engines and the Factory",
+    "5. Food and Agriculture: Fertiliser, Seeds and the Yield Revolution",
+    "6. Transport and Trade: Rails, Wings and the Standard Box",
+    "7. Information and Communication: From Print to the Smartphone",
+    "8. The State, the Law and the School: Institutions That Travelled",
+    "9. Finance, Commerce and Standards: The Plumbing of the Global Economy",
+    "10. Language, Sport and Everyday Culture",
+    "11. Beyond the West: Debts, Counter-Flows and a Shifting Centre of Invention",
+    "12. Where Diffusion Is Incomplete",
+    "13. Lessons and the Next Test: What Diffusion Teaches About What Comes Next"
+  ],
+  "backmatter": [
+    "References and Further Reading",
+    "Appendix A. Data Notes and Reproducibility"
+  ],
+  "doi": "10.5281/zenodo.23330745",
+  "license": "CC BY 4.0"
+}

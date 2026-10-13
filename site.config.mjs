@@ -56,6 +56,7 @@ export default {
     'Development Finance',
     'Energy Transition',
     'Infrastructure',
+    'Technology & Innovation',
     'Institutions & Governance',
     'Public Health',
     'Water & Food Security',
