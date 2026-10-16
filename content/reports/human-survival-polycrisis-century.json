@@ -1,0 +1,88 @@
+{
+  "slug": "human-survival-polycrisis-century",
+  "number": "HH-2026-18",
+  "title": "Human Survival in the Polycrisis Century",
+  "subtitle": "Exposure, Vulnerability, and Risk Reduction From 2025–2100",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-17",
+  "updated": "2026-10-17",
+  "language": "en",
+  "pdf": "human-survival-polycrisis-century.pdf",
+  "pages": 47,
+  "dek": "How many people the entangled crises of the century could kill, who is most exposed and vulnerable, and how much of the toll is avoidable: measured evidence, a transparent scenario model and an honest account of the catastrophic tail.",
+  "topics": [
+    "Systemic Risk",
+    "Public Health",
+    "Climate Adaptation",
+    "Emerging Markets"
+  ],
+  "abstract": [
+    "Whether humanity will survive the century is really three questions: how many people will die of causes that can be prevented, whether correlated shocks could break the systems that keep most people alive, and whether any combination of hazards could end the species. This report keeps the three apart, measures the first, bounds the second and summarises the evidence on the third. It frames risk as hazard multiplied by exposure and vulnerability and divided by capacity, and it asks how each term evolves between 2025 and 2100 in a polycrisis, a world in which crises in several systems are causally entangled.",
+    "Part one assembles the measured baseline. Air pollution is linked to about 7.9 million deaths a year, unsafe water to about 1.4 million, antimicrobial resistance to about 1.1 million, heat to about 546,000 and organised violence to about 245,000, while reported disasters killed about 17,000 people in 2025. Warming is on course for between about 1.9 and 2.8 degrees by 2100; about 60 million people already face dangerous annual heat and about 2 billion would at 2.7 degrees; the population will peak near 10.3 billion in the 2080s, with people aged 65 and over outnumbering children by 2080 and about a third of humanity living in sub-Saharan Africa. Bangladesh shows that vulnerability can fall quickly: cyclone deaths fell from hundreds of thousands in 1970 to fewer than thirty in 2020.",
+    "Part two builds the Survival Exposure–Vulnerability Model, an accounting model with 20,000 Monte Carlo draws over six pathways and three worlds. About 12.8 million deaths a year are attributable to these stressors today. Cumulative attributable deaths to 2100 are about 757 million (10th to 90th percentile: 658 to 862 million) in a mobilised world, 1.14 billion (1.05 to 1.23 billion) on a muddling-through path and 1.55 billion (1.45 to 1.66 billion) in a drifting world. Mobilisation avoids about 380 million deaths relative to muddling through and about 790 million relative to drift, more than half of them through cleaner air; about 540 million come from reducing hazards and about 360 million from reducing vulnerability, with overlap. Ageing alone adds about 490 million deaths to the drifting world. A ten-year delay costs about 140 million lives. The ranking of worlds is robust to every variation tested; the size of the gaps is not.",
+    "The catastrophic tail cannot be modelled in the same way. In a 2022 forecasting tournament, domain experts gave a 6 per cent chance of human extinction and a 20 per cent chance of a catastrophe killing a tenth of humanity by 2100, and superforecasters 1 and 9 per cent. Weapons and pathogens, not climate change, dominate the tail, and the governing institutions are weakening: New START lapsed in February 2026, the pandemic agreement’s pathogen-sharing annex is unfinished, and aid fell 23 per cent in real terms in 2025. The report concludes that the century’s survival problem is mostly chronic, mostly avoidable and mostly decided by delivery, and proposes eight priorities and a thirteen-indicator survival dashboard."
+  ],
+  "findings": [
+    "Survival is three distinct questions — preventable chronic mortality, correlated shocks breaking life-support systems, and species-ending hazards — and conflating them is what makes the debate unproductive. This report measures the first, bounds the second and summarises the evidence on the third.",
+    "The measured baseline is dominated by chronic causes: air pollution is linked to about 7.9 million deaths a year, unsafe water to about 1.4 million, antimicrobial resistance to about 1.1 million, heat to about 546,000 and organised violence to about 245,000, against roughly 17,000 from reported disasters in 2025.",
+    "About 12.8 million deaths a year are currently attributable to these stressors. Cumulative attributable deaths to 2100 run from about 757 million in a mobilised world to 1.14 billion on a muddling-through path and 1.55 billion in a drifting world.",
+    "Mobilisation avoids about 380 million deaths relative to muddling through and about 790 million relative to drift — more than half of them through cleaner air, with roughly 540 million from reducing hazards and 360 million from reducing vulnerability.",
+    "Demography is a first-order term in its own right: ageing alone adds about 490 million deaths to the drifting world, and a ten-year delay costs about 140 million lives.",
+    "The ranking of the three worlds is robust to every variation tested; the size of the gaps between them is not.",
+    "The catastrophic tail resists the same treatment, and is dominated by weapons and pathogens rather than climate: in a 2022 forecasting tournament domain experts gave a 6 per cent chance of extinction and 20 per cent of a catastrophe killing a tenth of humanity by 2100, against 1 and 9 per cent from superforecasters.",
+    "The institutions governing that tail are weakening — New START lapsed in February 2026, the pandemic agreement’s pathogen-sharing annex is unfinished, and aid fell 23 per cent in real terms in 2025 — which is why the century’s survival problem is mostly chronic, mostly avoidable and mostly decided by delivery.",
+    "Vulnerability can fall fast where it is attacked directly: Bangladesh cut cyclone deaths from hundreds of thousands in 1970 to fewer than thirty in 2020."
+  ],
+  "keywords": [
+    "human survival",
+    "polycrisis",
+    "mortality risk",
+    "exposure and vulnerability",
+    "climate change",
+    "air pollution",
+    "heat",
+    "antimicrobial resistance",
+    "early warning",
+    "population ageing",
+    "catastrophic risk",
+    "existential risk",
+    "scenario modelling",
+    "Monte Carlo"
+  ],
+  "jelCodes": [
+    "Q54",
+    "Q56",
+    "I15",
+    "I18",
+    "J11",
+    "D81"
+  ],
+  "jelNote": "climate and natural disasters; environment and development; health and economic development; public health; demographic trends; decision-making under uncertainty",
+  "method": "This report synthesises primary and authoritative secondary sources through October 2026; every quantitative claim about the world is linked inline. Figures 3, 5, 6, 7, 17, 18 and 19 report values from cited sources (population shares in Figures 6 and 7 are anchored on published UN figures, with the 2024 sub-Saharan Africa value derived; Figure 18 also shows model outputs), Figures 1, 2, 8, 9 and 20 are conceptual schematics or qualitative assessments, Figure 4 combines published estimates with model paths, and Figures 10 to 16 are outputs of the Survival Exposure–Vulnerability Model, an illustrative accounting model whose parameters and equations are given in Appendix A. Several sources were read through secondary summaries, as noted in the text. The report is analytical rather than predictive and contains no investment advice.",
+  "contents": [
+    "1. Introduction: Survival Is Not One Question",
+    "2. Framework: Exposure, Vulnerability and Mortality Risk",
+    "3. The Baseline: Who Dies Now, and Why",
+    "4. Hazard Trajectories to 2100",
+    "5. Exposure: A Larger, Older, More Urban World",
+    "6. Vulnerability: Where Harm Lands",
+    "7. Pathways and Cascades",
+    "8. The Survival Exposure–Vulnerability Model",
+    "9. Results: Mortality Under Three Worlds",
+    "10. The Catastrophic Tail",
+    "11. What Reduces Risk: An Evidence-Ranked Portfolio",
+    "12. Governance, Finance and the Delivery Problem",
+    "13. A Strategic Pathway, 2025 to 2100",
+    "14. Conclusions and Priorities"
+  ],
+  "backmatter": [
+    "Appendix A. Model Specification",
+    "Appendix B. Sources by Theme"
+  ],
+  "doi": "10.5281/zenodo.23427894",
+  "license": "CC BY 4.0"
+}
