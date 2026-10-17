@@ -1,0 +1,82 @@
+{
+  "slug": "weight-of-the-polycrisis",
+  "number": "HH-2026-19",
+  "title": "The Weight of the Polycrisis",
+  "subtitle": "Human Suffering in a Warming, Polluted and Unequal World",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-17",
+  "updated": "2026-10-17",
+  "language": "en",
+  "pdf": "weight-of-the-polycrisis.pdf",
+  "pages": 45,
+  "dek": "How air pollution, heat, hunger and poverty harm the body and mind, how feedback loops make the suffering self-reinforcing, and why it will be prolonged for centuries in the regions where survival is most at risk.",
+  "topics": [
+    "Public Health",
+    "Systemic Risk",
+    "Climate Adaptation",
+    "Water & Food Security"
+  ],
+  "abstract": [
+    "Most accounts of the global polycrisis count dollars, degrees and hectares. This report counts breaths, nights, meals and homes. It asks what the interlocking crises of pollution, heat, hunger, poverty and disaster do to the human body and mind, how those harms feed one another, and how long they will last once the physical climate has been committed to a warmer course. Its thesis is that the polycrisis is best understood as a single system of exposures that acts on people through a small number of biological pathways and that contains reinforcing feedback loops, which make the suffering self-sustaining and, on current trajectories, steadily worse.",
+    "The evidence for the present is already stark. Air pollution caused about 7.9 million deaths in 2023, 86 per cent of them from heart, brain and lung disease rather than respiratory infection; pollution of all kinds causes about nine million deaths a year, 92 per cent in low- and middle-income countries. Heat kills an estimated 546,000 people a year, exposes 2.41 billion workers, steals sleep and endangers pregnancy. Some 645 million people are chronically hungry, 2.1 billion lack safe drinking water and about 2.09 billion cook with polluting fuels. The report traces these harms through the lungs and heart, through core temperature and kidneys, through water, food and disease, and through mental health, displacement, conflict and poverty, and shows how they connect into six reinforcing loops (energy-poverty, heat-power, fire-smoke, poverty-disaster, carbon-cycle and conflict-food) together with a perverse balancing loop in which cleaning the air unmasks warming.",
+    "Looking forward, the harms grow non-linearly with warming: roughly 140 million more people are exposed to dangerous heat for every 0.1 °C, and the difference between rapid decarbonisation and high emissions is measured in about 74 million excess heat deaths this century and 170 million internal climate migrants by 2050. Over centuries, the persistence of carbon dioxide, the inertia of the sea and ice sheets and slow tipping elements prolong the damage: sea level rise by 2300 ranges from about 0.3 to 3.1 m under low emissions to 1.7 to 6.8 m or more under very high emissions. The report assesses ten survivability risk areas, led by the Indo-Gangetic Plain, the Sahel and Horn of Africa and Central America, where hazards overlap with limited adaptive capacity. A transparent stylised model suggests that, summed over 2025 to 2300, current policies produce about 4.4 times as much climate-sensitive suffering as rapid decarbonisation, and high emissions about 36 times as much. The report concludes that the pollution, climate and poverty agendas are one, that much suffering is preventable now, and that the long tail is a choice."
+  ],
+  "findings": [
+    "The polycrisis is best understood as a single system of exposures acting on people through a small number of biological pathways — not as separate crises that happen to coincide.",
+    "The present burden is already stark: air pollution caused about 7.9 million deaths in 2023, 86 per cent from heart, brain and lung disease rather than respiratory infection, and pollution of all kinds causes about nine million deaths a year, 92 per cent of them in low- and middle-income countries.",
+    "Heat kills an estimated 546,000 people a year, exposes 2.41 billion workers, steals sleep and endangers pregnancy, while 645 million people are chronically hungry, 2.1 billion lack safe drinking water and about 2.09 billion cook with polluting fuels.",
+    "Six reinforcing loops — energy-poverty, heat-power, fire-smoke, poverty-disaster, carbon-cycle and conflict-food — make the suffering self-sustaining, alongside a perverse balancing loop in which cleaning the air unmasks warming.",
+    "Harm grows non-linearly with warming: roughly 140 million more people are exposed to dangerous heat for every 0.1 °C, and the gap between rapid decarbonisation and high emissions is about 74 million excess heat deaths this century and 170 million internal climate migrants by 2050.",
+    "The damage is prolonged by physical inertia: sea level rise by 2300 ranges from about 0.3 to 3.1 m under low emissions to 1.7 to 6.8 m or more under very high emissions.",
+    "Ten survivability risk areas are assessed, led by the Indo-Gangetic Plain, the Sahel and Horn of Africa, and Central America — the places where hazards overlap with limited adaptive capacity.",
+    "Summed over 2025 to 2300, a stylised model puts current policies at about 4.4 times as much climate-sensitive suffering as rapid decarbonisation, and high emissions at about 36 times as much — so the pollution, climate and poverty agendas are one, much suffering is preventable now, and the long tail is a choice."
+  ],
+  "keywords": [
+    "polycrisis",
+    "human suffering",
+    "air pollution",
+    "heat stress",
+    "climate health",
+    "feedback loops",
+    "poverty",
+    "tipping points",
+    "sea level rise",
+    "survivability",
+    "climate justice",
+    "planetary health"
+  ],
+  "jelCodes": [
+    "Q54",
+    "Q53",
+    "I15",
+    "I14",
+    "O15"
+  ],
+  "jelNote": "climate and natural disasters; air and water pollution; health and economic development; inequality and poverty",
+  "method": "This report synthesises primary and authoritative secondary sources through October 2026; every quantitative claim is linked inline. Figures 2, 3, 5, 7 to 9, 11, 12 and 14 report values from cited sources; Figures 1, 4, 6, 10, 13, 15 and 16 are conceptual schematics or H Heuristics renderings of cited results; Figures 17 and 18 are H Heuristics structured assessments; and Figure 20 is an illustrative stylised model whose assumptions are stated (Appendix A). Burden figures overlap and must not be summed. The report is analytical rather than predictive, and contains no investment or medical advice.",
+  "contents": [
+    "1. Introduction: Counting Suffering in a Polycrisis",
+    "2. The Present Burden: What the Polycrisis Already Costs",
+    "3. Breathing the Polycrisis: Air Pollution and the Body",
+    "4. Heat: The Body at the Limit",
+    "5. Water, Food and Disease",
+    "6. The Mind, the Household and the Community",
+    "7. The Pollution, Climate and Poverty Cycle",
+    "8. How the Suffering Grows: The Century Ahead",
+    "9. Prolonged Over Centuries: The Long Tail of a Warming Planet",
+    "10. Survivability Risk Areas",
+    "11. Who Bears the Weight",
+    "12. Bending the Curve: What Reduces Suffering",
+    "13. Conclusion"
+  ],
+  "backmatter": [
+    "Appendix A. Method Notes and Assumptions",
+    "References and Further Reading"
+  ],
+  "doi": "10.5281/zenodo.23428159",
+  "license": "CC BY 4.0"
+}
