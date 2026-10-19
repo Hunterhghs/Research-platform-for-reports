@@ -1,0 +1,85 @@
+{
+  "slug": "convergence-before-crisis",
+  "number": "HH-2026-20",
+  "title": "Convergence Before Crisis",
+  "subtitle": "Accelerating Global Development to Reduce Systemic Vulnerability",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-20",
+  "updated": "2026-10-20",
+  "language": "en",
+  "pdf": "convergence-before-crisis.pdf",
+  "pages": 50,
+  "dek": "The case for accelerating development is usually moral and economic. This report adds a third argument — timing: several slow stresses are set to peak together between 2040 and 2060, and development cuts vulnerability far faster than mitigation cuts hazard.",
+  "topics": [
+    "Emerging Markets",
+    "Development Finance",
+    "Climate Adaptation",
+    "Systemic Risk"
+  ],
+  "abstract": [
+    "The conventional case for accelerating development in poor countries is moral and economic. This report adds a third argument: timing. Between roughly 2040 and 2060 several slow-moving stresses are expected to peak together, among them dangerous heat, water stress, record populations in the most exposed regions, a very large cohort of young workers and heavy debt burdens. Systemic vulnerability, the chance that a shock in one place becomes a loss of life, income and capacity that spreads, is the product of hazard and sensitivity. Mitigation slows the first term over decades. Development lowers the second far faster, and in the places where it is highest. The thesis is that convergence, in income and above all in capability, must come before crisis, and that the window to achieve it is open but narrowing.",
+    "The evidence for the present is sobering. Low-income countries average under US$700 a head, about 1 per cent of the high-income level, and climbing to the point at which middle-income economies typically stall would take 123 years at 2 per cent growth, 50 at 5 per cent and 36 at 7 per cent; reaching it by 2050 would require about 10.7 per cent a year. The 2020s have gone badly: the World Bank expects one third of low-income and half of fragile economies to end 2026 poorer than in 2019. Aid fell about 23 per cent in real terms in 2025; 3.4 billion people live in countries that pay more interest than they spend on health or education; adaptation finance is about a twelfth of need; and a 2026 energy and fertiliser shock has hit import-dependent economies hardest. Extreme poverty is concentrating in fragile Sub-Saharan Africa, 655 million people lack electricity, and 3.8 billion lack any social protection. Yet the record also shows that vulnerability can fall faster than income: Bangladesh cut cyclone deaths from about 300,000 in 1970 to about two dozen in 2020, and Odisha did the same on a smaller scale, by building warning systems, shelters and community capacity.",
+    "The report develops a framework of hazard, sensitivity and three levers, assesses seven vulnerability archetypes, identifies seven accelerators that raise income and cut vulnerability together, and presents a stylised Convergence Race Model. Under current policies, baseline growth leaves vulnerability per person roughly flat to 2050 (0.98 of the 2025 level) while the population-weighted burden rises by about 37 per cent. A combined package of faster growth and targeted capability building cuts cumulative exposure over 2026 to 2075 by about 40 per cent, each lever alone delivering about 22 to 23 per cent, and keeps the burden below its 2025 level in 91 per cent of draws against 3 per cent for the baseline. Starting the package ten years late forfeits roughly 30 per cent of the benefit. The report concludes with a financing strategy, a three-phase roadmap, a set of indicators and an assessment of the objections. Its message is that the cheapest window for building resilience is the one that is open now."
+  ],
+  "findings": [
+    "The case for accelerating development rests on timing as well as morality and economics: between roughly 2040 and 2060 dangerous heat, water stress, record populations in exposed regions, a very large young-worker cohort and heavy debt are expected to peak together.",
+    "Systemic vulnerability is the product of hazard and sensitivity. Mitigation slows the first term over decades; development lowers the second far faster, and in the places where it is highest — which is why convergence must come before crisis.",
+    "The arithmetic of catch-up is daunting: low-income countries average under US$700 a head, about 1 per cent of the high-income level, and reaching the middle-income stall point would take 123 years at 2 per cent growth, 50 at 5 per cent, 36 at 7 per cent — or 10.7 per cent a year to arrive by 2050.",
+    "The 2020s have gone badly. The World Bank expects one third of low-income and half of fragile economies to end 2026 poorer than in 2019; aid fell about 23 per cent in real terms in 2025; 3.4 billion people live in countries paying more interest than they spend on health or education; and adaptation finance is about a twelfth of need.",
+    "Capability gaps compound the income gap: 655 million people lack electricity and 3.8 billion lack any social protection, with extreme poverty concentrating in fragile Sub-Saharan Africa.",
+    "Vulnerability can nonetheless fall faster than income — Bangladesh cut cyclone deaths from about 300,000 in 1970 to about two dozen in 2020, and Odisha did the same at smaller scale, through warning systems, shelters and community capacity.",
+    "Under current policies the Convergence Race Model leaves vulnerability per person roughly flat to 2050 (0.98 of the 2025 level) while the population-weighted burden rises by about 37 per cent.",
+    "A combined package of faster growth and targeted capability building cuts cumulative exposure over 2026–2075 by about 40 per cent — each lever alone delivering 22 to 23 per cent — and keeps the burden below its 2025 level in 91 per cent of draws against 3 per cent for the baseline.",
+    "Delay is expensive: starting the package ten years late forfeits roughly 30 per cent of the benefit, so the cheapest window for building resilience is the one open now."
+  ],
+  "keywords": [
+    "economic convergence",
+    "systemic vulnerability",
+    "development",
+    "resilience",
+    "early warning",
+    "social protection",
+    "energy access",
+    "debt and finance",
+    "adaptation",
+    "polycrisis",
+    "climate risk",
+    "Global South"
+  ],
+  "jelCodes": [
+    "O11",
+    "O19",
+    "O44",
+    "Q54",
+    "F35",
+    "I32"
+  ],
+  "jelNote": "economic development; environment and growth; climate and natural disasters; foreign aid; poverty",
+  "method": "This report synthesises primary and authoritative secondary sources through October 2026; every quantitative claim is linked inline. Figures 3 and 5 to 16 and 18 report values from cited sources; Figures 1, 2 and 25 are conceptual schematics; Figure 4 is a calculation from the compound-growth identity; Figure 17 is an H Heuristics structured assessment; and Figures 19 to 24 come from an illustrative stylised model whose assumptions are stated (Appendix A). Burden figures overlap and must not be summed. The report is analytical rather than predictive, and contains no investment advice.",
+  "contents": [
+    "1. Introduction: A Race Between Development and Disaster",
+    "2. The Convergence Record and Its Stall",
+    "3. Systemic Vulnerability: Concept, Measurement and Evidence",
+    "4. The Clock: Hazards, Demography and the Closing Window",
+    "5. Where Convergence Is Stalling: People, Poverty and the Power Gap",
+    "6. The Financing Squeeze and the 2026 Shock",
+    "7. The Geography of Vulnerability: Seven Archetypes",
+    "8. The Accelerators: Seven Levers That Do Double Duty",
+    "9. A Race Model: How Fast Must Convergence Move?",
+    "10. Financing the Acceleration",
+    "11. Governance, Sequencing and a Roadmap",
+    "12. Objections, Risks and Limits",
+    "13. Conclusion: The Case for Moving First"
+  ],
+  "backmatter": [
+    "Appendix A. The Convergence Race Model: Specification and Parameters",
+    "Appendix B. Evidence Grading and Data Notes",
+    "Appendix C. Selected Sources"
+  ],
+  "doi": "10.5281/zenodo.23486221",
+  "license": "CC BY 4.0"
+}
