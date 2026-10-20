@@ -1,0 +1,82 @@
+{
+  "slug": "the-diffusion-imperative",
+  "number": "HH-2026-21",
+  "title": "The Diffusion Imperative",
+  "subtitle": "Scaling Proven Solutions Across Unequal and Interconnected Societies",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-20",
+  "updated": "2026-10-20",
+  "language": "en",
+  "pdf": "the-diffusion-imperative.pdf",
+  "pages": 41,
+  "dek": "Why the central development problem is no longer invention but delivery.",
+  "topics": [
+    "Technology & Innovation",
+    "Emerging Markets",
+    "Development Finance",
+    "Public Health"
+  ],
+  "abstract": [
+    "Humanity has invented most of the solutions that its largest problems require. Under-five mortality has fallen by 52 per cent since 2000, solar electricity costs about US$0.043 per kilowatt-hour, and mobile money and public payment rails now serve hundreds of millions. Yet in 2024 only 22.5 per cent of people in low-income countries used the internet, 49 per cent had electricity, 16 per cent could cook with clean fuels, and DTP3 immunisation coverage stood at 70 per cent, below its 2019 peak. This report argues that the central development problem has shifted from invention to diffusion, and that the shift is urgent.",
+    "The report proposes a four-stage account of diffusion, distinguishing reach, uptake, depth and durability, and shows that the world has become better at reach and no better at depth. It identifies a diffusion gradient: solutions that are divisible, affordable, privately purchased and light on infrastructure spread fastest, while those that depend on networks, large capital or a capable state spread slowest. Extending recent trends in a straight line, low-income countries would reach today’s high-income electricity access in about 37 years and internet use in about 58, would take over four centuries for clean cooking, and have moved away from parity on immunisation and primary completion since 2019.",
+    "Two features of the setting shape every stage. Societies are unequal, so that solutions reach the advantaged first, and interconnected, so that solutions travel through six channels, trade, investment, finance, people, digital networks and policy learning, each of which also transmits dependence and shocks. Five families of barrier explain why proven solutions fail to spread: the price of money, missing complements, limited trust and delivery capacity, the loss of effect when pilots are scaled, and market failure. Five cases, mobile money and public payment rails, vaccine market shaping, distributed solar, Teaching at the Right Level and twice-yearly HIV prevention, show how these barriers have been overcome and where they persist.",
+    "The report concludes with seven design rules for scale, three structural risks of interdependence, supplier concentration, a financing squeeze in which official aid fell 23.1 per cent in 2025, and an artificial intelligence divide, and a strategy comprising seven principles, a three-horizon roadmap and a five-measure diffusion dashboard. The imperative is to measure depth and durability as well as reach, to protect the delivery systems that work, to lower the cost of capital, to build shared public rails, to design for the excluded, and to test for scale."
+  ],
+  "findings": [
+    "The central development problem has shifted from invention to diffusion. Most of the solutions already exist — under-five mortality is down 52 per cent since 2000, solar costs about US$0.043 per kilowatt-hour, and payment rails serve hundreds of millions.",
+    "Delivery has not followed: in 2024 only 22.5 per cent of people in low-income countries used the internet, 49 per cent had electricity, 16 per cent could cook with clean fuels, and DTP3 immunisation stood at 70 per cent — below its 2019 peak.",
+    "Diffusion has four distinct stages — reach, uptake, depth and durability — and the world has become better at reach while getting no better at depth.",
+    "A diffusion gradient governs what spreads: solutions that are divisible, affordable, privately purchased and light on infrastructure move fastest; those needing networks, large capital or a capable state move slowest.",
+    "Straight-line extrapolation is sobering. Low-income countries would reach today’s high-income electricity access in about 37 years and internet use in about 58, would take over four centuries for clean cooking, and have moved away from parity on immunisation and primary completion since 2019.",
+    "Inequality and interconnection shape every stage: solutions reach the advantaged first, and travel through six channels — trade, investment, finance, people, digital networks and policy learning — each of which also transmits dependence and shocks.",
+    "Five families of barrier explain the failures: the price of money, missing complements, limited trust and delivery capacity, the loss of effect when pilots are scaled, and market failure.",
+    "Three structural risks of interdependence stand out — supplier concentration, a financing squeeze in which official aid fell 23.1 per cent in 2025, and an artificial intelligence divide."
+  ],
+  "keywords": [
+    "technology diffusion",
+    "scaling",
+    "development",
+    "inequality",
+    "interdependence",
+    "cost of capital",
+    "immunisation",
+    "digital public infrastructure",
+    "energy access",
+    "artificial intelligence"
+  ],
+  "jelCodes": [
+    "O33",
+    "O19",
+    "O15",
+    "I15",
+    "I18",
+    "F63"
+  ],
+  "jelNote": "technological change and diffusion; international linkages to development; human development; health policy",
+  "method": "This report synthesises institutional and peer-reviewed research available to October 2026, drawing on World Bank, ITU, WHO, UNICEF, Gavi, IEA, IRENA, OECD, UNCTAD, GSMA, Ember and J-PAL publications. Country-group series are from the World Bank’s World Development Indicators (accessed 19 October 2026) and are recalculated where stated. Several 2026 figures are preliminary. Figure 6 is straight-line arithmetic, Figure 7 is an illustrative calculation, and Figures 2 and 12 are stylised illustrations, not estimates.",
+  "contents": [
+    "Key Findings",
+    "1. Introduction: The Delivery Problem",
+    "2. Framework: What Diffuses, How, and to Whom",
+    "3. The Record: What Has Already Spread, and How Fast",
+    "4. The Cost of Standing Still: Measuring the Delivery Gap",
+    "5. Why Proven Solutions Fail to Spread",
+    "6. The Interconnected World: Channels Through Which Solutions Travel",
+    "7. Unequal Societies: Inequality as Brake and Accelerant",
+    "8. Five Cases: What Diffused, and Why",
+    "9. Mechanisms That Scale: Seven Design Rules",
+    "10. Governing Interdependence: Concentration, Finance and the AI Divide",
+    "11. A Strategy for the Diffusion Imperative",
+    "12. Limits and What Would Change the Argument",
+    "13. Conclusion: From Invention to Delivery"
+  ],
+  "backmatter": [
+    "References and Further Reading"
+  ],
+  "doi": "10.5281/zenodo.23486425",
+  "license": "CC BY 4.0"
+}
