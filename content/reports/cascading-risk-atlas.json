@@ -1,0 +1,86 @@
+{
+  "slug": "cascading-risk-atlas",
+  "number": "HH-2026-22",
+  "title": "The Cascading Risk Atlas",
+  "subtitle": "Mapping How Local Shocks Become Global Crises",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-20",
+  "updated": "2026-10-20",
+  "language": "en",
+  "pdf": "cascading-risk-atlas.pdf",
+  "pages": 49,
+  "dek": "Nodes, channels, amplifiers and circuit-breakers, with the 2026 Strait of Hormuz crisis as a live case.",
+  "topics": [
+    "Systemic Risk",
+    "Energy Transition",
+    "Infrastructure",
+    "Development Finance"
+  ],
+  "abstract": [
+    "A local shock becomes a global crisis when it reaches a concentrated dependency, travels through channels that are coupled to one another, and meets buffers that are too thin to absorb it. The war that began on 28 February 2026 is the clearest live demonstration since the pandemic. Daily transits of the Strait of Hormuz, through which about 20 million barrels of oil a day passed in 2025, fell from 68 in January and February to 3.6 in September. Brent crude rose from a monthly average of US$71 in February to US$120 in April, European gas more than doubled, and urea rose 82 per cent to its April peak. The International Energy Agency describes the disruption as the largest in the history of the oil market.",
+    "This report proposes a five-stage grammar for cascades, covering trigger, node, channel, amplifier and manifestation, and uses it to build an atlas. The atlas has a gazetteer of ten global nodes, a taxonomy of seven transmission channels and twelve historical plates, from the Suez blockage of 2021 and the Thai floods of 2011 to the 2008 financial crisis, COVID-19 and the 2024 software outage. A stylised network model, with results labelled as illustrative, shows that the severity of a cascade is governed by buffers and structure and not by the size of the initial shock. In the model, a change in tolerance from 0.25 to 0.35 moves the failed share of a network from 100 per cent to under 1 per cent, hub-and-spoke networks need larger buffers than random ones, and a moderate degree of cross-sector coupling is the most dangerous.",
+    "The evidence from 2026 shows cascades running at different speeds. Oil and gas moved in days; fertiliser, jet fuel and aluminium in weeks; food, growth and debt over months. After the 2022 invasion of Ukraine the FAO Food Price Index jumped 13 per cent in a month and then fell. After the Hormuz war it rose 8 per cent in seven months and is at its highest since November 2022. The burden falls unevenly: the IMF estimates that emerging markets outside China lose 1.3 percentage points of 2026 growth in its adverse scenario against 0.6 for advanced economies, and developing countries paid out US$741 billion more on external debt than they received in new financing in 2022 to 2024.",
+    "The report ends with ten pathways to the next cascade, a four-part circuit-breaker design covering prevention, containment, absorption and recovery, a division of tasks among governments, firms, financial institutions and multilateral bodies, and a ten-indicator dashboard. The task is to map the nodes, size buffers to the node and not the average, and agree the rules before the trigger."
+  ],
+  "findings": [
+    "A local shock becomes a global crisis when it reaches a concentrated dependency, travels through coupled channels, and meets buffers too thin to absorb it — a five-stage grammar of trigger, node, channel, amplifier and manifestation.",
+    "The 2026 Hormuz war is the clearest live demonstration since the pandemic: daily transits fell from 68 in January and February to 3.6 in September, Brent rose from a monthly average of US$71 in February to US$120 in April, European gas more than doubled, and urea rose 82 per cent to its April peak.",
+    "Severity is governed by buffers and structure, not by the size of the initial shock. In the stylised model a change in tolerance from 0.25 to 0.35 moves the failed share of a network from 100 per cent to under 1 per cent.",
+    "Network shape matters: hub-and-spoke networks need larger buffers than random ones, and a moderate degree of cross-sector coupling is the most dangerous configuration — more dangerous than either tight or loose coupling.",
+    "Cascades run at different speeds: oil and gas moved in days; fertiliser, jet fuel and aluminium in weeks; food, growth and debt over months.",
+    "The food channel behaves differently this time. After the 2022 invasion of Ukraine the FAO Food Price Index jumped 13 per cent in a month then fell; after the Hormuz war it rose 8 per cent over seven months and sits at its highest since November 2022.",
+    "The burden falls unevenly: the IMF puts the 2026 growth loss at 1.3 percentage points for emerging markets outside China against 0.6 for advanced economies, and developing countries paid out US$741 billion more on external debt than they received in new financing over 2022 to 2024.",
+    "The task is to map the nodes, size buffers to the node rather than the average, and agree the rules before the trigger — via circuit-breakers covering prevention, containment, absorption and recovery."
+  ],
+  "keywords": [
+    "cascading risk",
+    "systemic risk",
+    "supply chains",
+    "chokepoints",
+    "Strait of Hormuz",
+    "network contagion",
+    "resilience",
+    "polycrisis",
+    "critical minerals",
+    "food security",
+    "sovereign debt"
+  ],
+  "jelCodes": [
+    "D85",
+    "F51",
+    "F60",
+    "G01",
+    "Q34",
+    "Q41"
+  ],
+  "jelNote": "network formation and analysis; international conflicts; globalization; financial crises; resource and energy markets",
+  "method": "This report synthesises institutional and peer-reviewed research available to 19 October 2026. Series are drawn from IMF PortWatch (daily chokepoint transits to 11 October 2026), the World Bank Pink Sheet (monthly prices to September 2026), the FAO Food Price Index, the New York Fed Global Supply Chain Pressure Index and World Bank World Development Indicators, all accessed 19 October 2026. Several 2026 figures are preliminary. Figures 3 and 4 are outputs of a stylised model, and Figures 7 and 15 and the alert levels in Table 8 are H Heuristics judgement. They are not estimates.",
+  "contents": [
+    "Key Findings",
+    "1. Introduction: A Strait and a System",
+    "2. Anatomy of a Cascade",
+    "3. What Network Science Teaches",
+    "4. The Nodes: A Gazetteer of Global Chokepoints",
+    "5. The Channels: Seven Routes of Transmission",
+    "6. Plate I: The Hormuz Cascade, 2026",
+    "7. Plates II to IV: When Shipping Lanes Fail",
+    "8. Plates V to VII: Industrial and Digital Cascades",
+    "9. Plates VIII to XII: Financial, Health, Food and Climate Cascades",
+    "10. Reading Across the Plates: Speed, Scale and Amplifiers",
+    "11. Who Bears the Cascade",
+    "12. Pathways Ahead: The Next Plates",
+    "13. Breaking Cascades: Design Principles for Circuit-Breakers",
+    "14. A Strategy: Who Does What",
+    "15. Limits and What Would Change the Argument",
+    "16. Conclusion: Mapping Before the Shock"
+  ],
+  "backmatter": [
+    "References and Further Reading"
+  ],
+  "doi": "10.5281/zenodo.23487012",
+  "license": "CC BY 4.0"
+}
