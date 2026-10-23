@@ -1,0 +1,83 @@
+{
+  "slug": "the-heat-trap",
+  "number": "HH-2026-26",
+  "title": "The Heat Trap",
+  "subtitle": "Demographic Shift, Survivability Risk and the Humanitarian Crisis of the Late Twenty-First Century",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-23",
+  "updated": "2026-10-23",
+  "language": "en",
+  "pdf": "the-heat-trap.pdf",
+  "pages": 57,
+  "dek": "How the demographic centre of humanity is moving into the planet’s most climate-exposed regions, and what it will take to keep the late twenty-first century liveable. Part II of the Century Recalibration series.",
+  "topics": [
+    "Climate Adaptation",
+    "Emerging Markets",
+    "Public Health",
+    "Systemic Risk"
+  ],
+  "abstract": [
+    "The twenty-first century is usually described through its headline transitions: the rise of Asia, the ageing of Europe and East Asia, the energy transition, the arrival of artificial intelligence. Beneath these runs a quieter shift that will shape the daily life of more people than any of them. The human population is relocating, by birth rather than migration, into the regions of the planet that climate change is making least habitable. This is the second report in the Century Recalibration series, taking one thread from the first and following it to its conclusion: the collision between where humanity is growing and where the planet is becoming least habitable.",
+    "In 1950, one person in five lived in Europe and fewer than one in fourteen in Sub-Saharan Africa. By 2100, under UN medium-variant projections, Sub-Saharan Africa will be home to 3.35 billion people, one-third of humanity, and South Asia to a further 2.41 billion — together 57 per cent of the world’s population. Between 2024 and 2100 Sub-Saharan Africa alone is projected to add 2.1 billion people, more than the world’s entire net growth, because East Asia and Europe will together shrink by over a billion. These are also the regions where heat and humidity already approach the limits of human tolerance, where air quality is among the worst on Earth, and where people have the fewest protections: the least electricity, the fewest air conditioners, the most outdoor and informal work, and the weakest health systems.",
+    "Combining UN population projections with population-weighted CMIP6 climate projections for every country produces four core findings. Humanity’s home climate is warming faster than the planet: the population-weighted mean annual temperature of the place the average person lives was about 17.3 °C in 1950, is 20.6 °C today, and reaches 23.7 °C by 2100 under SSP2-4.5 and 24.6 °C under SSP3-7.0 — while demographic change alone, holding climate at 1991–2020 conditions, would raise it to 21.4 °C. The world’s people are moving into the heat faster than the heat is moving to them, and both processes are under way at once. Climate change drives most of the rise in per-person heat exposure; demography decides who is exposed and how many.",
+    "The phrase “survivability risk” needs care. The popular 35 °C wet-bulb threshold is likely to be crossed only rarely and locally this century; laboratory research puts real-world tolerance limits far lower, near 31 °C wet-bulb for young healthy adults and lower still for older people, children and anyone working. The crisis described here is therefore not mainly about sudden mass death but a chronic, compounding loss of liveability: lost sleep, lost work, lost schooling, lost harvests, more illness, and a steady rise in the number of days on which ordinary life becomes dangerous for those without cooling. And it is long-lived: roughly a quarter of any CO₂ emission is still present after a thousand years, so whatever warming the world reaches at net-zero is approximately what the descendants of today’s African and South Asian children will live with for many generations.",
+    "The trajectory is not fixed. The difference between SSP1-2.6 and SSP3-7.0 is the difference between 1.3 billion and 3.6 billion people facing a month or more of dangerous heat each year. The report sets out an agenda built on six commitments, among them holding warming as low as possible — every tenth of a degree avoided spares roughly 140 million people from unprecedented heat — making cooling a basic public good, and treating clean air as climate adaptation. Because the crisis is foreseeable, it is also addressable."
+  ],
+  "findings": [
+    "Humanity is relocating into the planet’s least habitable regions by birth rather than migration — a quieter shift than the headline transitions, but one that will shape the daily life of more people than any of them.",
+    "By 2100 Sub-Saharan Africa will hold 3.35 billion people and South Asia 2.41 billion, together 57 per cent of humanity. Sub-Saharan Africa alone adds 2.1 billion between 2024 and 2100 — more than the world’s entire net growth, because East Asia and Europe together shrink by over a billion.",
+    "Humanity’s home climate is warming faster than the planet: the population-weighted mean annual temperature where the average person lives was 17.3 °C in 1950, is 20.6 °C today, and reaches 23.7 °C by 2100 under SSP2-4.5.",
+    "The two processes can be separated: holding climate fixed at 1991–2020 conditions, demographic change alone would raise that figure to 21.4 °C. Climate change drives most of the rise in per-person exposure; demography decides who is exposed and how many.",
+    "The 35 °C wet-bulb threshold is the wrong focus — it will be crossed only rarely and locally this century. Real-world tolerance limits sit near 31 °C wet-bulb for young healthy adults, and lower for older people, children and anyone working.",
+    "The crisis is therefore chronic rather than catastrophic: a compounding loss of liveability — lost sleep, work, schooling and harvests, more illness, and more days when ordinary life becomes dangerous without cooling — which for the most vulnerable becomes a direct threat to survival.",
+    "The damage is effectively permanent on human timescales: roughly a quarter of any CO₂ emission remains after a thousand years, so the warming level reached at net-zero is approximately what many generations of today’s African and South Asian children will live with.",
+    "The trajectory is not fixed. The difference between SSP1-2.6 and SSP3-7.0 is 1.3 billion versus 3.6 billion people facing a month or more of dangerous heat each year, and every tenth of a degree avoided spares roughly 140 million people from unprecedented heat."
+  ],
+  "keywords": [
+    "climate change",
+    "global warming",
+    "demographic transition",
+    "heat exposure",
+    "wet-bulb temperature",
+    "human survivability",
+    "climate resilience",
+    "air pollution",
+    "development economics",
+    "public health",
+    "sustainable development",
+    "demographic geography"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "The analysis combines the United Nations World Population Prospects 2024 (medium variant) with CMIP6 climate projections from the World Bank Climate Change Knowledge Portal, weighting each country’s climate by where its people actually live using gridded population data from ISIMIP. This follows the climate experienced by the typical human being rather than the climate of the typical square kilometre, from 1950 to 2100 under four emissions pathways, and allows the effect of demographic change to be separated from the effect of climate change. Unless stated otherwise, central projections refer to SSP2-4.5 (roughly 2.7 °C of warming by 2081–2100, close to current policy); SSP3-7.0 (about 3.6 °C) is shown as a plausible high-risk pathway and SSP1-2.6 (about 1.8 °C) as an ambitious mitigation pathway. Projections are not predictions: they describe the consequences of choices that have not yet been made. Full methods are in Appendix A.",
+  "contents": [
+    "At a Glance",
+    "1. Executive Summary",
+    "2. Introduction: The Century’s Hidden Geography",
+    "3. The Demographic Arithmetic: Humanity Moves South",
+    "4. The Thermal Centre of Humanity",
+    "5. The Physiology of Heat: Where Survivability Ends",
+    "6. Humid Heat to 2100: Who Will Be Exposed",
+    "7. The Pollution Cycle",
+    "8. Water, Food and Land Under Strain",
+    "9. Poverty, Work and the Adaptation Gap",
+    "10. Health Systems Under Heat",
+    "11. Mobility, Conflict and the Trapped",
+    "12. Responsibility and Justice",
+    "13. The Long Tail: Centuries and Millennia",
+    "14. Life in 2100: Portraits of the Middle Half of Humanity",
+    "15. Three Pathways for the Late Century",
+    "16. An Agenda for Action",
+    "17. Conclusion: Recalibrating the Sense of Direction"
+  ],
+  "backmatter": [
+    "Appendix A · Methodology and Data Notes",
+    "Appendix B · References"
+  ],
+  "doi": "10.5281/zenodo.23594337",
+  "license": "CC BY 4.0"
+}
