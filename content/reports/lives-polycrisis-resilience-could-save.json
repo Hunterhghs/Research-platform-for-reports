@@ -1,0 +1,86 @@
+{
+  "slug": "lives-polycrisis-resilience-could-save",
+  "number": "HH-2026-28",
+  "title": "How Many Lives Could Polycrisis Resilience Save This Century?",
+  "subtitle": "A scenario analysis of proactive resilience, clean transition and sustainable development in the Global South, 2025–2100",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-23",
+  "updated": "2026-10-23",
+  "language": "en",
+  "pdf": "lives-polycrisis-resilience-could-save.pdf",
+  "pages": 63,
+  "dek": "Decisions this decade, consequences to 2100. A purpose-built scenario model compares four futures and finds that acting early and together could avert roughly 368 million deaths — while delay or siloed action forfeits more than a third of that. Report 01 of the Polycrisis Resilience series.",
+  "topics": [
+    "Systemic Risk",
+    "Public Health",
+    "Development Finance",
+    "Emerging Markets"
+  ],
+  "abstract": [
+    "The central question of this report is how much difference proactive polycrisis resilience could make by 2100. Resilience is defined broadly: clean energy and air quality, safe water and sanitation, food and nutrition security, quality health systems, climate adaptation and mitigation, and preparedness for pandemics and compounding shocks, all anchored in sustainable development in the Global South. The report compares four futures — reactive drift, delayed action, siloed progress and coordinated resilience — and tracks four outcomes: lives saved, healthy life-years gained, severe deprivation reduced and resilience improved.",
+    "Acting early, together and at scale could avert roughly 368 million deaths this century relative to reactive drift, with a 90 per cent interval of 265 to 448 million — about 13,000 lives a day averaged across the century, rising to a peak of 6.6 million a year around 2071. Benefits are back-loaded: only 58 million of those lives are saved by 2050 and 213 million by 2075, because infrastructure, health systems and temperature outcomes lock in over decades. Two-thirds of the benefit accrues to low- and lower-middle-income countries, with Sub-Saharan Africa and South Asia alone accounting for 62 per cent of lives saved.",
+    "Timing and integration matter as much as ambition. Starting 14 years late delivers 225 million lives; running well-funded programmes in silos delivers 232 million. Each forfeits roughly 135 to 143 million lives, or 37 to 39 per cent of the achievable total. Clean energy and air quality account for 36 per cent of net deaths averted and health systems for 27 per cent, with climate adding 13 per cent, shock preparedness 11 per cent, nutrition 7 per cent and water and sanitation 6 per cent — though the last two deliver the largest proportional cuts in their own burdens. Lives improved is a separate and larger story: by 2050 coordinated resilience leaves about 0.9 billion people lacking at least one of six essential services, against 2.8 billion under reactive drift, and cuts the high-vulnerability population by 1.6 billion.",
+    "Health benefits alone roughly repay the investment and the rest is upside. Present-value net financing is about US$21.8 trillion against present-value health benefits of about US$21.1 trillion, valued conservatively at US$5,000 per DALY — a ratio of 0.97 with an interval of 0.55 to 1.54, excluding avoided climate damages, energy savings and faster growth. The peak incremental financing requirement is about US$1.2 trillion a year, roughly 1 per cent of today’s global output. The conclusion survives hard tests but not inaction: delivering only 60 per cent of planned effect still averts about 236 million lives, and combining that with an eight-year slip leaves about 211 million. The single most influential uncertainty is delivery capacity, not any scientific parameter, and every year of delay costs about 8.3 million lives."
+  ],
+  "findings": [
+    "The prize is measured in hundreds of millions of lives: coordinated resilience averts about 368 million deaths between 2025 and 2100 relative to reactive drift (90 per cent interval 265–448 million), roughly 13,000 a day averaged across the century and peaking at 6.6 million a year around 2071.",
+    "Benefits are back-loaded, so early decisions carry late payoffs. Only 58 million lives are saved by 2050 and 213 million by 2075, because infrastructure, health systems and temperature outcomes lock in over decades.",
+    "Two-thirds of the benefit accrues to low- and lower-middle-income countries, with Sub-Saharan Africa and South Asia alone accounting for 62 per cent of lives saved — about 91 deaths averted per 1,000 people alive in 2025 in Sub-Saharan Africa, the highest rate of any region.",
+    "Energy and air quality carry the most lives (36 per cent of net deaths averted) followed by health systems (27 per cent), with climate 13 per cent, shock preparedness 11 per cent, nutrition 7 per cent and water and sanitation 6 per cent — though the last two deliver the largest proportional cuts in their own burdens.",
+    "Timing and integration matter as much as ambition: starting 14 years late delivers 225 million lives and running well-funded programmes in silos delivers 232 million, each forfeiting roughly 135–143 million lives, or 37–39 per cent of the achievable total.",
+    "Lives improved is a separate and larger story. By 2050 coordinated resilience leaves about 0.9 billion people lacking at least one of six essential services against 2.8 billion under reactive drift, and cuts the high-vulnerability population by 1.6 billion — none of them counted as lives saved.",
+    "Health benefits alone roughly repay the investment: present-value net financing of about US$21.8 trillion against health benefits of about US$21.1 trillion at a conservative US$5,000 per DALY (ratio 0.97, interval 0.55–1.54), excluding avoided climate damages, energy savings and faster growth.",
+    "The conclusion is robust to hard tests but not to inaction. Delivering only 60 per cent of planned effect still averts about 236 million lives; adding an eight-year slip leaves about 211 million. The single most influential uncertainty is delivery capacity, not any scientific parameter — and every year of delay costs about 8.3 million lives, roughly 16 a minute."
+  ],
+  "keywords": [
+    "polycrisis resilience",
+    "scenario analysis",
+    "sustainable development",
+    "Global South",
+    "climate adaptation",
+    "clean energy transition",
+    "air pollution",
+    "vulnerability reduction",
+    "global health",
+    "clean cooking",
+    "risk reduction",
+    "DALYs",
+    "cost of delay"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "Every figure is computed by HH-PRM v1.0, a purpose-made parametric scenario model comparing four futures — reactive drift, delayed action, siloed progress and coordinated resilience — with each assumption registered in Appendix A alongside its evidence grade. These are scenario estimates, not forecasts: they answer what difference action could make under explicit assumptions, not what will happen. The model is parametric and global-to-regional rather than a country-level epidemiological model, and it has not been peer reviewed. Deaths averted are net of overlap between risk factors and of interaction effects, measured against reactive drift over 2025–2100 and undiscounted unless stated; healthy life-years are DALYs averted; costs are in constant 2025 US dollars with present values at a 3 per cent real discount rate; intervals are 90 per cent Monte Carlo intervals (5th to 95th percentile) from 5,000 joint draws. The 2025 baseline combines published figures referring to years between 2019 and 2024, and regional allocation weights and several baseline splits are H Heuristics working assumptions informed by published distributions, flagged as such. Headline figures were checked against publisher pages or summaries in October 2026; several were confirmed through secondary coverage only and a few are cited from prior knowledge, with the grade for each shown in Appendix D. Global South is used as shorthand for low-, lower-middle- and upper-middle-income countries.",
+  "contents": [
+    "Executive summary",
+    "1. The question that frames the century",
+    "2. The anatomy of the polycrisis",
+    "3. How the model works",
+    "4. The baseline: what is at stake without new action",
+    "5. Clean energy and air quality",
+    "6. Water, sanitation and food",
+    "7. Health systems, infectious disease and pandemics",
+    "8. Climate adaptation and mitigation",
+    "9. Development convergence and the Global South",
+    "10. Lives saved",
+    "11. Healthy life-years gained",
+    "12. Lives improved: deprivation and resilience",
+    "13. Who benefits: region, income and generation",
+    "14. Cost, finance and value for money",
+    "15. Uncertainty, sensitivity and stress tests",
+    "16. What efficient leadership looks like",
+    "17. The cost of waiting",
+    "18. Limitations and research agenda"
+  ],
+  "backmatter": [
+    "Appendix A · Parameter register",
+    "Appendix B · Allocation weights and demography",
+    "Appendix C · Results by decade",
+    "Appendix D · Source register"
+  ],
+  "doi": "10.5281/zenodo.23598216",
+  "license": "CC BY 4.0"
+}
