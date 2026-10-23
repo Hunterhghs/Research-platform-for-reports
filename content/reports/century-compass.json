@@ -1,0 +1,86 @@
+{
+  "slug": "century-compass",
+  "number": "HH-2026-25",
+  "title": "The Century Compass",
+  "subtitle": "Recalibrating humanity’s direction to 2100: demography, convergence, polycrisis, and the life of the median human",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-23",
+  "updated": "2026-10-23",
+  "language": "en",
+  "pdf": "century-compass.pdf",
+  "pages": 49,
+  "dek": "Where is humanity headed by 2100? The demographic shift toward Africa and South Asia, the ageing of the West and East Asia, the convergence of the Asian century, and the polycrisis — and what life will be like for the median human at the end of the century.",
+  "topics": [
+    "Emerging Markets",
+    "Systemic Risk",
+    "Climate Adaptation",
+    "Technology & Innovation"
+  ],
+  "abstract": [
+    "Humanity is finishing two great transitions and racing to complete a third. The twenty-first century is the century in which humanity completes the demographic transition, from high to low fertility and from young to old populations, and the development transition, from mass poverty to mass middle income, and must complete the energy transition quickly enough that climate damage does not undo the first two. Viewed from 1900 the destination is extraordinary; viewed from inside, the path is turbulent, uneven, and hardest at the end. The direction is upward. The distribution is the problem.",
+    "The report ties together four strands: the demographic shift toward Africa and South Asia, the ageing and relative decline of the West and East Asia, the economic convergence of the Asian century, and the polycrisis of climate, pollution, poverty and conflict. World population is projected to peak at about 10.3 billion in the mid-2080s and to peak by choice, with alternative models from IHME and the Wittgenstein Centre peaking earlier and lower, between roughly 8.8 and 9.7 billion. Europe’s population peaked around 2020 and is projected to fall about 20 per cent by 2100 because of fertility near 1.4, not immigration. Africa grows from about 1.5 billion today to roughly 2.5 billion by 2050 and 3.8 billion by 2100, from one in five humans to more than one in three. Asia’s share of world output has climbed from 17 per cent in 1950 to about 44 per cent, but East Asia is ageing faster than any society in history and China’s population is projected to halve by 2100.",
+    "The polycrisis is real and its burdens are concentrated. Warming passed 1.5 °C in a single calendar year for the first time in 2024 and current policies point to roughly 2.6 to 3.1 °C. Heat, water stress, sea-level rise and conflict cluster in the tropics and subtropics, which are precisely where populations are still growing; research led by Lenton and colleagues estimates that around 2 billion people could live outside historical climate conditions at about 2.7 °C, concentrated in India, Nigeria, Indonesia, the Philippines and Pakistan. Against this runs the upside engine of technology diffusion: extreme poverty fell from 43 per cent of humanity in 1990 to about 10 per cent today, child mortality from one in four in 1950 to under 4 per cent, and solar module prices by about 89 per cent since 2010.",
+    "The report’s answer is that the century is net upward but bifurcating. For the median human, 2100 is likely richer, older, hotter, more urban and lived more indoors — most probably a city-dweller in South Asia or Africa, about 42 years old, with secondary education and a material standard of living resembling today’s middle-income countries. The survivability trap is real but, under central assumptions, describes a large minority rather than the median: a probability-weighted estimate puts about 17 per cent of humanity in 2100, roughly 1.7 billion people, as trapped by the overlap of heat, poverty and weak states, and it becomes the median experience only in a fragmented, high-warming world. Whether that minority shrinks or grows is decided far more by cheap electricity, girls’ education and migration governance than by any single climate number."
+  ],
+  "findings": [
+    "World population peaks this century, and it peaks by choice: the UN projects about 10.3 billion in the mid-2080s falling to 10.2 billion by 2100, while IHME and the Wittgenstein Centre peak earlier and lower, between roughly 8.8 and 9.7 billion. The range is driven above all by how fast fertility falls in sub-Saharan Africa.",
+    "The West faces relative decline, not collapse. Europe’s population peaked around 2020 and is projected to fall about 20 per cent by 2100 — the cause is fertility near 1.4, not immigration, which is what has kept EU population growing since deaths began exceeding births around 2012.",
+    "Africa becomes the centre of gravity of human population, growing from about 1.5 billion today to roughly 2.5 billion by 2050 and 3.8 billion by 2100 — from one in five humans to more than one in three. Dividend or trap depends on jobs, schooling and electricity.",
+    "The Asian century is real but splits in two: Asia’s share of world output has risen from 17 per cent in 1950 to about 44 per cent, yet East Asia is ageing faster than any society in history and China’s population is projected to halve by 2100, shifting growth leadership toward South and Southeast Asia.",
+    "The polycrisis burdens are concentrated where populations are still growing. Warming passed 1.5 °C in a single calendar year for the first time in 2024, current policies point to roughly 2.6–3.1 °C, and heat, water stress, sea-level rise and conflict cluster in the tropics and subtropics.",
+    "The core overlap is heat and population: around 2 billion people could live outside historical climate conditions at about 2.7 °C of warming, concentrated in India, Nigeria, Indonesia, the Philippines and Pakistan.",
+    "The upside engine is technology diffusion. Extreme poverty fell from 43 per cent of humanity in 1990 to about 10 per cent today, child mortality from one in four in 1950 to under 4 per cent, and solar module prices about 89 per cent since 2010 — technologies now reach poor countries in years rather than generations.",
+    "For the median human, 2100 is likely richer, older, hotter, more urban and lived more indoors: most probably a city-dweller in South Asia or Africa, about 42 years old, with secondary education and a middle-income standard of living.",
+    "The survivability trap is real but describes a large minority, not the median — about 17 per cent of humanity in 2100, roughly 1.7 billion people, on a probability-weighted estimate. It becomes the median experience only in a fragmented, high-warming world.",
+    "The decisive variables are cheap electricity, girls’ education and migration governance. Heat without cooling kills; heat with reliable power is an expensive inconvenience. The century’s outcome is largely a race between diffusion and damage."
+  ],
+  "keywords": [
+    "demography",
+    "population growth",
+    "demographic transition",
+    "global population peak",
+    "economic convergence",
+    "Africa",
+    "development economics",
+    "Global South",
+    "climate change",
+    "Asian century",
+    "climate adaptation",
+    "clean energy",
+    "global inequality",
+    "century forecasts"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "Population, fertility, median age and projections come from the UN World Population Prospects 2024 (medium variant), accessed through Our World in Data; long-run economic data from the Maddison Project Database; poverty from the World Bank’s $3.00-a-day international line (2021 prices); and climate scenarios follow the IPCC Sixth Assessment Report. Every chart was generated directly from downloaded source data, except where a figure reproduces published headline numbers such as the climate-niche estimates of Lenton et al. (2023); each figure carries its source line. Scenario weights, the secure / constrained / trapped banding of humanity in 2100, and the illustrative vignettes are H Heuristics judgements and are labelled as such. Claims are graded high, medium or low confidence according to whether errors are of degree or direction. Sources are hyperlinked in the text, with a consolidated list in Appendix C. Edition 1.0, data through 2025.",
+  "contents": [
+    "About This Report",
+    "The Century in Brief",
+    "1. Why Recalibrate?",
+    "2. The Demographic Arc: Peak, Age, and Shift",
+    "3. The West: Relative Decline, Not Collapse",
+    "4. Africa’s Demographic Rise: Dividend or Trap?",
+    "5. The Asian Century, Split in Two",
+    "6. The Polycrisis: Climate, Pollution, Poverty, Conflict",
+    "7. Where the Trends Collide",
+    "8. The Upside Engine: Convergence and Diffusion",
+    "9. Life in 2100: The Median Human",
+    "10. Testing the Survivability-Trap Hypothesis",
+    "11. Four Scenarios for 2100",
+    "12. The Century in Three Acts",
+    "13. Signposts: Tracking the Direction of Travel",
+    "14. Heuristics for the Century",
+    "15. Conclusion: Where Humanity Is Headed"
+  ],
+  "backmatter": [
+    "Appendix A · Data Notes and Methods",
+    "Appendix B · Glossary",
+    "Appendix C · Sources and Further Reading"
+  ],
+  "doi": "10.5281/zenodo.23592657",
+  "license": "CC BY 4.0"
+}
