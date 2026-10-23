@@ -58,6 +58,7 @@ export default {
     'Infrastructure',
     'Technology & Innovation',
     'Institutions & Governance',
+    'Environment & Biodiversity',
     'Public Health',
     'Water & Food Security',
     'Emerging Markets',

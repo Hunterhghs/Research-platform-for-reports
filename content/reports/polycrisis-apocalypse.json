@@ -1,0 +1,90 @@
+{
+  "slug": "polycrisis-apocalypse",
+  "number": "HH-2026-24",
+  "title": "The Polycrisis Apocalypse",
+  "subtitle": "How a global polycrisis could spiral into civilisational collapse lasting centuries — and what keeps repair ahead of stress",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-23",
+  "updated": "2026-10-23",
+  "language": "en",
+  "pdf": "polycrisis-apocalypse.pdf",
+  "pages": 67,
+  "dek": "A name for the worst way the polycrisis could end — and a framework for keeping it hypothetical. The decisive variable is the race between the rate crises add stress and the rate institutions repair it.",
+  "topics": [
+    "Systemic Risk",
+    "Institutions & Governance",
+    "Environment & Biodiversity"
+  ],
+  "abstract": [
+    "This report defines and examines the Polycrisis Apocalypse, a term coined by H Heuristics for a scenario in which multiple interconnected global crises intensify and reinforce one another beyond humanity’s capacity to manage them, triggering cascading systemic failures that end in the collapse of industrial civilisation and a prolonged period of societal regression lasting centuries or millennia. Unlike a conventional apocalypse, it has no single cause or moment. It is a process, and the report argues that its decisive variable is the balance between two rates: the rate at which interacting crises add stress, and the rate at which a civilisation’s institutions, infrastructure and finance repair it.",
+    "The historical record shows that such regressions are common and slow. In the Mycenaean world, writing disappeared with the palaces around 1200 BCE and did not return for roughly four and a half centuries; Roman-era lead pollution recorded in Greenland ice fell with the Antonine Plague of 165 CE and did not regain its level for more than 500 years; Egypt’s First Intermediate Period lasted about 125 years. Survival analysis of premodern states finds that their risk of termination rises over the first two centuries of their existence, and one survey of past civilisations puts their average lifespan at about 336 years. Collapse, in this record, is a loss of complexity rather than of people, and recovery is measured in generations.",
+    "A stress–repair model makes the mechanism explicit. Crises arrive at random and add stress; capacity repairs stress but saturates when stress is high; stress erodes capacity; and amplification between crises depends on how interconnected the system is. The model has a sharp threshold. At its default settings, 91 per cent of 300 simulated runs collapse within 1,000 years and the median dark age lasts 471 years, but raising repair capacity by a sixth cuts that share to 27 per cent, loosening coupling cuts it to 10 per cent, and a combination of levers removes it entirely. Faster rebuilding, through preserved knowledge and institutions, does not prevent collapse but reduces the share of time spent collapsed from 51 to 19 per cent. The model is illustrative, not a forecast.",
+    "Today’s ledger shows stress rising on most of the ten crisis domains in the definition — seven of nine planetary boundaries breached in 2025 against three in 2009, 65 state-based armed conflicts in 2025, 673 million people hungry in 2024 — while several measures of repair capacity weaken: official development assistance fell 23.1 per cent in real terms in 2025, the largest drop on record, and global human development gained 2.75 thousandths a year in 2019–2023 against 5.6 in the 2000s. Modern societies still recover fast, as the return of life expectancy after the pandemic shows. The report concludes that the Polycrisis Apocalypse is avoidable precisely because it is a race: the levers that keep repair ahead of stress — reducing shocks at source, loosening the couplings between systems, sustaining the capacity to repair, and preserving the means to rebuild — are known, and the model shows they compound.",
+    "This Word edition adds two things. It sets the concept beside human extinction — the adjacent and final category of risk — and argues that a long regression is not safely separated from it (Section 2.7). And it assesses the present trajectory (Section 12): with stress rising on six of ten fronts and measured repair capacity slowing, on current trajectories the world may be heading toward a Polycrisis Apocalypse. The evidence establishes the direction of travel, not a date or a probability."
+  ],
+  "findings": [
+    "The Polycrisis Apocalypse is a race, not an event. Crises add stress; a civilisation’s capacity — institutions, infrastructure, finance, cooperation — repairs it; and unrepaired stress erodes the capacity doing the repairing. The decisive variable is the balance between the two rates, not the size of any single crisis.",
+    "Past regressions were common and slow. Writing vanished from Greece for about 450 years after the Mycenaean palaces fell; Roman-era lead pollution in Greenland ice did not regain its second-century level for more than 500 years; Egypt’s First Intermediate Period lasted about 125 years. Descent took decades, recovery took centuries.",
+    "Collapse is a loss of complexity, not of people — but it is not safely separated from extinction. What disappears first is writing, coinage, cities and long-distance trade; yet a civilisation held for centuries at low capacity has lost much of what guards humanity against extinction-scale hazards.",
+    "The model has a sharp threshold. At default settings, 91 per cent of 300 simulated runs collapse within 1,000 years and the median dark age lasts 471 years. A one-sixth rise in repair capacity cuts the collapse share to 27 per cent; loosening coupling cuts it to 10 per cent; modest changes to all three levers remove collapse entirely across the 300 runs.",
+    "Preventing collapse and shortening it are different jobs. Rebuild speed barely changes the odds of falling, but cuts the share of simulated years spent collapsed from 51 per cent to 19 per cent. A serious strategy needs both.",
+    "Stress is rising on most fronts while repair capacity weakens: seven of nine planetary boundaries breached in 2025 against three in 2009, state-based armed conflicts at 65 (the most since records began in 1946), official development assistance down 23.1 per cent in real terms in 2025, and global human development gaining 2.75 thousandths a year in 2019–23 against 5.6 in the 2000s.",
+    "On current trajectories the world may be heading toward a Polycrisis Apocalypse — the directions of travel in the ledger and early-warning data are the ones the model identifies as dangerous. This is a judgement about direction, not a forecast of timing or probability.",
+    "The outcome is avoidable. Modern societies still recover fast — global life expectancy was back above its pre-pandemic level within three years — and the four levers that keep repair ahead of stress (shrink the shocks, loosen the links, fund the repair, preserve the means to rebuild) are known and compound. The cheapest moment to act is before the threshold."
+  ],
+  "keywords": [
+    "Polycrisis Apocalypse",
+    "polycrisis",
+    "civilisational collapse",
+    "societal collapse",
+    "human extinction",
+    "systemic risk",
+    "global catastrophic risk",
+    "dark ages",
+    "resilience",
+    "complexity",
+    "planetary boundaries",
+    "tipping points",
+    "critical slowing down",
+    "simulation"
+  ],
+  "jelCodes": [
+    "N00",
+    "Q54",
+    "Q56",
+    "O10",
+    "H87",
+    "D74"
+  ],
+  "jelNote": "economic history; climate and natural disasters; environment and development; economic development; international public goods; conflict",
+  "method": "The argument draws on the historical record of civilisational regression, a stress–repair simulation and a ledger of ten crisis domains. The spiral model runs in annual steps: a crisis arrives each year with probability equal to the chosen frequency per decade divided by ten, its size drawn from an exponential distribution and scaled by capacity; stress then rises with the crisis and with coupling, falls with repair (which saturates as stress rises), and decays slowly; capacity grows logistically and is eroded by unrepaired stress. Reported results are 300 runs over 1,000 years. The model and the ledger give direction, not dates or probabilities, and the model is explicitly illustrative rather than a forecast; Section 16 states its assumptions and limits in full, and Appendix B sets out how to reproduce and verify it. A web edition was published on 14 October 2026 at digitalreports.hheuristics.com/reports/polycrisis-apocalypse, with a preprint at doi:10.6084/m9.figshare.34517097.v1; this is the Word edition of 23 October 2026.",
+  "contents": [
+    "Key Findings",
+    "1. Overview",
+    "2. Definition",
+    "3. Intellectual Lineage",
+    "4. The Historical Record",
+    "5. How Crises Entangle",
+    "6. The Spiral Model",
+    "7. Where the Threshold Lies",
+    "8. The Present Ledger",
+    "9. Early Warnings",
+    "10. Off-Ramps",
+    "11. Four Illustrative Worlds",
+    "12. On Current Trajectories",
+    "13. What to Watch",
+    "14. Objections and Limits",
+    "15. Conclusion",
+    "16. Method"
+  ],
+  "backmatter": [
+    "Appendix A · The Extended Thesis: Complexity, Energy and Demography",
+    "Appendix B · Reproducing and Verifying the Model"
+  ],
+  "doi": "10.5281/zenodo.23591850",
+  "license": "CC BY-NC-ND 4.0"
+}
