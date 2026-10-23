@@ -1,0 +1,75 @@
+{
+  "slug": "the-great-transformation",
+  "number": "HH-2026-27",
+  "title": "The Great Transformation?",
+  "subtitle": "Demography, Migration and the Future of the West",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-23",
+  "updated": "2026-10-23",
+  "language": "en",
+  "pdf": "the-great-transformation.pdf",
+  "pages": 53,
+  "dek": "An evidence review of the “Western collapse” thesis — population decline, immigration, ethnic change and social cohesion — with scenarios to 2075.",
+  "topics": [
+    "Demography & Migration",
+    "Institutions & Governance"
+  ],
+  "abstract": [
+    "This report examines one of the most heated claims in contemporary politics: that the Western world is collapsing because of low native birth rates, large-scale immigration, the growth of minority populations and the cultural changes these bring. It treats that claim as a set of testable propositions, not as a premise or as a taboo. Some parts of the thesis rest on hard, uncontroversial numbers. European fertility has been below replacement for half a century. Deaths now outnumber births across the EU. Large cities on both sides of the Atlantic no longer have an ethnic majority. Other parts, most notably the idea that minorities are out-reproducing natives at a pace that drives the change, do not survive contact with the data. The aim is to separate the two, to quantify what is happening, and to set out plausible paths forward.",
+    "The West is not collapsing in any literal sense. It is going through the fastest change in population size, age structure and ethnic composition in its modern history, and its institutions are only partly adapted to it. The EU total fertility rate reached a record low of 1.34 in 2024, 36 per cent below replacement; annual EU-27 births have fallen 47 per cent since 1961, from 6.66 million to 3.55 million; the foreign-born share of the EU-27 population stood at 14.4 per cent in January 2025, against 10.0 per cent in 2015; and 23.8 per cent of EU births in 2024 were to foreign-born mothers, rising to 32–36 per cent in Germany, Spain, Austria and Belgium. In the United States, the non-Hispanic white share is 47.5 per cent among residents under 18 against 73.6 per cent among those 65 and over.",
+    "A claim-by-claim scorecard separates what the evidence supports from what it does not. Supported: that native European populations are in demographic decline, that Western societies are ageing substantially, that immigration is rapidly changing ethnic composition, and that majority-minority cities are already a present-day fact in the UK, Netherlands, Sweden, Belgium, Canada and the US. Not supported: that minorities reproduce rapidly enough to drive the change. Immigrant fertility exceeds native fertility by a modest 0.4 to 0.6 children per woman, shrinks across generations, and is falling in origin countries; foreign-citizen women in Germany have a fertility rate of 1.78, below replacement, and US Hispanic fertility has fallen from about 3.0 in 2007 to 1.93. Composition is changing mainly because of migration flows and age structure, not high minority birth rates.",
+    "Ageing rather than shrinking is the main economic shock: the EU old-age dependency ratio rises from 33 in 2022 to about 50 by 2050 in every scenario, reaching 58 by 2100 under high migration and 69 under none. Integration is uneven rather than uniformly failing, cohesion costs are measurable but smaller than often claimed, and politics has absorbed the shock first — parties campaigning mainly on immigration restriction now take 15 to 30 per cent of the national vote across most of western Europe, up from low single digits in the 2000s. Of four scenarios to 2075, the outcome closest to collapse requires high inflows combined with weak integration and economic stagnation; it is plausible in specific countries and cities but is not the central case for the West as a whole. The outlook depends on integration capacity more than on immigration numbers.",
+    "The report does not endorse the “Great Replacement” conspiracy theory, which holds that demographic change is being deliberately orchestrated to displace a population. That is a claim about intent, and no evidence supports it. Demographic change itself is real and measurable, and refusing to discuss it openly has arguably fuelled the conspiracy narrative. The report describes the change; it does not attribute it to a plot."
+  ],
+  "findings": [
+    "Population decline is real, structural and mostly locked in. No EU country has had replacement-level fertility since the 1970s–90s, deaths have exceeded births in the EU every year since 2012 with the gap passing 1.2 million a year in 2022–24, and the UN projects Europe’s population will fall about 20 per cent by 2100 — a third without immigration.",
+    "Ageing, not shrinking, is the main economic shock. The EU old-age dependency ratio rises from 33 in 2022 to about 50 by 2050 in every scenario; migration softens but does not reverse it, leaving 58 by 2100 under high migration and 69 under none.",
+    "Ethnic and national composition is changing quickly, and fastest among the young. One in four people aged 15–29 in the EU is foreign-born or has a foreign-born parent, around 40 per cent or more in Germany, Austria, Sweden and Belgium. In the US, children are already majority-minority.",
+    "Majority-minority cities are a present-day fact, not a forecast — London, Birmingham, Leicester, Luton, Slough, Amsterdam, Toronto, New York and many Swedish municipalities. National majority-minority status is projected for the US in the 2040s.",
+    "The “rapid reproduction” claim is largely wrong. Immigrant fertility exceeds native fertility by a modest 0.4–0.6 children per woman, shrinks across generations and is falling in origin countries; German foreign-citizen fertility is 1.78, below replacement, and US Hispanic fertility has fallen from about 3.0 in 2007 to 1.93. Composition changes through migration flows and age structure, not birth rates.",
+    "Integration is uneven, not uniformly failing. Non-EU-born adults face employment gaps of 13–17 points in northern Europe and up to 25 points for women, and their children face poverty rates three to four times higher — but the second generation does better, mixed marriages make up 15–22 per cent of marriages in much of western Europe, and gaps vary enormously by origin and entry channel.",
+    "Cohesion costs are measurable but smaller than often claimed: meta-analysis finds a statistically significant but modest negative link between local ethnic diversity and social trust, mostly trust in neighbours, while crime and fiscal outcomes vary sharply by origin group and policy regime.",
+    "Politics has absorbed the shock first. Parties campaigning mainly on immigration restriction now take 15–30 per cent of the national vote across most of western Europe, up from low single digits in the 2000s, and lead or join governments in several states — the clearest evidence that the transformation is straining consent.",
+    "The outlook depends on integration capacity more than on immigration numbers. Of four scenarios to 2075, the outcome closest to collapse requires high inflows combined with weak integration and economic stagnation; it is plausible in specific countries and cities but is not the central case for the West as a whole."
+  ],
+  "keywords": [
+    "demographic transition",
+    "sub-replacement fertility",
+    "immigration",
+    "demographic change",
+    "majority-minority societies",
+    "cultural change",
+    "social cohesion",
+    "integration",
+    "population ageing",
+    "Western Europe",
+    "United States"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "All 30 exhibits are built from primary official statistics: Eurostat (population, births, labour force, projections), the UN World Population Prospects 2024 and UN DESA migrant-stock estimates via Our World in Data, the US Census Bureau (Vintage 2024 estimates) and the CDC National Center for Health Statistics (2024 final birth data), with published figures from national statistical offices (ONS, INSEE, Destatis, SCB, CBS, Statistics Canada), election authorities and peer-reviewed research. Sources appear beneath every exhibit and in full in the References. On terminology: statistical systems describe origin in incompatible ways — country of birth (Eurostat), citizenship (Destatis fertility data), migration background (Germany, the Netherlands, Sweden), self-identified ethnicity (UK census) and race or Hispanic origin (US) — so each source’s own categories are used and identified, “native” means native-born unless stated, and none of these categories is treated as a measure of culture, values or allegiance. Projections are conditional scenarios, not forecasts; recent-year figures are often provisional; and cross-country comparisons of integration outcomes are affected by differences in the composition of migrant inflows, which matter more than immigration in the aggregate. Coverage is EU-27, EFTA, the United Kingdom, United States, Canada and Australia, with data through Q3 2026.",
+  "contents": [
+    "Key findings",
+    "1. The collapse thesis and how we test it",
+    "2. The demographic cliff: fertility and population decline",
+    "3. Ageing and the arithmetic of dependency",
+    "4. Migration: scale, pace and the global backdrop",
+    "5. Changing composition: generations, births and majority-minority cities",
+    "6. Testing the “rapid reproduction” claim",
+    "7. Integration outcomes and intermarriage",
+    "8. Cohesion, trust, security and public finances",
+    "9. The political response",
+    "10. Outlook to 2075: scenarios and signposts",
+    "11. Conclusion: collapse, transformation, or fragmentation?"
+  ],
+  "backmatter": [
+    "Annex · Country indicators",
+    "Methodological notes and references"
+  ],
+  "doi": "10.5281/zenodo.23596797",
+  "license": "CC BY 4.0"
+}

@@ -62,6 +62,7 @@ export default {
     'Public Health',
     'Water & Food Security',
     'Emerging Markets',
+    'Demography & Migration',
   ],
 
   nav: [
