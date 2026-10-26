@@ -1,0 +1,72 @@
+{
+  "slug": "human-variant-hypothesis",
+  "number": "HH-2026-30",
+  "title": "The Human Variant Hypothesis",
+  "subtitle": "DNA, Creation Structures, and the Recurrence of Human Form",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-26",
+  "updated": "2026-10-26",
+  "language": "en",
+  "pdf": "human-variant-hypothesis.pdf",
+  "pages": 53,
+  "dek": "Why unrelated people sometimes look alike, and what that reveals about how a shared genetic and developmental architecture generates human form. A conceptual synthesis and research proposal.",
+  "topics": [
+    "Complexity & Natural Form"
+  ],
+  "abstract": [
+    "Human appearance shows both substantial diversity and striking recurrence. Across the global population, individuals repeatedly develop similar facial proportions, anatomical features and combinations of visible traits, sometimes producing exceptionally close resemblance between people with no known close family relationship. This report proposes that such recurrence can be investigated through the concept of creation structures: the generative rules, biological constraints and developmental processes that channel variation into recognizable forms.",
+    "The Human Variant Hypothesis argues that human doppelgängers are not anomalous departures from biological individuality but an especially visible expression of structured phenotypic variation. A shared species-specific developmental architecture, polygenic inheritance, gene regulation, evolutionary history and population structure together constrain the space of possible human appearances, allowing similar configurations of traits to arise in different individuals.",
+    "Building on this foundation, the report develops a proposed framework of Generative Phenotypic Recurrence to classify, measure and explain recurring patterns of human resemblance. It distinguishes morphological similarity from genetic identity, common ancestry and social prominence, treating each as a separate empirical question. The broader aim is to establish whether the recurrence of human form can be understood as a specific biological expression of the general principles through which complex systems generate constrained but variable outcomes.",
+    "The report is explicit about what it is and is not. It is a research proposal and conceptual synthesis: it reviews the relevant science, states a hypothesis in testable form, offers a framework for measuring and decomposing resemblance, and outlines a research programme. It does not present new empirical data, and figures labelled illustrative are conceptual simulations rather than measured results. The term “human variant” is a proposed analytical term, not an established biological classification: it refers to a recurring phenotypic configuration, a combination of observable traits that resembles configurations found in other individuals. It does not refer to a kind of person, a subspecies, or any division of humanity, and Section 11 sets out why that distinction must be guarded carefully. “Creation structures” is used in a scientific and philosophical sense and carries no theological claim."
+  ],
+  "findings": [
+    "Human appearance has two features that seem to pull against each other — no two of more than eight billion faces are exactly the same, yet similar proportions, cranial structures and trait combinations keep recurring. Both follow from the structured way human biology turns a limited set of instructions into a large but bounded range of outcomes.",
+    "Facial form is highly polygenic: genome-wide studies have linked roughly two hundred genomic signals to normal-range facial shape, each of small effect and acting at both global and local scales. Under polygenic inheritance, very different genotypes can produce nearly identical trait values.",
+    "Development is a constraint engine. Developmental systems are canalized, modular and integrated, so realized forms occupy a small, structured region of all conceivable combinations of traits.",
+    "Look-alikes carry a measurable genetic signal: in a multi-omic study of pairs verified by facial-recognition software, about half of the most similar pairs clustered together on common genetic variants, while their epigenetic and microbiome profiles were much less alike.",
+    "Exact facial duplication remains extremely rare — measured precisely, the chance that two people match on eight facial dimensions falls below one in a trillion. Most perceived doppelgängers are matches on a smaller set of perceptually dominant dimensions.",
+    "The proposed Generative Phenotypic Recurrence framework treats resemblance as a measurable, decomposable quantity rather than an impression, across five stages — generative inputs, a constrained phenotype manifold, standardized measurement, recurrence mapping and attribution — with working metrics including a Recurrence Index and an effective dimensionality measure.",
+    "It separates four questions usually blurred together: morphological similarity (do they actually share facial and bodily geometry?), genetic identity, common ancestry, and social prominence (is the resemblance noticed mainly because one person is widely photographed?).",
+    "The evidence supports a moderate version of the hypothesis: human resemblance is not spread at random across an unlimited space of appearances but concentrates where development and inheritance make certain configurations likely."
+  ],
+  "keywords": [
+    "human variant hypothesis",
+    "phenotypic recurrence",
+    "creation structures",
+    "doppelgängers",
+    "look-alikes",
+    "facial morphology",
+    "polygenic inheritance",
+    "developmental constraint",
+    "canalization",
+    "morphospace",
+    "generative phenotypic recurrence"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "A conceptual synthesis and research proposal rather than a presentation of new empirical data. The report reviews the relevant science, states a hypothesis in testable form, offers a framework for measuring and decomposing resemblance, and outlines a research programme, with sources hyperlinked in the text mostly through persistent DOI links and listed in full in Appendix B. Figures labelled illustrative are conceptual simulations created to make an argument visible; they are not measured data. The term “human variant” is a proposed analytical term, not an established biological classification — it denotes a recurring phenotypic configuration and does not refer to a kind of person, a subspecies, or any division of humanity; Section 11 addresses ethics, governance and the boundary against typology directly. “Creation structures” is used in a scientific and philosophical sense and carries no theological claim. Section 10 sets out falsifiability conditions, limitations and alternative explanations.",
+  "contents": [
+    "Executive Summary",
+    "1. Introduction: The Problem of Recurring Faces",
+    "2. Creation Structures: Generative Rules and Constrained Form",
+    "3. From Genome to Face: The Genetic Architecture of Human Appearance",
+    "4. Development as a Constraint Engine",
+    "5. Population History and the Structure of Human Variation",
+    "6. The Human Variant Hypothesis",
+    "7. The Doppelgänger Problem: Evidence and Probability",
+    "8. A Framework of Generative Phenotypic Recurrence",
+    "9. Research Design and Methods",
+    "10. Falsifiability, Limitations and Alternative Explanations",
+    "11. Ethics, Governance and the Boundary Against Typology",
+    "12. Conclusion: The Recurrence of Human Form"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.5281/zenodo.23664361",
+  "license": "CC BY 4.0"
+}
