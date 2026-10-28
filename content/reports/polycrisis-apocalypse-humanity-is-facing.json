@@ -1,0 +1,83 @@
+{
+  "slug": "polycrisis-apocalypse-humanity-is-facing",
+  "number": "HH-2026-34",
+  "title": "The Polycrisis Apocalypse Humanity Is Facing",
+  "subtitle": "The Geography of Human Exposure, Demographic Inversion, and the Long Tail of an Unsafe Planet",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-28",
+  "updated": "2026-10-28",
+  "language": "en",
+  "pdf": "polycrisis-apocalypse-humanity-is-facing.pdf",
+  "pages": 46,
+  "dek": "Where Survivability Risk Regions are, who will live in them as the demographic centre shifts, and what an exposure integral over 48,000 years implies. Third in the Polycrisis Apocalypse line, after HH-2026-24 and HH-2026-33.",
+  "topics": [
+    "Systemic Risk",
+    "Demography & Migration",
+    "Climate Adaptation",
+    "Emerging Markets"
+  ],
+  "abstract": [
+    "This report examines the proposition that humanity’s most probable catastrophe is not an event but a process: a Polycrisis Apocalypse, in which interacting crises accumulate faster than civilisation can repair them, the capacity to repair erodes, and a majority of people come to live in Survivability Risk Regions — places where pollution, humid heat, infrastructure breakdown, poverty, debt and conflict bind together on thin institutions. The condition then stabilises at unsafe levels, or slowly worsens, over centuries and millennia.",
+    "The report maps the geography of exposure and quantifies it: about 35 per cent of humanity live in such regions today; a majority do by about 2050 and roughly 69 per cent by 2100 on a weak path, against 22 per cent on a buffered path. It then shows how the demographic inversion — contraction in Europe and East Asia, growth in Africa and South Asia — shifts the exposure-weighted human toward the most stressed regions. In the Africa Ascendant demographic scenario, Africans account for 62 per cent of Survivability Risk Region residents by 2500, and an African living in such a region becomes the single most common human circumstance. The analysis separates exposure from character: the arithmetic is one of capacity lagging growth, not of who people are.",
+    "Haiti, where compounded debt, environmental loss, disaster and armed-group capture have hollowed the state, is examined as the prototype of national collapse, and six of its preconditions are tested against a planetary version. Advanced weapons and societal turmoil are treated as discontinuity and capacity-loss channels. A long-tail model integrates person-years of exposure over 48,000 years, and finds that unsafe stabilisation can accumulate more suffering than extinction. The report closes with early-warning indicators and a programme of off-ramps, because every tier of risk has a lever that is cheaper now than after the 2040–2060 Danger Window."
+  ],
+  "findings": [
+    "The catastrophe in question is a process rather than an event: interacting crises accumulate faster than civilisation can repair them, the capacity to repair erodes, and the condition stabilises at unsafe levels or slowly worsens over centuries and millennia.",
+    "About 35 per cent of humanity already live in Survivability Risk Regions — places where pollution, humid heat, infrastructure breakdown, poverty, debt and conflict bind together on thin institutions.",
+    "A majority live in such regions by about 2050, and roughly 69 per cent by 2100 on a weak path against 22 per cent on a buffered path — a gap that is the whole argument for acting on the buffers.",
+    "The demographic inversion compounds it. Contraction in Europe and East Asia alongside growth in Africa and South Asia shifts the exposure-weighted human toward the most stressed regions.",
+    "In the Africa Ascendant scenario, Africans account for 62 per cent of Survivability Risk Region residents by 2500, and an African living in such a region becomes the single most common human circumstance. The arithmetic is one of capacity lagging growth, not of who people are.",
+    "Haiti serves as the prototype of national collapse — compounded debt, environmental loss, disaster and armed-group capture hollowing the state — and six of its preconditions are tested against a planetary version.",
+    "A long-tail model integrating person-years of exposure over 48,000 years finds that unsafe stabilisation can accumulate more suffering than extinction.",
+    "Every tier of risk has a lever that is cheaper now than after the 2040–2060 Danger Window, which is why the report closes on early-warning indicators and off-ramps rather than on the tail."
+  ],
+  "keywords": [
+    "polycrisis",
+    "survivability risk",
+    "wet-bulb temperature",
+    "demographic inversion",
+    "Africa",
+    "Haiti",
+    "state fragility",
+    "exposure integral",
+    "tipping points",
+    "long-term risk"
+  ],
+  "jelCodes": [
+    "Q54",
+    "J11",
+    "O15",
+    "H56",
+    "N17",
+    "F51"
+  ],
+  "jelNote": "",
+  "method": "Observed figures are attributed inline to published sources (UN, WHO, IPCC, World Bank, FAO, UNHCR, IEA and peer-reviewed literature). Population figures to 2100 are rounded from the UN World Population Prospects 2024 medium variant. Everything beyond 2100, every Survivability Risk Region share and the exposure integral are H Heuristics scenario outputs built from the parameters in Appendix A; they are illustrations, not forecasts. The report is analytical, not predictive, and contains no investment advice.",
+  "contents": [
+    "1. Executive Summary",
+    "2. Scope, Definitions and Method",
+    "3. Anatomy of the Polycrisis Apocalypse",
+    "4. The Four Tiers of Survivability Risk",
+    "5. The Geography of Human Exposure",
+    "6. The Demographic Inversion",
+    "7. The Median Human: Who Will Live in the Polycrisis?",
+    "8. Advanced Weapons and Societal Turmoil",
+    "9. Case Study: The Collapse of Haiti",
+    "10. Other Case Studies and Historical Analogues",
+    "11. Planetary Haiti: When the Majority World Is the Exposed World",
+    "12. The Long Tail: Centuries, Millennia and Extinction",
+    "13. Scenarios, Triggers and Early-Warning Indicators",
+    "14. Off-Ramps: What Changes the Path",
+    "15. Conclusion"
+  ],
+  "backmatter": [
+    "Appendix A · Model Parameters and Method",
+    "References"
+  ],
+  "doi": "10.5281/zenodo.23723251",
+  "license": "CC BY 4.0"
+}
