@@ -1,0 +1,80 @@
+{
+  "slug": "unified-architecture-of-reality",
+  "number": "HH-2026-39",
+  "title": "A Unified Architecture of Reality",
+  "subtitle": "Constraints, Flows, Emergence and Transformation Across the Scales of Existence",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-29",
+  "updated": "2026-10-29",
+  "language": "en",
+  "pdf": "unified-architecture-of-reality.pdf",
+  "pages": 87,
+  "dek": "The culminating synthesis of the Architecture of Creation series. Reality’s complex systems are not built by one mechanism, but they are built under one set of constraints and must solve one set of problems.",
+  "topics": [
+    "Complexity & Natural Form",
+    "Systemic Risk",
+    "Technology & Innovation"
+  ],
+  "abstract": [
+    "Reality contains systems organised across radically different scales: filaments of dark matter hundreds of millions of light-years long, stars, planets, cells, ecosystems, brains, cities and a global economy. They obey different rules and operate through different mechanisms. Yet they show recurring features: branching networks, nested hierarchies, modules, feedback loops, thresholds, heavy-tailed size distributions and cycles of growth, rigidity, release and reorganisation. This report asks whether a common architecture can explain how reality generates, organises, sustains and transforms complex systems, without assuming that every phenomenon reduces to one mechanism or that the universe has a purpose.",
+    "It proposes a six-layer framework: fundamental constraints; flows and interactions; emergence and organisation; persistence and adaptation; evolution and transformation; and dissolution and reorganisation. It reviews a century of earlier attempts at unification, separates energy, entropy, information and complexity, applies the framework to five domains — the physical universe, life, planetary systems, intelligence, and civilisation — and tests cross-domain claims with sixteen original models.",
+    "The thesis is that reality’s complex systems share an architecture of problems rather than an architecture of mechanisms. Every persistent structure, from a star to a city, must exist within physical constraints, draw on a flow of energy and matter, hold itself together against degradation, respond to disturbance, change over time and eventually come apart. Different domains solve these problems with different machinery. Where the machinery is genuinely shared — usually because the same mathematics applies near the same kind of instability — cross-domain prediction works. Where only the problem is shared, comparison is still useful because it tells researchers what to look for, but it does not license borrowing explanations.",
+    "The report concludes that a unified architecture is defensible as a comparative and methodological framework but not as a single theory. Three principles generalise as physical law or shared mathematics: organised structure requires a throughput of free energy; constraints bound the space of possible forms; and systems near certain thresholds share universal dynamics. Others, including quarter-power scaling, self-organised criticality and Gaia-like regulation, remain domain-specific or contested. The defensible architecture must be pluralist about mechanism, graded by strength of evidence, and falsifiable — the report states eight testable hypotheses — and on that basis it is real but modest: a map of the problems all complex systems must solve and of the small set of mathematical forms their solutions tend to take. It is not a theory of everything, and the report argues that the search for one is likely to mislead."
+  ],
+  "findings": [
+    "Three principles generalise as law or shared mathematics: every persistent organised structure is sustained by a throughput of free energy and exports entropy; every domain operates within hard constraints that bound the space of possible forms — all known structures lie between a quantum limit, a black-hole limit and the density of matter; and systems approaching a fold-type threshold share universal dynamics, including critical slowing down, whatever they are made of.",
+    "Similar structures routinely arise from different mechanisms. Three branching networks grown by random aggregation, resource-seeking growth and length minimisation look alike, two sharing river-like Strahler ratios of 4.5 and 4.9, yet their causes have nothing in common; four different generators produce heavy-tailed distributions indistinguishable by shape alone. Resemblance is weak evidence of shared mechanism.",
+    "Connectivity shapes outcomes, but not in one direction. Rewiring 1 per cent of ties in a clustered network cut simple-contagion spread time from 150 steps to 23, while rewiring 30 per cent stopped a complex contagion spreading at all; modularity contained shocks to under 6 per cent of a network but slowed beneficial diffusion by an order of magnitude.",
+    "Persistence requires maintenance, and maintenance creates thresholds: when structure captures the flow that sustains it, there is a minimum flow below which organisation cannot exist and collapse is abrupt and delayed, with higher-maintenance structures collapsing earlier under the same decline in supply.",
+    "Hierarchy is favoured because stable intermediates make assembly feasible — in Simon’s watchmaker parable, computed here, a three-level hierarchy of ten-part modules finished about 1,400 times faster than a flat sequence of 1,000 parts at a 1 per cent chance of interruption per step.",
+    "The same mathematics can have opposite consequences. Organisms and cities both obey power-law scaling, but metabolic rate per kilogram falls by 44 per cent for every tenfold increase in mass while socio-economic output per person rises by about 41 per cent for every tenfold increase in city population. A shared equation is not a shared explanation.",
+    "Energy, entropy, information and complexity must be kept apart. Statistical complexity peaks between order and randomness, so maximum entropy is minimum complexity, and a candle flame scores ten million times higher than a human brain on energy rate density. No single number captures how organised a system is.",
+    "Some popular unifying claims do not survive as general principles: self-organised criticality, strong Gaia-type regulation, a universal three-quarter scaling law and a directional law of increasing complexity each hold in particular cases only, and the apparent acceleration of novelty through cosmic history is partly an artefact of logarithmic time axes.",
+    "The framework’s main value is diagnostic. Asking the same six questions of any system — about its constraints, flows, organisation, maintenance, change and dissolution — exposes what is known, what is missing, and where an analogy from another domain might help or mislead."
+  ],
+  "keywords": [
+    "unified architecture of reality",
+    "complex systems",
+    "systems theory",
+    "emergence",
+    "architecture of creation",
+    "free-energy throughput",
+    "critical slowing down",
+    "scaling laws",
+    "network structure",
+    "hierarchy",
+    "entropy and information",
+    "unification"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "The report reviews a century of earlier attempts at unification, separates energy, entropy, information and complexity as distinct quantities, applies a six-layer framework to five domains, and tests cross-domain claims with sixteen original models; claims are graded on the four-level scale used across the series, distinguishing the few principles that are physical law from the larger number that are shared mathematics and the larger still that are analogies. It contains 28 figures and 14 tables. Many figures are original calculations made for this report: the cosmic web in the Zel’dovich approximation; a mass–radius map of structures from protons to the observable universe with the limits that bound them; entropy and statistical complexity along the logistic map; recomputed energy rate densities with counterexamples; the exponent of a West–Brown–Enquist supply network as a function of its depth; Daisyworld; the memory capacity of a Hopfield network; simple and complex contagion on small-world networks; three branching networks grown by different mechanisms and compared by fractal dimension and Strahler ratios; heavy tails from four different generators; network robustness to failure and attack; shock containment in modular networks; Simon’s watchmaker parable; critical slowing down before a fold; feedback with gain and delay; and a model of structures that exist only above a minimum flow. Each caption says what was computed; the remaining figures are explanatory diagrams or charts of published estimates, credited in their source lines.",
+  "contents": [
+    "About This Report",
+    "Executive Summary",
+    "1. Introduction",
+    "2. Literature Review: A Century of Unification",
+    "3. The Theoretical Framework",
+    "4. Energy, Entropy, Information and Complexity",
+    "5. Domain I: The Physical Universe",
+    "6. Domain II: Life and Biological Complexity",
+    "7. Domain III: Planetary Systems",
+    "8. Domain IV: Intelligence",
+    "9. Domain V: Civilisation and Human Systems",
+    "10. Recurring Structures Across Domains",
+    "11. Quantitative Tests: Do Cross-Domain Similarities Predict?",
+    "12. Research Hypotheses",
+    "13. The Limits of Unification",
+    "14. Implications",
+    "15. Conclusion: Is a Unified Architecture Scientifically Defensible?"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.5281/zenodo.23749513",
+  "license": "CC BY 4.0"
+}
