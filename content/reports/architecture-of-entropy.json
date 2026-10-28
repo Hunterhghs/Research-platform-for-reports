@@ -1,0 +1,77 @@
+{
+  "slug": "architecture-of-entropy",
+  "number": "HH-2026-35",
+  "title": "The Architecture of Entropy",
+  "subtitle": "Thermodynamics, Complexity and the Systemic Unraveling of Civilisations",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-28",
+  "updated": "2026-10-28",
+  "language": "en",
+  "pdf": "architecture-of-entropy.pdf",
+  "pages": 44,
+  "dek": "What the second law can and cannot tell us about the loss of organised structure in civilisations, ecosystems and the Earth system. The mirror image of The Architecture of Creation.",
+  "topics": [
+    "Complexity & Natural Form",
+    "Systemic Risk",
+    "Environment & Biodiversity"
+  ],
+  "abstract": [
+    "A cup of coffee cools, a sandcastle erodes, a bridge needs repainting, a company loses its best people and a government loses the trust of the governed. Physics has one word, entropy, that sits behind the first two and a loose, metaphorical presence behind the last three. Writers on collapse reach for it constantly. This report asks whether the reach is justified, and if it is, what it adds to the ordinary study of why societies fail. It is a companion to The Architecture of Creation, which asked why the same forms recur in nature, and applies the same discipline: separate the layers of explanation, grade the evidence, state what would count against the thesis, and keep analogy honest.",
+    "The thesis is that persistent structure is a flow, not a state. Every organised system, from a cell to a city, exists because energy and materials pass through it and because its maintenance and repair keep pace with its wear. Entropy sets the cost of that upkeep. Systemic unraveling is what happens when accumulated stress, tighter coupling and weaker recovery push the rate of loss above the rate of restoration, so that buffers shrink, failures cascade, and the system settles into a simpler state it cannot easily leave. The resulting combination of stressors, couplings and recovery limits is called an unraveling structure — the mirror image of the creation structure developed in the series’ first report.",
+    "The thesis is deliberately narrow. It does not say that civilisations obey the second law in some mystical sense, and it does not say that decline is inevitable. It says that thermodynamics fixes the underlying constraint — order must be paid for — that complexity science explains how stress turns into abrupt change, and that the history of social collapse shows the pattern in practice. Entropy is a precise physical quantity and its social uses are analogies: thermodynamic entropy, information entropy and the looser organisational entropy of social writing are three different things, and the third is a useful label only for processes shown mechanism by mechanism.",
+    "The practical payoff is a short set of working heuristics. Measure the margin between restoration and loss, not the size of the stress. Size buffers to the hub, not the average. Treat maintenance as the primary budget line of a durable system. Watch for slowing recovery as an early warning. Reduce coupling where it carries no benefit and build modularity where it does. And treat the period before a threshold is crossed as the cheap one, because after it the cost curve changes shape. The unraveling pathway is not a forecast: ozone recovery under the Montreal Protocol, solar and wind output in 2025 about 170 times its 2000 level, and population growth slowing toward a peak all show deterioration pathways being bent or reversed."
+  ],
+  "findings": [
+    "Entropy is a precise physical quantity, and its social uses are analogies. Thermodynamic entropy, information entropy and the looser ‘organisational entropy’ of social writing are three different things — the first Grade A, the second Grade A in its own domain, the third a useful label for processes that must be shown mechanism by mechanism.",
+    "Local order is cheap and global order is paid for by export. The Earth stays far from equilibrium because it receives sunlight at about 5,800 K and radiates heat at about 255 K, exporting roughly 23 times more entropy per joule than it imports.",
+    "Complex structures need continuous throughput. Energy rate density rises by about six orders of magnitude from galaxies to industrial society, and the world now uses roughly 600 exajoules of primary energy a year, about 15 times the 1900 level. Structure that costs more to maintain than it returns cannot be sustained.",
+    "Stress accumulates silently and then shows up as speed. Seven of nine planetary boundaries are breached, atmospheric CO₂ averaged 427 ppm in 2025, and average wildlife populations have fallen 73 per cent since 1970. Systems approaching a threshold lose resilience before they fail: in the report’s ensemble, variance more than doubled and autocorrelation rose from 0.58 to 0.78 in the run-up to tipping.",
+    "Cascade severity depends on buffers and structure more than on the size of the shock. In a load-redistribution model a random network lost 8 per cent of its nodes at 30 per cent spare capacity, while a hub-and-spoke network lost 79 per cent — and removing the three largest hubs cost about 88 per cent of the network even with 100 per cent spare capacity.",
+    "Loss is fast and recovery is slow, and that asymmetry creates hysteresis. In the bistable model collapse occurs at a stress level of 2.6 but recovery requires stress to fall below 1.8; real recovery times range from months for supply chains to millennia for ice sheets.",
+    "The unraveling pathway is not a forecast. Ozone recovery under the Montreal Protocol, solar and wind output in 2025 about 170 times its 2000 level, and population growth slowing toward a peak all show deterioration pathways being bent or reversed. Section 8 lists eight predictions by which the thesis could fail.",
+    "The heuristics that follow: measure the margin between restoration and loss rather than the size of the stress; size buffers to the hub, not the average; treat maintenance as the primary budget line; watch for slowing recovery as an early warning; reduce coupling where it carries no benefit; and act before a threshold is crossed, because after it the cost curve changes shape."
+  ],
+  "keywords": [
+    "entropy",
+    "thermodynamics",
+    "second law",
+    "complexity science",
+    "systemic risk",
+    "collapse dynamics",
+    "unraveling structure",
+    "resilience",
+    "early warning signals",
+    "critical slowing down",
+    "hysteresis",
+    "maintenance",
+    "polycrisis"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "The report draws on thermodynamics and statistical physics, complexity science, ecology, economic history and archaeology, and on current Earth-system and demographic data. Primary data come from NOAA, NASA GISTEMP, the World Bank, the Energy Institute and Our World in Data, accessed on 28 October 2026, with some 2026 values preliminary. Where a result comes from a published paper, the paper is linked; where it comes from a simulation or from H Heuristics judgement, the caption says so. Claims are graded on the same four-level scale used across the series: A established (derived mathematically, or confirmed repeatedly by independent experiment or observation); B well supported (strong evidence from several lines of work, with some unresolved dissent); C plausible or contested (credible mechanism, but the field is actively debating it); and D speculative (a hypothesis offered for testing, labelled as such wherever it appears). Of the 22 figures, eight plot published data or values reported in cited papers, seven are original simulations or calculations written for this report, and seven are diagrams and judgement-based syntheses; each caption says which. Simulation outputs illustrate mechanisms, are not forecasts, and their parameters are listed in Appendix B.",
+  "contents": [
+    "About This Report",
+    "Executive Summary",
+    "1. Central Thesis and Scope",
+    "2. The Thermodynamic Foundations of Entropy",
+    "3. The Emergence and Persistence of Structure",
+    "4. The Entropy of Civilization",
+    "5. The Polycrisis as a Systemic Unraveling Process",
+    "6. Post-Peak Systems and Long-Term Decline",
+    "7. Toward a General Theory of Systemic Unraveling",
+    "8. Testing the Thesis: Predictions, Limits and Risks",
+    "9. Applications and Heuristics",
+    "10. Conclusion"
+  ],
+  "backmatter": [
+    "References",
+    "Appendix A · Key Quantities",
+    "Appendix B · Model Notes"
+  ],
+  "doi": "10.5281/zenodo.23724847",
+  "license": "CC BY 4.0"
+}
