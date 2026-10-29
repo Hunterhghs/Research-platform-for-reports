@@ -1,0 +1,81 @@
+{
+  "slug": "architecture-of-polycrisis-apocalypse",
+  "number": "HH-2026-44",
+  "title": "The Architecture of the Polycrisis Apocalypse",
+  "subtitle": "Human Exposure, Interconnected Crises, and the Long-Term Survival Trajectory of Civilization",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-29",
+  "updated": "2026-10-29",
+  "language": "en",
+  "pdf": "architecture-of-polycrisis-apocalypse.pdf",
+  "pages": 79,
+  "dek": "The flagship statement of the Polycrisis Apocalypse thesis: ten coupled pressures, ranked by how many people they reach, and nine original calculations showing when thin buffers turn separate shocks into compounding, persistent harm.",
+  "topics": [
+    "Systemic Risk",
+    "Climate Adaptation",
+    "Demography & Migration"
+  ],
+  "abstract": [
+    "Public imagination tends to picture the end of civilization as a single event: a nuclear exchange, an asteroid, an engineered pandemic. This report argues that the more probable and more insidious danger has a different shape. It is a Polycrisis Apocalypse — a term coined by Hunter Hughes, Founder of H Heuristics — an interconnected system of environmental, biological, economic, demographic, technological and geopolitical pressures that reinforce one another and produce cumulative harm greater, or more persistent, than any single crisis would cause alone. The report is the flagship statement of an argument H Heuristics has developed across a series of studies, and its organizing idea is compounding human exposure: a hazard becomes a humanitarian problem when it reaches many people, lasts a long time and meets people who cannot protect themselves.",
+    "The report develops the thesis in four steps. It defines the polycrisis as a system of root drivers, transmission pathways and human exposure. It ranks ten pressures by reach, persistence, severity and capacity to amplify others, and finds that warming and extreme heat, air pollution, and poverty and inequality form the system’s core. It analyses six feedback loops and shows, with nine original calculations, how coupling, correlation and thin buffers convert separate shocks into compounding harm. And it traces exposure across time horizons from 2025 to the millennial scale, before setting out a four-tier framework for human survivability and a prevention agenda.",
+    "The report concludes that the polycrisis is real and already under way, but that its endpoint is not fixed. Collapse is neither inevitable nor instantaneous. A global collapse followed by multi-century regression is treated seriously as a tail risk but graded D: a scenario to be prevented, not a forecast to be planned around. The scale of future harm will depend less on any single hazard than on whether societies rebuild buffers, redundancy and adaptive capacity faster than compounding pressures erode them."
+  ],
+  "findings": [
+    "The polycrisis is a system, not a list. In the report’s coupling matrix, 66 of 90 possible directed links between ten domains are active, 12 of them strong. Climate change and geopolitical fragmentation are the main transmitters of stress; poverty, ill health and food insecurity are where harm accumulates.",
+    "Exposure is vast, chronic and unequal. Almost everyone breathes polluted air, about four billion people face severe water scarcity for at least one month a year, and 3.3 to 3.6 billion live in contexts highly vulnerable to climate change, with exposure concentrated where adaptive capacity is weakest.",
+    "Three pressures form the core of the system. Ranked by reach, persistence, severity and amplification, warming and extreme heat score highest (4.75 of 5), followed by air pollution and by poverty and inequality (4.20 each).",
+    "Coinciding shocks can be super-additive, but only when buffers are thin. In the report’s ten-domain model, simultaneous shocks caused 1.24 times the harm of the same shocks arriving separately when buffers were thin, 1.01 times when buffers were deep, and exactly the sum when transmission was linear — so super-additivity can be designed against.",
+    "Repeated shocks can ratchet capacity down. With an eight-year recovery time, a society hit by a major shock every ten years kept a median capacity of 0.93, while one hit every five years fell to 0.07 within a century.",
+    "Correlation is the hidden multiplier. If five major grain-producing regions each suffer a one-in-twenty-year harvest failure independently, three or more fail together about once in 902 years; with moderate correlation (ρ = 0.4) the same event recurs about once in 67 years, 13 times more often.",
+    "Chronic harm can exceed catastrophic harm. In the report’s illustration, a slow polycrisis never matches an acute catastrophe’s peak, yet its cumulative harm overtakes the catastrophe’s entire toll after about 112 years and reaches three times that toll within two centuries.",
+    "The map of risk is being redrawn. World population is projected to peak at about 10.3 billion in the mid-2080s, with Africa growing from 1.51 billion to 3.81 billion by 2100, and most growth in hot, rapidly urbanizing, lower-income regions; demography, not only climate, decides how many people are exposed.",
+    "Some harms are effectively permanent on human time scales. About 24 per cent of a pulse of carbon dioxide remains in the atmosphere after a thousand years, and sea level will rise 2 to 3 metres over two millennia at 1.5 °C and 2 to 6 metres at 2 °C — whereas air pollution clears within days. Persistence should set urgency.",
+    "A global collapse followed by multi-century regression is possible but not probable on current evidence. The evidence supports a narrower and more actionable claim: the polycrisis is already causing large, unequal, compounding harm, and the window for cheap prevention is now."
+  ],
+  "keywords": [
+    "Polycrisis Apocalypse",
+    "polycrisis",
+    "systemic risk",
+    "global catastrophic risk",
+    "human exposure",
+    "cascading failure",
+    "feedback loops",
+    "climate change",
+    "extreme heat",
+    "air pollution",
+    "poverty",
+    "survivability",
+    "societal collapse",
+    "prevention"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "The report grades every major claim on the four-level scale used across H Heuristics reports (A established, B well supported, C plausible or contested, D speculative) and separates established findings from scenarios. It contains 29 figures and 22 tables. Nine figures chart published data from Our World in Data extracts of HadCRUT5 temperatures, atmospheric carbon dioxide, the UN World Population Prospects 2024, World Bank poverty estimates, FAO hunger estimates, the Living Planet Index, the EM-DAT disaster database and the Uppsala Conflict Data Program, or from figures stated in cited reports. Nine figures present original calculations written in Python: a coupling matrix and network analysis of ten pressures; a model of super-additive harm when shocks coincide; a comparison of acute and chronic harm; a model of repeated shocks and recovery; the probability of simultaneous harvest failures under correlation; threshold cascades on networks with different buffers; the persistence of pollutants and committed sea-level rise; the multiplicative structure of risk; and a stylized Polycrisis Exposure Index to 2300. The models are illustrative: they show how mechanisms behave, not what will happen. The exposure ranking and coupling matrix are expert judgements informed by evidence, tested for sensitivity. The report builds on the H Heuristics monograph The Architecture of the Polycrisis Apocalypse: Entropy, Cascading Failure, and the Long-Term Unraveling of Human Civilization (figshare preprint, doi:10.6084/m9.figshare.34856832).",
+  "contents": [
+    "About This Report",
+    "Executive Summary",
+    "1. The Polycrisis as a System",
+    "2. Intellectual Foundations",
+    "3. The Global Human Exposure Baseline",
+    "4. The Climate and Pollution Nexus",
+    "5. Poverty and Unequal Survivability",
+    "6. Water, Food and Ecological Stability",
+    "7. Biological and Technological Pressures",
+    "8. Economic Fragility and Geopolitical Fragmentation",
+    "9. The Demographic Geography of Risk",
+    "10. Feedback Loops and Cascade Dynamics",
+    "11. The Polycrisis Across Centuries",
+    "12. The Architecture of Human Survivability",
+    "13. The Prevention Imperative",
+    "14. Conclusion"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.5281/zenodo.23772437",
+  "license": "CC BY 4.0"
+}
