@@ -1,0 +1,81 @@
+{
+  "slug": "architecture-of-civilization",
+  "number": "HH-2026-40",
+  "title": "The Architecture of Civilization",
+  "subtitle": "Energy, Coordination, Interdependence and the Conditions for Its Own Survival",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-29",
+  "updated": "2026-10-29",
+  "language": "en",
+  "pdf": "architecture-of-civilization.pdf",
+  "pages": 80,
+  "dek": "Civilization as a race between two capacities usually treated as one: the capacity to produce complexity, and the capacity to manage its consequences. It lasts only while the second keeps pace with the first.",
+  "topics": [
+    "Systemic Risk",
+    "Institutions & Governance",
+    "Complexity & Natural Form",
+    "Infrastructure"
+  ],
+  "abstract": [
+    "Civilization is the largest structure humans have built, and no one designed it. It emerged from billions of individual decisions to plant, trade, record, obey, invent and cooperate. Over about twelve thousand years those decisions produced a system that now feeds eight billion people, moves goods and information around the planet in days or milliseconds, and alters the planet’s climate and chemistry. This report examines that system as an architecture of seven interdependent layers — energy, resources, technology, institutions, information, economic production and social coordination — and works through five dimensions: material foundations; the emergence of organized society; complexity and interdependence; the architecture of global civilization; and civilization’s vulnerabilities.",
+    "The thesis is that civilization is best understood as a race between two capacities that are often treated as one. The first is the capacity to produce complexity: to generate surplus, specialize, connect, build infrastructure and invent technologies that let more people do more things. The second is the capacity to manage the consequences of that complexity: to detect problems, absorb shocks, repair damage, govern shared resources, settle conflicts and change course. Both have grown enormously over history, but they are driven by different forces and need not grow at the same rate. Production is rewarded quickly and privately; management is usually rewarded slowly and collectively, and often only after a crisis has shown what was missing.",
+    "The report tests its central hypothesis — that civilization’s long-term trajectory is shaped by the relationship between its organizational complexity, productive capacity, interdependence and ability to adapt — with ten original models and a review of historical collapses and recoveries. Where the capacity to manage complexity keeps pace with the capacity to produce it, complexity has repeatedly increased resilience. Where it falls behind, a society accumulates hidden exposure that is released through crises. The report finds no law that dooms complex societies. It does find that resilience is not automatic and must be built at the same rate as the complexity it protects.",
+    "Complexity is neither civilization’s destiny nor its doom. The global civilization of the 2020s has produced complexity at an unprecedented rate, and whether its capacity to manage the consequences is growing as fast is the most important open question the report identifies. Its working judgment is that it is not — a judgment it grades D, speculative, because the quantity cannot yet be measured well. In the report’s own summary: civilization lasts not by avoiding complexity but by building the capacity to manage complexity as fast as it builds the complexity itself."
+  ],
+  "findings": [
+    "Every civilization rests on an energy and material surplus. Energy capture per person rose roughly 46-fold from foraging to the technological society of the 1970s United States, and the share of workers free to do something other than farm, 1 − 1/s, rose from under a fifth to 98 per cent as the number of people one farmer supports moved from about 1.2 to about 50.",
+    "Coordination at scale requires hierarchy, writing and institutions because direct relationships do not scale. With a span of control of ten, a state of a million needs six levels of hierarchy and the world ten — but if each level relays 90 per cent of decision-relevant information, only 35 per cent of what happens at the base of a world-scale hierarchy reaches the top.",
+    "Large-scale order emerges from local rules. When migrants favour larger and more fertile places, a few thousand villages grow into a heavy-tailed urban hierarchy whose ten largest centres hold 88 per cent of the population; without cumulative advantage they hold under 2 per cent. No planner is needed for cities, capitals and hinterlands to appear.",
+    "Accumulated knowledge depends on population size and connection, and can be lost: in Henrich’s model of cumulative culture a skill of moderate difficulty is maintained only if about 620 or more people learn from one another, and isolating a population of 4,000 down to 200 reverses its progress.",
+    "Interdependence multiplies output and fragility together. A single-sourced supply chain four tiers deep with four inputs per product loses 97 per cent of final output when only 1 per cent of firms are disrupted; adding a second supplier for each input cuts the loss in a six-by-six chain from 100 per cent to 2 per cent, and two coupled infrastructure networks collapsed completely under a shock that left an uncoupled network 53 per cent functional.",
+    "Global integration insures against local shocks but not correlated ones. Pooling harvests across twenty regions cuts the annual chance of a 15 per cent food shortfall from about 11 per cent to virtually zero when regional shocks are independent, but only to about 8 per cent when they are 80 per cent correlated — as they increasingly may be under climate change.",
+    "Vulnerabilities interact more than they add. In the report’s assessment institutional weakness is the most connected node, both driving and driven by the others, and conflict is the strongest amplifier.",
+    "Collapse is usually reorganization, and recovery depends on adaptive capacity. Most historical collapses were followed by reorganization at lower complexity rather than disappearance; in the recovery model a society with high adaptive capacity almost never collapsed within 200 years under a moderate stream of shocks, while one with none collapsed 86 per cent of the time.",
+    "When production of complexity outpaces its management, crises become the regulator. In the complexity-gap model systemic crises rise from about one per century to a steady state of about 4.4, and long-run growth depends almost twice as much on growth in management capacity as in productive capacity — doubling productive growth from 2 to 4 per cent raised realized growth only from 1.0 to 1.6 per cent. This is an original model, graded C."
+  ],
+  "keywords": [
+    "civilization",
+    "complex systems",
+    "economic development",
+    "systemic risk",
+    "coordination",
+    "interdependence",
+    "energy surplus",
+    "institutions",
+    "supply-chain fragility",
+    "collapse and recovery",
+    "adaptive capacity",
+    "architecture of creation"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "The report proposes six principles and a central hypothesis, tests them with ten original models and a review of historical collapses and recoveries, and grades its claims on the four-level scale used across the series — A established, B well supported, C plausible or contested, D speculative. Its headline judgment about the present, that the capacity to manage complexity is not keeping pace with its production, is graded D because it cannot yet be measured well. The report contains 23 figures and 15 tables. Ten figures present original models built for this report, covering the cost of coordinating large groups; settlement growth by cumulative advantage; the link between population size and cumulative skill; cascading failure in production networks; collapse in interdependent infrastructure networks; trade as insurance against harvest failure; diminishing returns to complexity; a race between the capacity to produce complexity and the capacity to manage it; secular cycles of growth and crisis; and recovery under repeated shocks. Each caption says what was computed and with what assumptions. The models are deliberately simple: they show how mechanisms behave, not what will happen to any particular society. The other figures are diagrams drawn for this report or charts of published estimates, with source lines crediting the original data, rounded for display.",
+  "contents": [
+    "About This Report",
+    "Executive Summary",
+    "1. Introduction",
+    "2. Literature Review: Theories of Civilization",
+    "3. The Theoretical Framework",
+    "4. Dimension I: The Foundations of Civilization",
+    "5. Dimension II: The Emergence of Organized Society",
+    "6. Dimension III: Complexity, Technology and Interdependence",
+    "7. Dimension IV: The Architecture of Global Civilization",
+    "8. Dimension V: Civilization’s Vulnerabilities",
+    "9. Resilience, Collapse and Recovery",
+    "10. Testing the Complexity Gap",
+    "11. The Research Questions Revisited",
+    "12. Hypotheses and Research Agenda",
+    "13. The Limits of the Framework",
+    "14. Implications",
+    "15. Conclusion"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.5281/zenodo.23750163",
+  "license": "CC BY 4.0"
+}
