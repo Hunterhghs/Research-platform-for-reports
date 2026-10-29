@@ -1,0 +1,79 @@
+{
+  "slug": "hunter-variant-hypothesis",
+  "number": "HH-2026-43",
+  "title": "The Hunter Variant Hypothesis",
+  "subtitle": "Why Similar Faces Recur: Genetics, Biological Constraint, Probability and Perception in the Brunette Northern and Northwestern European Archetype",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-29",
+  "updated": "2026-10-29",
+  "language": "en",
+  "pdf": "hunter-variant-hypothesis.pdf",
+  "pages": 62,
+  "dek": "Why do unrelated people look alike? Using one consenting reference subject, the report traces recurring resemblance to four interacting layers — genetics, developmental constraint, probability and perception — and sets out a pre-registered test.",
+  "topics": [
+    "Complexity & Natural Form"
+  ],
+  "abstract": [
+    "Unrelated people frequently appear remarkably similar. The Hunter Variant Hypothesis, proposed by H Heuristics, studies this recurrence from a fixed vantage point, using its founder, Hunter Hughes, as a documented and consenting reference case for the brunette Northern and Northwestern European archetype: medium-to-dark brown hair, fair skin, light-to-intermediate eyes and an elongated-to-angular facial architecture. The report synthesizes the earlier H Heuristics essays and preprint with peer-reviewed research in population genetics, facial genomics, developmental biology, probability, cognitive neuroscience and biometrics.",
+    "It argues that recurrence emerges from four interacting layers. Genetics supplies a shared pool of common, polygenic appearance variants. Biological constraint bounds and clusters the space of faces. Statistical probability guarantees partial recurrence in a population of eight billion. And human perception, which is holistic, cue-driven and threshold-based, converts potential resemblance into experienced resemblance, amplified by online exposure and the Pareto distribution of visibility. The report formalizes the five-type Hunter Variant Spectrum, quantifies the archetype’s likely prevalence with illustrative models, reviews evidence that algorithmically confirmed look-alikes share genetic variation, and specifies a pre-registered, blind, multi-rater research protocol with matched controls, algorithmic cross-checks, explicit null-result interpretations, ethical safeguards and an eighteen-month roadmap.",
+    "The hypothesis is a resemblance hypothesis, not an identity or ancestry hypothesis. “Hunter variants” are not a biological category, and the report does not claim that they are: look-alikes need share no connection beyond ordinary human variation. The focus on one archetype is analytical, not hierarchical, and implies nothing about that archetype being more significant, desirable or original than any other; the same tools apply to any archetype in any population. The report explicitly rejects any inference of character, capability or worth from appearance, and figures marked illustrative, schematic or simulated present models and design examples, not measured results."
+  ],
+  "findings": [
+    "The Hunter Variant Hypothesis is best understood as a resemblance hypothesis, not an identity or ancestry hypothesis. Look-alikes need share no special connection beyond ordinary human variation, and the hypothesis proposes no hidden mechanism.",
+    "The brunette Northern and Northwestern European archetype is common because its component traits are common. Hair, eye and skin colour are polygenic, shaped by hundreds of small-effect variants plus a few major loci such as HERC2/OCA2 and MC1R, and the alleles behind this combination are frequent across the region.",
+    "Facial shape is highly heritable and polygenic, with more than 200 genomic signals identified. Because features vary relatively independently and many allele combinations yield similar forms, partial resemblance — the ‘hybrid Hunter’ — is a natural consequence of facial genetics.",
+    "Faces are built by a shared, conserved developmental programme, so the space of possible faces is bounded and clustered: integrated traits travel together and create convergent resemblances, while modular traits vary independently and create hybrid ones.",
+    "In a population of eight billion, partial resemblance is a statistical certainty. Each additional required trait shrinks the pool steeply, yet an illustrative six-filter model of the archetype still describes about 170,000 people in Northern and Northwestern Europe alone.",
+    "Perception does much of the work. Unfamiliar faces are matched holistically and through a few external cues such as hair and face outline, with error rates of 10 to 30 per cent common in controlled tasks; a shared quarter to half of the cues can be enough to trigger familiarity.",
+    "A 2022 Cell Reports study found that unrelated look-alikes confirmed by face-recognition algorithms shared more genetic variants than random pairs, while differing epigenetically and in their microbiomes — support for a shared polygenic ‘recipe’, but not for any single ‘variant gene’.",
+    "The internet acts as a variant amplifier: it multiplies each observer’s exposure to faces and, through engagement-driven recommendation, enriches the stream for archetypes already noticed. Perceived frequency, prominence and true prevalence are three different claims requiring three kinds of evidence.",
+    "The hypothesis is testable. A six-step, pre-registered protocol compares nominated candidates against matched brunette controls using blind multi-dimensional ratings and algorithmic embeddings, defines in advance what support and failure look like, and treats a null result as a finding — under safeguards that forbid identifying private individuals or inferring character or worth from faces."
+  ],
+  "keywords": [
+    "Hunter Variant Hypothesis",
+    "facial resemblance",
+    "look-alikes",
+    "doppelgängers",
+    "human appearance",
+    "facial genomics",
+    "pigmentation genetics",
+    "polygenic traits",
+    "face perception",
+    "biometrics",
+    "human variation",
+    "human archetypes"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "An exploratory hypothesis and research design. The report synthesizes the original H Heuristics essays and the deposited preprint with peer-reviewed literature in population genetics, facial genomics, developmental biology, probability, cognitive neuroscience and biometrics, and organizes the argument into four analytical layers: genetics, biological constraint, statistical probability and human perception. It defines the reference case through an operational coding scheme that separates the stable biological core from the presentational layer, formalizes a five-type resemblance spectrum, and quantifies recurrence with illustrative combinatorial, birthday-problem and face-space models. It then specifies a pre-registered six-step protocol — standardized reference images, nominated candidates against matched controls, blind multi-rater scoring, algorithmic embedding checks and baseline comparisons — with a scoring instrument, pre-specified classification rules, explicit null-result interpretations and ethical safeguards. The report contains 20 figures and 11 tables; figures marked illustrative, schematic or simulated present models and design examples rather than measured results, and reference images of the subject are reproduced with consent.",
+  "contents": [
+    "Executive Summary",
+    "1. The Observation and the Question",
+    "2. The Reference Case: Defining the Hunter Archetype",
+    "3. The Variant Spectrum and the Hybrid Hunter",
+    "4. The Brunette Northern and Northwestern European Archetype",
+    "5. The Genetics of Appearance I: Pigmentation",
+    "6. The Genetics of Appearance II: Facial Shape",
+    "7. Biological Constraints: Why Faces Converge",
+    "8. Statistical Probability: The Mathematics of Recurrence",
+    "9. Human Perception: How Resemblance Is Recognized",
+    "10. Machines and Look-Alikes: Biometrics and Genetic Evidence",
+    "11. The Internet as Variant Amplifier and the Pareto Distribution of Visibility",
+    "12. The Variant Matrix and the “Variant Gene” Metaphor",
+    "13. Testing the Hypothesis: A Research Design",
+    "14. Ethics, Privacy and the Limits of the Framework",
+    "15. Implications for H Heuristics and a Research Roadmap",
+    "Conclusion: A Recurring Human Form",
+    "Appendix A: Glossary of Terms",
+    "Appendix B: Resemblance Scoring Instrument"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.5281/zenodo.23769889",
+  "license": "CC BY 4.0"
+}
