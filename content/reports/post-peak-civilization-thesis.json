@@ -1,0 +1,83 @@
+{
+  "slug": "post-peak-civilization-thesis",
+  "number": "HH-2026-45",
+  "title": "The Post-Peak Civilization Thesis",
+  "subtitle": "Advancing Capability, Asynchronous Peaks, and the Long-Horizon Question of Civilizational Decline",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-29",
+  "updated": "2026-10-29",
+  "language": "en",
+  "pdf": "post-peak-civilization-thesis.pdf",
+  "pages": 87,
+  "dek": "Has humanity passed its peak? Dating eighteen indicators, the report finds no single summit: capability keeps compounding while fertility, institutional trust, shared culture and ecological stability peaked decades apart.",
+  "topics": [
+    "Institutions & Governance",
+    "Demography & Migration",
+    "Technology & Innovation"
+  ],
+  "abstract": [
+    "Most accounts of the human future assume that the dimensions of progress move together: that a society which becomes richer and more technologically capable will also become healthier, more cohesive, more creative and more secure. For most of the modern era that assumption held well enough. This report argues that it no longer holds, and develops the post-peak civilization thesis: that humanity may be entering a period in which technological capability continues advancing while other dimensions of civilization stagnate or deteriorate. Its organizing idea is asynchrony — biological evolution, cultural achievement, demographic change, institutional development and technological capability run on different clocks, driven by different forces, and there is no reason to expect them to peak at the same time.",
+    "The report dates the peaks of eighteen indicators across demography, institutions, culture, ecology, global position and capability, and finds them spread across six decades, from the early 1960s to the 2020s, with a projected population peak in the 2080s; the capability indicators show no peak at all. It examines eight dimensions in turn — biology, science and technology, culture, social cohesion, institutions, demography, material affordability and ecology — and grades the evidence for a peak in each against five tests: measurement, memory, persistence, scope and mechanism. It identifies seven mechanisms through which advancing capability can itself erode cohesion, affordability and shared culture; tests the thesis against its strongest objections, including nostalgia, survivorship bias in cultural memory and the real gains of the past half-century; and sets out five pathways to 2100.",
+    "The report concludes that the strong form of the thesis, that civilization as a whole has peaked, is not supported. A weaker and more precise form is well supported: several dimensions that earlier generations valued have passed their high points in the societies that led modernity, and progress in capability is masking regression in cohesion, reproduction, affordability and ecological stability. Whether that regression is a transition or a decline depends on choices still open."
+  ],
+  "findings": [
+    "Civilizational peaks are asynchronous. Of eighteen indicators dated for this report, fourteen have peaked, at years spread from 1950 to 2021 with a projected population peak in 2084, and four, all measures of capability or material welfare, have not peaked at all. There is no single civilizational summit to locate.",
+    "Capability has not peaked, but its yield per unit of effort has. Transistor counts have risen 25-million-fold since 1971 and the cost of sequencing a genome has fallen 181,585-fold since 2001, yet US productivity growth fell from 2.8 per cent a year in 1948–73 to 1.5 per cent in 2005–19, and new papers and patents have become markedly less disruptive.",
+    "Biological evolution has no summit. What has plateaued or reversed in some rich countries are environmentally driven traits — adult height, cognitive test scores among recent cohorts, and possibly sperm counts — which are signals about environments and ways of life, not about human biological destiny.",
+    "Shared culture has passed its peak; cultural quality has not been shown to decline. The largest US series finale drew 106 million viewers in 1983 and 13.6 million in 2019. What has declined is shared recognition, and the report’s survivorship model shows why every generation’s golden age appears to lie 25 to 35 years in the past.",
+    "Social cohesion has eroded in the United States and parts of the rich world. Trust in the federal government fell from 77 per cent in 1964 to 17 per cent in 2025 and church membership fell below half — but the pattern is weaker or absent in parts of Northern Europe, and not universal.",
+    "The democratic high-water mark has probably passed for now: the share of the world’s population living in democracies peaked at about 54 per cent in 2001 and stood at about 26 per cent in 2025, partly because of India’s reclassification.",
+    "Fertility has passed its peak almost everywhere and population will follow. World fertility fell from 5.31 births per woman in 1963 to 2.25; in the report’s cohort projection, a population held at South Korea’s fertility of 0.72 falls to 14.6 per cent of its starting size within a century.",
+    "Capability has made gadgets cheap and the foundations of family life dear. Between 2000 and 2024, US prices for computers fell 92 per cent while hospital services rose 243 per cent and tuition and childcare 166 per cent — Baumol’s cost disease operating on the goods that matter most to forming a household.",
+    "Post-peak is primarily a condition of the societies that led modernity. The G7 share of world output at purchasing-power parity fell from about 52 per cent in the 1980s to 29 per cent in 2024 while China’s rose from 2 to 19 per cent — yet China’s population and fertility have also peaked, so the pattern spreads with modernity itself.",
+    "Capability and cohesion have decoupled. In the report’s US composites, capability rose from 0 to 1 on its rescaled range between 1971 and 2024 while a cohesion-and-reproduction composite fell from 1.00 to 0.14. The strong thesis fails — extreme poverty fell from about 43 to about 10 per cent of humanity since 1990 — but the asynchronous thesis survives, and the most likely of five pathways on current trends is decoupled advance."
+  ],
+  "keywords": [
+    "post-peak civilization",
+    "civilizational peak theory",
+    "civilizational decline",
+    "asynchronous peaks",
+    "technological capability",
+    "social cohesion",
+    "institutional trust",
+    "demographic transition",
+    "low fertility",
+    "Baumol’s cost disease",
+    "cultural change",
+    "democratic backsliding",
+    "research productivity",
+    "scenarios to 2100"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "The report builds a framework of asynchronous peaks, with a method for dating a peak and five tests a claimed peak must pass (measurement, memory, persistence, scope and mechanism), and grades every major claim on the four-level scale used across H Heuristics reports (A established, B well supported, C plausible or contested, D speculative). It contains 26 figures and 20 tables. Twelve figures chart published data from Our World in Data extracts of the UN World Population Prospects 2024, the V-Dem Regimes of the World classification, the Living Planet Index, the World Values Survey, HadCRUT5 temperatures, World Bank poverty estimates and long-run series on computing, genome sequencing, solar power and artificial intelligence; from US Bureau of Labor Statistics and Census Bureau series distributed by FRED; from the IMF World Economic Outlook; and from the Pew Research Center trust series. Seven figures present original calculations written in Python: a peak-dating analysis of eighteen indicators; capability and cohesion composites for the United States; a survivorship model of cultural memory; a model of attention fragmentation; a cohort projection of populations held at low fertility; a model of diminishing returns to complexity; and a two-variable model of capability and cohesion under five scenarios. The models are illustrative: they show how mechanisms behave, not what will happen. A full section is devoted to the case against the thesis.",
+  "contents": [
+    "About This Report",
+    "Executive Summary",
+    "1. The Post-Peak Question",
+    "2. Intellectual Foundations",
+    "3. The Asynchrony Principle",
+    "4. Biological Evolution Has No Summit",
+    "5. The Capability Curve",
+    "6. The Cultural Peak Hypothesis",
+    "7. The Erosion of Social Cohesion",
+    "8. Institutional Stability Under Strain",
+    "9. The Demographic Turning Point",
+    "10. The Affordability Paradox",
+    "11. The Ecological Ledger",
+    "12. The Great Redistribution",
+    "13. Why Capability and Cohesion Diverge",
+    "14. The Case Against the Thesis",
+    "15. Pathways to 2100 and Beyond",
+    "16. Conclusion"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.5281/zenodo.23781361",
+  "license": "CC BY 4.0"
+}
