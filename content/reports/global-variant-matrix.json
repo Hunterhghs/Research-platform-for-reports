@@ -1,0 +1,78 @@
+{
+  "slug": "global-variant-matrix",
+  "number": "HH-2026-47",
+  "title": "The Global Variant Matrix",
+  "subtitle": "Recognizing Recurring Human Variants Across Continents, Populations, and Ancestral Groups",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-30",
+  "updated": "2026-10-30",
+  "language": "en",
+  "pdf": "global-variant-matrix.pdf",
+  "pages": 64,
+  "dek": "Do strong look-alikes turn up on every continent, and do they form one connected pattern? A proposed framework, a research programme to test it, and firm boundaries against any reading of it as human types.",
+  "topics": [
+    "Complexity & Natural Form"
+  ],
+  "abstract": [
+    "This report examines whether the human variant phenomenon, better known as the doppelgänger phenomenon, is limited to particular populations or is spread across all of humanity. Its central thesis is simple to state: people who strongly resemble one another, even though they are not close relatives, may turn up on every continent and in every ancestral group. If so, those resemblances are not scattered accidents. Taken together they may form a global variant matrix, a structured pattern of recurring human appearances that runs across national and continental borders. The matrix is a grid showing how often people in one region or ancestry group have a look-alike in another; the diagonal records resemblance within a region and the off-diagonal cells resemblance across regions.",
+    "The report builds on two earlier H Heuristics publications, the essay The Human Variant (or Doppelgänger) Phenomenon and the research report The Human Variant Hypothesis. That report asked why variants exist; this one asks where they are, and whether the whole world fits a single connected pattern. It develops five linked claims — independent emergence, cross-continental recurrence, cross-ancestry patterns, overlap alongside difference, and shared processes of migration, admixture and development — and reviews the science of facial genetics, human variation within and between populations, perception, styling and online visibility. It then proposes a variant catalogue, five linked studies, falsifiable predictions and ethical limits.",
+    "The report is a proposal and a synthesis, not a finding, and it presents no new measurements of faces or genomes: its simulations are teaching models, labelled as such. Its verdict is moderate. The science supports the ingredients of the thesis strongly, while the thesis itself is plausible but untested at global scale. The matrix is not a fixed collection of genetically distinct human types. “Variant” and “matrix” are proposed analytical terms, not biological classifications; regions are sampling frames only and ancestry is treated as a measured number, not a label; and the report states explicitly that variants are not types, not races, and that appearance reveals nothing about character, ability or worth."
+  ],
+  "findings": [
+    "Faces are built from many small genetic effects. Roughly two hundred regions of the genome influence normal facial shape, each with a small effect, so many different genetic combinations can produce similar faces. This ingredient is graded A.",
+    "Most human genetic variation is shared across groups. About 85 to 95 per cent of the variation measured in classic studies lies within populations, and overlap between groups is the rule — although the report is explicit that groups can still be told apart on average, and treats strong regional differences in traits such as skin tone as established.",
+    "Look-alikes carry a genetic signal. In a 2022 study, about half of the most similar unrelated look-alike pairs shared more common DNA variants than random pairs; the sample was small and mostly European, so the result needs replication in other populations (grade B).",
+    "The same trait can evolve more than once. Light skin evolved partly through different genes in Europeans and East Asians, and lactase persistence arose through separate mutations in Europe and Africa, so independent routes to similar outcomes are a normal feature of human biology.",
+    "What counts as a look-alike depends on what is compared. In a simple model, comparing more facial features makes look-alikes exponentially rarer and coarser perception makes them far more common, while typical faces have more look-alikes than distinctive ones.",
+    "In an illustrative simulation, cross-region look-alikes are almost as common as within-region ones when only facial shape is compared; adding strongly regional surface traits such as skin tone and hair form sharply reduces matches between distant regions but not between neighbours or for mixed-ancestry populations. This is a prediction of the framework, not a finding about real populations (grade C).",
+    "Perception, styling and the internet shape what is noticed. Observers match unfamiliar faces poorly and judge other-group faces less well, algorithms perform unevenly across groups, and online discovery inflates apparent recurrence, so the matrix must be estimated from visibility-independent, population-based samples. The claim that ‘alpha variants’ are over-represented among highly visible people is speculative (grade D).",
+    "The programme is testable and falsifiable. Five linked studies run from reanalysis of existing 3D face and genetic datasets to a cross-region look-alike audit, with stated results that would show the thesis wrong; a null result would still be useful.",
+    "Five ethical boundaries apply to every finding: variants are not types, variants are not races, appearance is not character, resemblance is not identity, and description is not value. The report anchors this in the 2023 US National Academies recommendation to move away from racial typology and the American Association of Biological Anthropologists statement that racial categories are social constructions."
+  ],
+  "keywords": [
+    "global variant matrix",
+    "human variant hypothesis",
+    "doppelgänger phenomenon",
+    "look-alikes",
+    "facial resemblance",
+    "human phenotypic variation",
+    "facial genetics",
+    "population admixture",
+    "face perception",
+    "biometrics",
+    "research ethics"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "A proposal and synthesis. The report reviews published science on facial genetics, human variation within and between populations, admixture, face perception and online visibility, organizes it around the Global Variant Matrix hypothesis (a grid of cross-population resemblance rates with sampling regions as frames and ancestry as a measured covariate), and sets out a catalogue pipeline and five linked studies (a protocol-and-governance study, reanalysis of existing 3D cohorts, a cross-region look-alike audit, perception experiments, a visibility-and-discovery study and genetic attribution) with predictions, falsification tests and alternative explanations. Claims are graded on a four-level scale (A established, B well supported, C plausible, D speculative). The report contains 16 figures and a set of tables. Some figures are conceptual diagrams; others are illustrative simulations built for the report to show how an idea behaves, such as how the expected number of look-alikes changes with the number of facial features compared or how admixture could affect the matrix, and their numbers are not measurements of real people. One figure redraws published values on the partitioning of genetic variation within and between populations. The report presents no new measurements of faces or genomes and is not medical, genetic, forensic or legal advice.",
+  "contents": [
+    "About This Report",
+    "Executive Summary",
+    "1. The Central Hypothesis",
+    "2. The Global Variant Matrix: Regions and Sampling Frames",
+    "3. From Observation to Evidence",
+    "4. Why Look-Alikes Exist: The Science of Recurrence",
+    "5. Human Variation Across Populations: What the Science Says",
+    "6. The Matrix Formalized",
+    "7. Admixture, Migration and Bridge Populations",
+    "8. Perception and Culture: Who Is Looking?",
+    "9. Presentation, the Internet and the Visibility Problem",
+    "10. Variant Archetypes and the Path to a Catalogue",
+    "11. Research Design: How to Test the Matrix",
+    "12. Predictions, Falsification and Alternative Explanations",
+    "13. Ethics, Governance and the Boundary Against Typology",
+    "14. Applications and Implications",
+    "15. Conclusion: A Recurring Cast",
+    "Appendix A. Glossary",
+    "Appendix B. Observation Card and Sampling Worksheet"
+  ],
+  "backmatter": [
+    "Appendix C. References"
+  ],
+  "doi": "10.5281/zenodo.23808934",
+  "license": "CC BY 4.0"
+}
