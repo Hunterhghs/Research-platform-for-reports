@@ -1,0 +1,81 @@
+{
+  "slug": "climate-pollution-education-trap",
+  "number": "HH-2026-46",
+  "title": "The Climate–Pollution–Education Trap",
+  "subtitle": "Heat, School Disruption, Child Labor, Poverty, and Long-Run Human Capital in an Age of Polycrisis",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-30",
+  "updated": "2026-10-30",
+  "language": "en",
+  "pdf": "climate-pollution-education-trap.pdf",
+  "pages": 64,
+  "dek": "Heat, polluted air and disaster cost children learning in the classroom, but the decisive harm happens at home, when a shock forces a poor household to pull a child out of school. A cohort model shows where the trap tightens and how to break it.",
+  "topics": [
+    "Climate Adaptation",
+    "Public Health",
+    "Systemic Risk"
+  ],
+  "abstract": [
+    "Climate change and air pollution are usually discussed as threats to health, food and infrastructure. This report argues that one of their most durable effects is on children’s education, and that the effect is a trap: a self-reinforcing system in which hot classrooms, polluted air, school closures and household income shocks combine to reduce what children learn and how long they stay in school, and in which the resulting loss of human capital leaves the next generation more exposed. It calls this system the Climate–Pollution–Education Trap and treats it as one expression of the polycrisis, following one cascade into the life of a child.",
+    "The argument is developed in four steps. The report reviews and grades the causal evidence on five linked channels: direct learning loss, disrupted schooling, household shocks, child withdrawal and labor, and lasting human-capital loss. It measures exposure with published estimates and an original panel of 217 economies built from World Bank, ERA5 and UN data, ranking 150 countries on a Trap Exposure Index. It builds a cohort model of 60,000 to 100,000 households per scenario to show how the mechanisms interact under rising shock frequency. And it compares four interventions and sets out a policy, measurement and financing agenda.",
+    "The conclusion is that the trap is real, concentrated and breakable, and that its breaking point is the household’s ability to absorb a shock without removing a child from school. The report does not claim that poverty traps operate everywhere or that every poor household is trapped: traps are a conditional feature of environments in which shocks are frequent, buffers are thin and the cost of a missed investment is high, and climate and pollution shocks are making such environments more common. The original calculations are illustrative and show how mechanisms behave, not what will happen."
+  ],
+  "findings": [
+    "Exposure is vast and concentrated. About 2.0 billion children are under 15, and 64 per cent live in low- and lower-middle-income countries. UNICEF estimates that 242 million students had schooling disrupted by climate hazards in 2024, 171 million of them by heat, and that about 1.1 billion children face three or more overlapping climate hazards.",
+    "Heat and pollution lower learning directly. A 1 °F hotter school year lowers learning by 1 per cent where classrooms are uncooled; air pollution on exam days lowers scores and later earnings; and about 800 million children have blood lead at or above 5 µg/dL. Evidence from low-income schools, where exposure is highest, is thin.",
+    "Across countries, learning-adjusted schooling falls with heat (Spearman ρ = −0.58) and PM2.5 (ρ = −0.54), and the associations persist after controlling for income (partial r = −0.45 and −0.39). Population-weighted PM2.5 averages 50 µg/m³ in lower-middle-income countries against 13 in high-income countries and a WHO guideline of 5.",
+    "The household decision is the pivot. Hazards that cut income push children out of school where buffers are thin; workfare in India substantially weakened the link between heat and test scores, and a small cash transfer in Ecuador cut paid child work by 78 per cent among compliers. The sign of the child-labor response depends on the shock and on credit, and the heat-specific link is the weakest part of the chain.",
+    "The loss is nonlinear and persistent. In the cohort model, the share of children below a minimal threshold of effective schooling rises from 6 per cent today to 9, 18 and 30 per cent with 0.5, 1.0 and 2.0 °C of additional warming, reaching 38 per cent after five generations at +2.0 °C; lifetime income for the cohort falls by up to 14 per cent.",
+    "The overlap is greatest in a belt from the Sahel to Central Africa. On the Trap Exposure Index, 18 of the top 20 countries are in Sub-Saharan Africa and the top 30 hold about 443 million children, 22 per cent of the world’s; the largest absolute numbers of exposed children are in Nigeria and South Asia.",
+    "Household protection is the most powerful lever, and mitigation the most powerful of all. At +1.0 °C, adaptive cash transfers cut the long-run share trapped from 19 to 7 per cent and all four measures together to 6 per cent, with a benefit–cost ratio of about 4 to 1 on income alone; holding warming to +1.0 instead of +2.0 °C halves the long-run share trapped."
+  ],
+  "keywords": [
+    "climate change",
+    "air pollution",
+    "education",
+    "human capital",
+    "polycrisis",
+    "school disruption",
+    "learning loss",
+    "extreme heat",
+    "child labor",
+    "poverty traps",
+    "shock-responsive social protection",
+    "climate adaptation",
+    "educational inequality",
+    "Sub-Saharan Africa"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "The report grades every major claim on the four-level scale used across H Heuristics reports (A established, B well supported, C plausible or contested, D speculative) and tests five graded propositions. It contains 20 figures and 16 tables. Nine figures chart published data or original analysis of it, using World Bank indicators, ERA5 temperature from Copernicus via Our World in Data, and the UN World Population Prospects 2024, assembled into a country panel of 217 economies and a Trap Exposure Index for 150 countries. Six figures present original calculations: a heat dose–response, a cohort model of schooling under compounding shocks simulating 60,000 to 100,000 households per scenario, a threshold map, an intergenerational ratchet, a sensitivity analysis and a comparison of four interventions (adaptive cash transfers, school cooling, clean air and continuity measures). The remaining five figures are diagrams, including a coupling matrix. The calculations are illustrative; each caption states what was computed, and Appendix A gives the model specification and data vintages. News sources are used only for 2024–2026 events that no peer-reviewed analysis yet covers and are flagged as indicative.",
+  "contents": [
+    "About This Report",
+    "Executive Summary",
+    "1. The Trap in Brief",
+    "2. Concepts and Evidence Foundations",
+    "3. The Exposure Baseline",
+    "4. Heat and Learning",
+    "5. Air, Smoke and Lead",
+    "6. School Disruption",
+    "7. Poverty and the Household Decision",
+    "8. Child Labor",
+    "9. Long-Run Human Capital",
+    "10. The Trap as a System",
+    "11. The Geography of the Trap",
+    "12. Modelling the Trap",
+    "13. Breaking the Trap",
+    "14. Financing, Measurement and Governance",
+    "15. Conclusion",
+    "Appendix A. Methods and Model Specification",
+    "Appendix B. Notes on Evidence, Limitations and Interpretation"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.5281/zenodo.23786685",
+  "license": "CC BY 4.0"
+}
