@@ -722,17 +722,25 @@ function pageAbout(reports) {
 
 <section class="band">
   <div class="wrap"><div class="prose prose--page">
-    <p class="prose__lede">H Heuristics is an independent research practice publishing long-form analytical reports on systemic risk, climate resilience, development finance, and the energy transition.</p>
+    <p class="prose__lede">H Heuristics is a multidisciplinary, founder-led organization established by Hunter Hughes. It works at the intersection of research, business, politics, media, and civic discourse, and this platform is where its research is published, openly and in full.</p>
 
-    <p>The series works on a single premise: the risks that matter most now are the ones that travel together. A drought becomes a harvest failure, a price spike, a run on reserves, and a strain on a health system. A pandemic becomes a supply-chain crisis, an inflation shock, and a sovereign-debt crisis. Institutions that were built to handle these problems one at a time are, predictably, overwhelmed by them arriving at once.</p>
+    <p>The organization produces original research, analytical publications, and frameworks, and takes part in public discussion of the forces shaping economic development, technological transformation, environmental change, geopolitics, and societal resilience. Alongside its consulting, publishing, and media work, research is the part of H Heuristics that is meant to be read, checked, cited, and argued with. That is what appears here.</p>
 
-    <p>Each report takes one facet of that problem and works it through in full — the mechanism, the numbers, the country experience, and the practical implication for what to build, fund, and sequence first. The audience is the people who make those decisions: analysts, policy staff, development-finance practitioners, and the researchers who inform them.</p>
+    <h2>Research on this platform</h2>
+    <p>The reports are long-form and organised as a numbered series, and they cover more than any single discipline. They take different forms: empirical studies built on public data, syntheses of the peer-reviewed literature, and conceptual and theoretical work that proposes a hypothesis and sets out how it could be tested. Across the series there are four main lines of work.</p>
+    <ul>
+      <li><strong>Systemic risk and the polycrisis.</strong> How crises interact, cascade, and compound, and what keeps repair ahead of stress: the Polycrisis Apocalypse reports, human exposure and survivability, and the geography of risk.</li>
+      <li><strong>Resilience, development, and the energy transition.</strong> Climate adaptation, development finance, clean energy, infrastructure, public health, and the conditions under which emerging economies can converge.</li>
+      <li><strong>Civilization, demography, and institutions.</strong> Population change, social cohesion, and the shifting balance of global power, including the Post-Peak Civilization reports.</li>
+      <li><strong>Complexity and natural form.</strong> The Architecture of Creation series on recurring structure across physics, life, mathematics, and human systems, and the Human Variant reports on why similar forms recur in human appearance.</li>
+    </ul>
+    <p>Reports are filed under <a href="/topics/">topics</a> that can overlap, because one report often belongs to several of these lines. The audience is anyone who has to understand these questions or make decisions about them: analysts, policy staff, practitioners, researchers, students, and curious general readers.</p>
 
     <h2>Method</h2>
-    <p>Reports synthesise institutional and peer-reviewed research. Every quantitative claim is attributed inline to a primary or authoritative secondary source, and each report states explicitly which of its figures are conceptual schematics, which are illustrative, and which report values drawn from the cited sources. The reports are analytical rather than predictive: they set out mechanisms and their implications, not forecasts.</p>
+    <p>Reports synthesise institutional and peer-reviewed research, and where they present original calculations they say what was computed and with what assumptions. Quantitative claims are attributed to a primary or authoritative secondary source. Many reports grade their claims on a four-level evidence scale, from established (A) to speculative (D), and keep findings, scenarios, and hypotheses apart. Each report states which of its figures are conceptual schematics, which are illustrative models, and which report values drawn from cited sources. The reports set out mechanisms and their implications, not forecasts, and speculative claims are labelled as such.</p>
 
     <h2>Access and licensing</h2>
-    <p>Every report is open access and free to read and download. No registration, no paywall, no tracking. Most reports are licensed under <a href="${config.license.url}" rel="license noopener" target="_blank">${esc(config.license.name)}</a> — share with attribution, non-commercially, without modification — but some are released more permissively. Each report page states its own licence, and that is the one that governs.</p>
+    <p>Every report is open access and free to read and download. No registration, no paywall, no tracking. Most reports are released under <a href="${config.licenses['CC BY 4.0'].url}" rel="license noopener" target="_blank">CC BY 4.0</a>, which allows sharing and adaptation with attribution; a few carry a more restrictive Creative Commons licence such as <a href="${config.license.url}" rel="license noopener" target="_blank">${esc(config.license.name)}</a>. Each report page states its own licence, and that is the one that governs.</p>
 
     <h2 id="citation">Citation</h2>
     <p>Each report page carries a structured citation in APA, Chicago, and BibTeX form, alongside its report number in the ${esc(config.series)} series. Report pages also expose Google Scholar citation metadata and Dublin Core tags, so the series can be indexed and cited like any other working-paper series. Machine-readable metadata for the whole series is available at <a href="/reports.json">/reports.json</a>, and new reports are announced on the <a href="/feed.xml">RSS feed</a>.</p>
@@ -749,7 +757,7 @@ function pageAbout(reports) {
 
   return layout({
     title: 'About',
-    description: 'About H Heuristics — independent research on systemic risk, climate resilience, development finance, and the energy transition.',
+    description: 'About H Heuristics — a multidisciplinary, founder-led organization publishing open-access research on systemic risk, resilience, development, civilization, and the structure of complex systems.',
     canonical: `${SITE}/about/`,
     head: `<meta property="og:type" content="website">\n<meta property="og:url" content="${SITE}/about/">\n`,
     body,

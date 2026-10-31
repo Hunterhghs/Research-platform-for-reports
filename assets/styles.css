@@ -458,6 +458,9 @@ a.pill:hover { border-color: var(--navy); color: var(--navy); }
   margin: 2.5rem 0 0.9rem;
 }
 .prose--page p { font-size: 1rem; line-height: 1.72; margin: 0 0 1.15rem; }
+.prose--page ul { margin: 0 0 1.15rem; padding-left: 1.2rem; }
+.prose--page li { font-size: 1rem; line-height: 1.68; margin: 0 0 0.7rem; }
+.prose--page li::marker { color: var(--accent, currentColor); }
 .prose__lede { font-size: 1.18rem !important; line-height: 1.6 !important; color: var(--ink-2); }
 .prose__meta { font-family: var(--sans); font-size: 0.8rem; color: var(--ink-3); }
 .rule { margin: 2.5rem 0 1.5rem; }
