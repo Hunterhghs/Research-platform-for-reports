@@ -1,5 +1,5 @@
 {
-  "slug": "post-peak-civilization-western-predominance",
+  "slug": "post-peak-civilization-end-of-western-predominance",
   "number": "HH-2026-49",
   "title": "The Post-Peak Civilization Thesis: The End of Western Predominance",
   "subtitle": "The Transition Toward a Post-Western World",
@@ -11,7 +11,7 @@
   "published": "2026-10-31",
   "updated": "2026-10-31",
   "language": "en",
-  "pdf": "post-peak-civilization-western-predominance.pdf",
+  "pdf": "post-peak-civilization-end-of-western-predominance.pdf",
   "pages": 48,
   "dek": "The West’s share of world output, population and science has fallen sharply since mid-century, mostly because other regions rose. The report tests this relative-peak thesis against open data.",
   "topics": [
@@ -73,6 +73,5 @@
   "backmatter": [
     "16. References"
   ],
-  "doi": "10.5281/zenodo.23846051",
   "license": "CC BY 4.0"
 }
