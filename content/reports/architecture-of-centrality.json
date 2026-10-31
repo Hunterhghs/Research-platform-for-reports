@@ -1,0 +1,79 @@
+{
+  "slug": "architecture-of-centrality",
+  "number": "HH-2026-48",
+  "title": "The Architecture of Centrality",
+  "subtitle": "Why Creation, Nature, and Human Systems Repeatedly Organize Around One",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-31",
+  "updated": "2026-10-31",
+  "language": "en",
+  "pdf": "architecture-of-centrality.pdf",
+  "pages": 47,
+  "dek": "Galaxies, cells, airline networks and states all concentrate around a few dominant nodes. Nine original calculations show five processes build these centers, that they are efficient but fragile, and that the systems which last keep a center without depending on only one.",
+  "topics": [
+    "Complexity & Natural Form",
+    "Systemic Risk"
+  ],
+  "abstract": [
+    "This report asks why so many systems, from atoms and planetary systems to cities, brains, networks and states, organize around a single dominant center, and whether that recurring pattern reflects a shared architecture or a shared illusion. It belongs to the H Heuristics Architecture of Creation series, whose foundational report argued that reality produces recurring forms because matter, energy, information and development operate within a constrained set of physical and mathematical relationships. Centers appeared in almost all of the series’ earlier reports, but none examined centrality in its own right. This report does, because centrality raises a scientific question — do very different systems share a small set of processes that generate centers? — and a practical one: centers make systems efficient and fragile at the same time, and the world is currently building more of them in finance, computing, logistics and energy than at any time in history.",
+    "The report defines centrality as four distinct things (a position, a concentration of mass or flow, a place in a network and a locus of control or meaning), identifies five generators of centers (attraction toward a potential well, cumulative advantage, cost minimization, coordination and selection), and proposes a ladder for grading claims. It surveys the physical world, life, cities, economies and networks, and mind, culture and power; explains why centers form and persist and what they cost; examines where centrality fails; and tests a centrality hypothesis with nine original calculations and ten falsifiable propositions.",
+    "It answers in three layers. At the descriptive layer the pattern is real and widespread. At the explanatory layer a small number of processes generate it, and those processes are understood. At the metaphysical layer, the claim that reality as a whole is organized around One, the evidence does not reach, and parts of it point the other way: the universe as a whole shows no center. The report concludes that centrality is a genuine architecture of processes, not a law of reality, graded B, and that the robust form is few and redundant, not one."
+  ],
+  "findings": [
+    "Centers are real, common and of different kinds. The word covers at least four things — a position, a concentration of mass or flow, a place in a network, and a locus of control or meaning — and these measures do not coincide: on a real 34-person social network, rankings by betweenness and by eigenvector centrality agree with a rank correlation of only 0.69.",
+    "Five generators account for nearly every case: attraction toward a potential well, cumulative advantage, cost minimization, coordination and selection. Each produces centers on its own, and often together.",
+    "In the physical world, centrality ranges from total to trivial to absent. The proton holds 99.9 per cent of a hydrogen atom’s mass and the Sun 99.9 per cent of the Solar System’s, Earth’s core 32.5 per cent of the planet’s, and the Milky Way’s central black hole about 0.00033 per cent of the Galaxy’s. The universe as a whole shows no center at all: centrality is a property of subsystems, not of everything.",
+    "Most centers are not designed. In the report’s model, networks grown by cumulative advantage developed a best-connected node with 212 links against 13 for random wiring; in the real airport network, the busiest 1 per cent of 3,257 airports hold 14.8 per cent of route endpoints.",
+    "Centers are cheap in wiring and fast in travel. In a model trading the cost of distance against the cost of steps from the center, a single hub needed 14 times more total link length than a spanning web but put every node one step from the center instead of 6.4.",
+    "Centers carry a price that grows with their importance. Removing the best-connected 20 per cent of nodes from the hub-rich model left 1.2 per cent of the network connected, against 78.4 per cent when 20 per cent were removed at random; real incidents from the Suez Canal to a single cloud region show the same pattern.",
+    "Popular claims about hubs and Zipf laws are weaker than their reputation. A statistical test did not support a pure power law in the airport network’s tail — an exponential and a lognormal fitted better — and city-size slopes in twenty countries had a median of 1.36, not 1, with the ratio of largest to second-largest city running from 1.04 to 13.1.",
+    "The robust form is few and redundant, not one. Systems that last combine a small, interlinked core with a diverse periphery and lateral links, as in bow-tie architectures, polycentric governance and degenerate neural circuits; designs with one irreplaceable center score highest on efficiency and lowest on survival.",
+    "The claim that creation as a whole is organized around One is a philosophical interpretation that the data neither establish nor refute. The report grades it D and treats it as a question for other disciplines."
+  ],
+  "keywords": [
+    "centrality",
+    "hubs",
+    "preferential attachment",
+    "network robustness",
+    "single points of failure",
+    "scale-free networks",
+    "Zipf’s law",
+    "polycentric governance",
+    "efficiency–fragility trade-off",
+    "systems theory",
+    "distributed systems",
+    "architecture of creation"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "The report builds a framework of five generators of centers and a ladder for grading claims, surveys four domains (the physical world, life, cities and networks, mind and power), and tests a centrality hypothesis at three levels (descriptive, explanatory, metaphysical) with nine original calculations and ten falsifiable propositions. Claims are graded on the four-level scale used across the series (A established, B well supported, C plausible or contested, D speculative). The report contains 15 figures and 10 tables. The nine calculations were made in Python using public data where real systems are examined: the collapse of a cloud of 1,200 gravitating particles into a cluster; networks grown by preferential attachment and by random wiring, and their hubs compared; random and degree-targeted node removal to measure fragility; seven network topologies compared for efficiency and robustness; a trade-off between the cost of distance and the cost of steps that turns a single hub into a web; the concentration of the world airport network from OpenFlights route data; rank-size regularity and primacy in twenty national city systems from GeoNames populations; four centrality measures on a real social network; and the share of mass held by the center of six systems. Each caption states what was computed and with what assumptions, every number quoted from the models can be regenerated from the code and data named in Appendix A, and the other figures are diagrams drawn for this report.",
+  "contents": [
+    "About This Report",
+    "Executive Summary",
+    "1. Introduction",
+    "2. Defining Centrality",
+    "3. The Theoretical Framework",
+    "4. The Physical World",
+    "5. Life",
+    "6. Cities, Economies and Networks",
+    "7. Mind, Culture and Power",
+    "8. Hubs Without Designers",
+    "9. Why Centers Persist",
+    "10. The Price of One",
+    "11. Where Centrality Fails",
+    "12. Testing the Hypothesis",
+    "13. Hypotheses and Implications",
+    "14. Conclusion"
+  ],
+  "backmatter": [
+    "References",
+    "Data and web sources",
+    "Appendix A. Methods and Data"
+  ],
+  "doi": "10.5281/zenodo.23838444",
+  "license": "CC BY 4.0"
+}
