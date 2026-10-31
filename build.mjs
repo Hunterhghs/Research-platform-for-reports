@@ -8,6 +8,7 @@
 // ---------------------------------------------------------------------------
 
 import fs from 'node:fs';
+import crypto from 'node:crypto';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import config, { isProduction } from './site.config.mjs';
@@ -15,6 +16,13 @@ import config, { isProduction } from './site.config.mjs';
 const ROOT = path.dirname(fileURLToPath(import.meta.url));
 const DIST = path.join(ROOT, 'dist');
 const SITE = config.siteUrl;
+
+// Fingerprint the stylesheet so a changed file gets a new URL; the CDN caches /assets for a week.
+const CSS_VERSION = crypto
+  .createHash('sha1')
+  .update(fs.readFileSync(path.join(ROOT, 'assets', 'styles.css')))
+  .digest('hex')
+  .slice(0, 8);
 
 /* ------------------------------------------------------------------ utils */
 
@@ -188,7 +196,7 @@ ${isProduction ? '' : '<meta name="robots" content="noindex, nofollow">\n'}<meta
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300..700;1,8..60,300..600&family=Inter:wght@400;500;600;700&display=swap">
-<link rel="stylesheet" href="/assets/styles.css">
+<link rel="stylesheet" href="/assets/styles.css?v=${CSS_VERSION}">
 ${head}<meta property="og:site_name" content="${esc(config.name)}">
 <meta property="og:locale" content="en_GB">
 </head>
