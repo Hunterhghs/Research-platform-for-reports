@@ -1,0 +1,78 @@
+{
+  "slug": "post-peak-civilization-western-predominance",
+  "number": "HH-2026-49",
+  "title": "The Post-Peak Civilization Thesis: The End of Western Predominance",
+  "subtitle": "The Transition Toward a Post-Western World",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-10-31",
+  "updated": "2026-10-31",
+  "language": "en",
+  "pdf": "post-peak-civilization-western-predominance.pdf",
+  "pages": 47,
+  "dek": "The West’s share of world output, population and science has fallen sharply since mid-century, mostly because other regions rose. The report tests this relative-peak thesis against open data, and rejects the biological and migration-driven version of it.",
+  "topics": [
+    "Institutions & Governance",
+    "Demography & Migration",
+    "Emerging Markets"
+  ],
+  "abstract": [
+    "This report tests the post-peak civilization thesis in the form most often argued by historians, demographers and political economists: that the Western-led civilizational order, centred on Europe and its offshoots, passed a historic high point of relative economic, scientific, demographic and geopolitical weight during the twentieth century, and that the world is now moving into a different phase in which that order is one centre among several. It draws on the Maddison Project, the UN World Population Prospects 2024, the World Bank, SIPRI, the Nobel Foundation, the Pew Research Center and V-Dem, and distinguishes a weak version of the thesis (a relative peak of predominance, now passed) from a strong version (a biological or evolutionary peak, degraded by migration and ethnic mixing).",
+    "The report finds strong evidence that the West has passed its peak in relative global weight. On the Maddison measure the West’s share of world output rose from 28 per cent in 1820 to about 57 per cent in 1950 and fell to 31 per cent by 2022; its share of world population has fallen from 28.8 per cent in 1950 to 13.8 per cent, and Europe faces persistently low fertility and an ageing population. But most of the fall reflects the rise of other regions, particularly Asia, rather than absolute Western decline: living standards, scientific capability and technological sophistication remain historically high. The peaks are asynchronous, so the thesis is better described as a sequence of peaks than as a single turning point.",
+    "A central contribution of the report is its rejection of biological and racial interpretations of civilizational change. Human genetic variation is overwhelmingly within, not between, populations; evolution has no direction; and the evidence reviewed does not show that immigration, ethnic mixing or population diversity cause civilizational decline. The causes of Western ascent and relative decline are primarily institutional, economic, demographic and geopolitical, not biological. The overall verdict is that a historically exceptional period of Western predominance is ending, but humanity itself is not entering a period of decline: the world is moving toward a more distributed configuration of power, innovation and influence."
+  ],
+  "findings": [
+    "The Western share of world output peaked around the middle of the twentieth century. On the Maddison measure, the share of world GDP of Western Europe and the Western Offshoots rose from 28 per cent in 1820 to about 57 per cent in 1950 and fell to 31 per cent by 2022; at market exchange rates the core West’s share was about 75 per cent in 1962 and 50 per cent in 2024.",
+    "Most of the fall reflects the rise of others, not Western decline in absolute terms. Western GDP per head is still about 2.92 times the world average, while China’s share of world GDP at market rates rose from 3.6 per cent in 2000 to 16.6 per cent in 2024 and India’s from 1.4 to 3.3 per cent.",
+    "Demographic weight is falling fastest. Europe and North America held 28.8 per cent of world population in 1950, hold 13.8 per cent today and are projected by the UN to hold 10.5 per cent in 2100; Europe’s fertility rate is 1.4, its population peaked in 2020 at about 750 million, and Africa is projected to hold 37.5 per cent of humanity by 2100.",
+    "Immigration is now the only source of European population growth, and it slows but does not reverse the decline. Natural change in Europe has been negative in every year since 2015; the UN medium projection puts Europe at 592 million in 2100, against 452 million with zero migration and about 883 million if fertility instantly returned to replacement.",
+    "The claim that migration or ethnic mixing causes civilizational decline is not supported. Research finds some short-run costs to social trust in diverse neighbourhoods, which deserve attention, but also substantial gains in innovation and fiscal contribution; Western trust in government peaked in 1964, when the US foreign-born share was near its historic low, and roughly a third of US-based science Nobel laureates were born abroad.",
+    "The strong, biological version of the thesis is rejected. Human genetic variation is overwhelmingly within populations, there is no evolutionary ladder, and the gains in measured cognitive performance across the twentieth century were environmental. The report states that the largest source of Europe’s demographic gap is low fertility, not any change in the composition of its population.",
+    "The peaks are asynchronous. Western population share peaked around 1900, GDP share around 1950, trust in government in 1964, income relative to the world around 2000 and Europe’s absolute population around 2020.",
+    "Scientific prestige lags and has not collapsed. Western institutions still account for about 88 per cent of science Nobel laureates since 2010, though prizes lag discoveries by decades and China’s shares of patent filings and articles are rising fast.",
+    "Four scenarios to 2100 — Plural Renewal, Ageing Fortress, Strained Pluralism and Managed Decline — are anchored on UN demographic variants for Europe of about 824, 452, 592 and 413 million. They are scenarios, not forecasts, and the report states what would change its assessment."
+  ],
+  "keywords": [
+    "post-peak civilization thesis",
+    "Western predominance",
+    "post-Western world",
+    "multipolarity",
+    "global power shift",
+    "economic convergence",
+    "demographic transition",
+    "low fertility",
+    "migration",
+    "Maddison Project",
+    "civilizational transition",
+    "scenarios to 2100"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "The report tests a four-part thesis against open data: the Maddison Project Database 2023 for regional GDP and population from 1820; World Bank indicators for GDP, military expenditure, patents and scientific articles; the UN World Population Prospects 2024 for fertility, age structure, migration and projections including the zero-migration variant; Nobel Foundation laureate records for scientific prestige; Eurostat, the US Census Bureau and the World Bank for the foreign-born population; and the Pew Research Center and V-Dem for trust and democracy. It defines the West in two ways (Maddison’s Western Europe plus Western Offshoots for long-run economic comparisons, and the UN regions of Europe and Northern America for demographic comparisons), computes shares directly from country data, and reviews the peer-reviewed literature on migration, diversity, innovation and human genetic variation. It separates a weak version of the thesis from a strong, biological version and reaches different verdicts on each. Claims are graded on a four-level scale (A several independent datasets or clear scientific consensus agree; B good evidence but contested interpretation or mechanism; C suggestive evidence; D weak, contested or contradicted). Limits stated in the report: share-based measures depend on how the world total is defined, pre-1950 GDP estimates involve extensive interpolation so the timing of the pre-war peak is uncertain by a decade or more, and projections to 2100 are scenarios, not forecasts. Appendix A documents data sources, definitions and calculations.",
+  "contents": [
+    "About This Report",
+    "1. Executive Summary",
+    "2. The Post-Peak Question",
+    "3. Intellectual Foundations",
+    "4. The Western Ascendancy",
+    "5. Measuring Predominance",
+    "6. The Demographic Turning Point",
+    "7. Migration, Composition and Cohesion",
+    "8. Culture, Trust and Institutions",
+    "9. The Geopolitical Transition",
+    "10. Why the Biological Thesis Fails",
+    "11. The Case Against the Thesis",
+    "12. Scenarios to 2100",
+    "13. Assessment and Verdict",
+    "14. Conclusion",
+    "15. Appendix A: Data and Methods"
+  ],
+  "backmatter": [
+    "16. References"
+  ],
+  "doi": "10.5281/zenodo.23846051",
+  "license": "CC BY 4.0"
+}
