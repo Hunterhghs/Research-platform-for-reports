@@ -1,0 +1,80 @@
+{
+  "slug": "saving-lives-polycrisis-resilience-this-century",
+  "number": "HH-2026-51",
+  "title": "Saving Lives Through Polycrisis Resilience This Century",
+  "subtitle": "Preventing Premature Deaths, Cascading Failures, and Human Suffering Across Interconnected Global Risks (2025–2100)",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-11-02",
+  "updated": "2026-11-02",
+  "language": "en",
+  "pdf": "saving-lives-polycrisis-resilience-this-century.pdf",
+  "pages": 39,
+  "dek": "A scenario model of seven survival pathways estimates that coordinated action from 2026 could prevent about 368 million premature deaths by 2100, for roughly 1% of global GDP — and that each year of delay forfeits some 8.3 million of them.",
+  "topics": [
+    "Systemic Risk",
+    "Public Health",
+    "Energy Transition",
+    "Emerging Markets"
+  ],
+  "abstract": [
+    "The greatest humanitarian opportunity of the 21st century may be the prevention of deaths and suffering through proactive polycrisis resilience. Climate change, air pollution, poverty, food insecurity, water scarcity, infectious disease, armed conflict and inadequate infrastructure do not strike families one at a time: they collide inside the same communities and households, producing combined human costs far greater than the sum of each crisis viewed in isolation. This report asks how much difference coordinated, proactive investment could make between 2025 and 2100, and translates global health, climate, infrastructure and demographic data into transparent numbers for general readers, policy leaders, philanthropists and students.",
+    "It compares four futures with the H Heuristics Polycrisis Resilience Model (HH-PRM v2.0): reactive drift, delayed action starting in 2040, siloed progress in which ministries act alone, and coordinated resilience starting in 2026. Coordinated resilience works through seven survival pathways — pollution reduction and clean energy, climate resilience, water and sanitation, healthcare, food and nutrition, universal energy access, and pandemic and conflict preparedness — and the report introduces a Resilience Multiplier and a Human Suffering Reduction Dividend (HSRD) that measures improvements in daily living conditions alongside deaths averted. Deaths, healthy life-years and person-years of improved conditions are tracked in four separate ledgers and a formal 21.4 per cent overlap discount is applied so that no life is counted twice. Uncertainty is reported across 5,000 Monte Carlo simulations varying 28 uncertain inputs, and nine adverse stress tests.",
+    "Under coordinated resilience the model estimates about 368 million net premature deaths prevented between 2025 and 2100 (90 per cent range 265–448 million), 13.6 billion healthy life-years gained, and 1.9 billion fewer people lacking basic services by 2050, at a peak incremental investment of about US$1.2 trillion a year, roughly 1 per cent of global income. About 89 per cent of the lives saved are in low- and middle-income countries, with Sub-Saharan Africa and South Asia accounting for 62 per cent. The figures are scenario outputs under stated assumptions, not forecasts: they show what difference action could make, and what delay and fragmentation would forfeit."
+  ],
+  "findings": [
+    "Coordinated polycrisis resilience starting in 2026 prevents about 368 million net premature deaths between 2025 and 2100 (90 per cent range 265–448 million), from a gross 468 million after removing 100 million overlapping deaths, and gains 13.6 billion healthy life-years — against about 1.57 billion preventable risk-linked deaths under reactive drift.",
+    "Clean air and healthcare are the two largest lifesavers. Pollution reduction and clean energy save about 132 million net lives (36 per cent of the total) and healthcare expansion about 98 million (27 per cent), together 63 per cent of all deaths prevented.",
+    "Water, sanitation, food and nutrition pathways save the youngest lives: about 22 million and 26 million net deaths respectively, so each preserves many healthy life-years per death prevented (53 for safe water, 84 for nutrition).",
+    "Climate resilience needs both adaptation and mitigation. It saves about 49 million net lives, of which 61 per cent of the gross gain comes from proactive adaptation (heat warnings, urban cooling, flood protection, drought-tolerant crops) and 39 per cent from cutting emissions.",
+    "Timing and integration matter as much as ambition. Waiting until 2040 saves 225 million lives and acting in separate ministerial silos saves 232 million, each forfeiting roughly 136–143 million lives; delay costs about 8.3 million preventable deaths per year, around 16 a minute.",
+    "The Human Suffering Reduction Dividend captures what mortality misses. By 2050 coordinated resilience lifts 1.9 billion more people out of severe basic-service deprivation (103 billion person-years) and shields 1.6 billion from high climate vulnerability (118 billion person-years).",
+    "The benefit is concentrated in the Global South. About 89 per cent of lives saved are in low- and middle-income countries, with Sub-Saharan Africa (118 million, 91 per 1,000 current residents) and South Asia (111 million) accounting for 62 per cent of the total.",
+    "The package costs about US$1.2 trillion a year at its peak, roughly 1 per cent of global GDP. At a 3 per cent discount rate it puts the net cost at about US$21.8 trillion against US$21.1 trillion of health benefits alone, valuing a healthy life-year at US$5,000 and before counting avoided climate damage, lower fuel bills or higher productivity.",
+    "The ranking is robust to stress tests. Coordinated action beat delayed and siloed alternatives in all 5,000 simulation draws, and still saves about 211 million net lives under a combined adverse test of 60 per cent delivery and an eight-year slip."
+  ],
+  "keywords": [
+    "polycrisis resilience",
+    "premature deaths prevented",
+    "human survival",
+    "sustainable development",
+    "climate adaptation",
+    "clean energy",
+    "air pollution",
+    "universal electrification",
+    "clean cooking",
+    "water security",
+    "Global South",
+    "Africa",
+    "cost of delay",
+    "scenario analysis"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "The report uses the H Heuristics Polycrisis Resilience Model (HH-PRM v2.0), a purpose-built parametric scenario model that starts from UN and Global Burden of Disease mortality projections (IHME GBD 2021/2023 and WHO Global Health Estimates across 204 states, UN World Population Prospects 2024, IPCC AR6 and the Lancet Countdown 2025, and IEA, World Bank, FAO SOFI and WHO/UNICEF JMP infrastructure data). It compares four scenarios (reactive drift, delayed action, siloed progress, coordinated resilience) across seven survival pathways and six world regions, and tracks four separate outcome ledgers — premature deaths prevented, healthy life-years (DALYs), and two Human Suffering Reduction Dividend ledgers of person-years of ended basic-service deprivation and reduced climate vulnerability — which are never added together. A formal 21.4 per cent overlap discount removes double counting between pathways. Uncertainty is characterised by 5,000 Monte Carlo simulations varying 28 uncertain inputs (90 per cent intervals are the 5th to 95th percentiles) and nine adverse stress tests, and present values use a 3 per cent discount rate. Evidence is graded A (hard data), B (strong peer-reviewed model), C (calibrated synthesis where direct records are incomplete) and D (late-century stress boundary scenarios, 2060–2100). The report contains 16 landscape figures and 18 tables, a master parameter register and an open-data verification register. Figures are scenario outputs under stated assumptions, not forecasts.",
+  "contents": [
+    "Front Matter: Reader’s Guide, Contents and Glossary",
+    "1. Executive Summary: The Greatest Humanitarian Opportunity",
+    "2. The Anatomy of the Polycrisis: Interconnected Threats",
+    "3. Seven Pathways to Saving Lives and the Resilience Multiplier",
+    "4. A New Central Metric: Human Suffering Reduction Dividend",
+    "5. The 2025 Baseline: Who Is Dying and What Is Missing Today",
+    "6. Pathway Deep-Dive I: Pollution Reduction and Clean Energy",
+    "7. Pathway Deep-Dive II: Water Security and Food Resilience",
+    "8. Pathway Deep-Dive III: Healthcare, Pandemics and Conflict",
+    "9. Pathway Deep-Dive IV: Climate Resilience and Infrastructure",
+    "10. Century Results: Lives Saved, Healthy Years and HSRD Gains",
+    "11. The Geographical Priority: Global South and Africa Focus",
+    "12. Financing the Transition and Value for Money",
+    "13. Uncertainty, Stress Tests and the High Cost of Waiting",
+    "14. A Practical Playbook for Leaders and Parameter Register"
+  ],
+  "backmatter": [
+    "15. Primary References, Open Data and Verification Register"
+  ],
+  "doi": "10.5281/zenodo.23889631",
+  "license": "CC BY 4.0"
+}
