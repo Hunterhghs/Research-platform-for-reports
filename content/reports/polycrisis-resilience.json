@@ -1,0 +1,76 @@
+{
+  "slug": "polycrisis-resilience",
+  "number": "HH-2026-52",
+  "title": "Polycrisis Resilience",
+  "subtitle": "Defining the Capacity to Withstand, Adapt to and Reduce the Interconnected Risks of the 21st Century",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-11-05",
+  "updated": "2026-11-05",
+  "language": "en",
+  "pdf": "polycrisis-resilience.pdf",
+  "pages": 39,
+  "dek": "Existing resilience, risk-reduction and adaptation work is organised hazard by hazard, while the risk arrives through the connections. A proposed framework defines the capacity to respond to the interactions themselves, and a six-question test to screen any action against it.",
+  "topics": [
+    "Systemic Risk",
+    "Climate Adaptation",
+    "Development Finance"
+  ],
+  "abstract": [
+    "Humanity’s major challenges increasingly interact through complex networks of environmental, economic, technological and societal risks, a condition commonly described as a polycrisis. Existing approaches to resilience, disaster risk reduction, climate adaptation and sustainable development each address important dimensions of this challenge but are often organized around individual hazards or systems. This report introduces Polycrisis Resilience, a proposed framework developed by H Heuristics to describe and strengthen the capacity of individuals, communities, economies, institutions and interconnected systems to anticipate, withstand, adapt to, recover from, and reduce the cascading and compounding effects of multiple interconnected crises.",
+    "The framework is defined by six distinguishing properties: multidimensional, preventative, developmental, intersectional, distributive and long-term. It integrates five capacities, five classes of capability (technologies, infrastructure, knowledge, institutions and socioeconomic capabilities) and five scales of action into a 5 × 5 × 5 structure for evaluating resilience across interacting stress domains including climate change, pollution, economic instability, technological disruption, demographic transitions, resource constraints, conflict and unequal development. The report argues that resilience strategies focused on isolated risks systematically underestimate cascading vulnerabilities and overlook interventions that generate benefits across several domains at once.",
+    "Drawing on resilience science, systemic risk, development economics and polycrisis research, the report proposes practical tools: a six-question Polycrisis Resilience Test, a capability-based planning matrix, an indicator architecture for a future country profile designed to expose the weakest link rather than average it away, a research agenda of ten questions and a three-pillar programme of framework, research and public education. The report is conceptual and synthetic; its own analyses are labelled illustrative and graded C or D, and it sets out the critiques of the concept and what evidence would lead H Heuristics to revise or abandon parts of it."
+  ],
+  "findings": [
+    "The risks are interacting, and the evidence base is strong. Seven of nine planetary boundaries are assessed as transgressed, air pollution is linked to about 7.9 million deaths a year, and 3.4 billion people live in countries that spend more on interest than on health or education — not separate problems with separate solutions.",
+    "Coupling changes the shape of risk, not just its size. In a stylized simulation, raising the correlation between eight stress domains from zero to 0.5 lowers the chance of at least one domain in acute stress (37 per cent against 57 per cent) but raises the chance of three or more from 3.8 to 11.1 per cent and of five or more from 0.04 to 3.6 per cent, roughly 80-fold: quiet years become more common and the worst years much worse. This is a mechanism illustration, not a forecast.",
+    "Intersectional capabilities are the most valuable. In a qualitative screen of twelve capabilities against eight stress domains, girls’ education, distributed clean energy, resilient infrastructure and diversified food systems score highest because they reduce vulnerability in most or all domains at once.",
+    "The economics favour prevention but the finance does not follow. Estimated adaptation needs in developing countries are $310 to $365 billion a year by 2035 against international public flows of $26 billion in 2023, and disaster costs including cascading effects exceed $2.3 trillion a year while only about 2 per cent of development aid goes to disaster-risk reduction.",
+    "Resilience that stops at the border fails. Weak points propagate through trade, migration, disease, finance and conflict, so distribution is a condition of effectiveness as well as a matter of fairness.",
+    "Measurement is feasible but must be built carefully. A weakest-link aggregation rule is essential: in a worked illustration, two profiles with identical arithmetic averages of 60 separate to 60 and 43 under a geometric mean (graded D).",
+    "The concept is new and its boundaries will be contested. Critics will ask whether it is too elastic to be useful, whether it shifts responsibility from institutions to individuals, whether it favours technical fixes over political change, and whether it can be measured without false precision; the report sets out these objections and responses."
+  ],
+  "keywords": [
+    "polycrisis resilience",
+    "polycrisis",
+    "systemic risk",
+    "cascading risks",
+    "adaptive capacity",
+    "disaster risk reduction",
+    "climate adaptation",
+    "sustainable development",
+    "development economics",
+    "planetary boundaries",
+    "resilience measurement"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "A conceptual and synthetic report. It draws on published evidence from climate science, disaster-risk research, development economics, complex-systems theory and the polycrisis literature, and contributes a definition with six defining properties, a 5 × 5 × 5 framework of capacities, capability classes and scales of action, screening and measurement tools (a six-question Polycrisis Resilience Test and an indicator architecture), and a research agenda. Claims are graded on the four-level scale used across H Heuristics research (A established, B well supported, C plausible or contested, D speculative); analyses by H Heuristics are always graded C or D. Four exhibits are H Heuristics constructions rather than reported data: two rest on qualitative scores assigned by the author from the literature (grade C), one is a stylized simulation of coupled stress domains that shows a mechanism and not a forecast (grade C), and one uses hypothetical profiles to illustrate an aggregation choice (grade D). Every other figure reports data from the cited source. The report contains a glossary and a reference list.",
+  "contents": [
+    "About This Report",
+    "Executive Summary",
+    "1. The Overarching Effort",
+    "2. Defining Polycrisis Resilience",
+    "3. Intellectual Lineage",
+    "4. The Anatomy of the Polycrisis",
+    "5. Why Isolated Resilience Falls Short",
+    "6. The Polycrisis Resilience Framework",
+    "7. Intersectional Opportunities",
+    "8. The Economics of Polycrisis Resilience",
+    "9. Resilience for Whom? The Distributive Imperative",
+    "10. The Long-Term Horizon",
+    "11. Measuring Polycrisis Resilience",
+    "12. Strategic Pathways: What To Do",
+    "13. Critiques, Limits and the Research Agenda",
+    "14. The H Heuristics Program and Conclusion"
+  ],
+  "backmatter": [
+    "Glossary",
+    "References"
+  ],
+  "doi": "10.5281/zenodo.23967038",
+  "license": "CC BY 4.0"
+}
