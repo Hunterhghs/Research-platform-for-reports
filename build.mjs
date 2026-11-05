@@ -17,12 +17,11 @@ const ROOT = path.dirname(fileURLToPath(import.meta.url));
 const DIST = path.join(ROOT, 'dist');
 const SITE = config.siteUrl;
 
-// Fingerprint the stylesheet so a changed file gets a new URL; the CDN caches /assets for a week.
-const CSS_VERSION = crypto
-  .createHash('sha1')
-  .update(fs.readFileSync(path.join(ROOT, 'assets', 'styles.css')))
-  .digest('hex')
-  .slice(0, 8);
+// Fingerprint assets so a changed file gets a new URL; the CDN caches /assets for a week.
+const assetVersion = (file) =>
+  crypto.createHash('sha1').update(fs.readFileSync(path.join(ROOT, 'assets', file))).digest('hex').slice(0, 8);
+const CSS_VERSION = assetVersion('styles.css');
+const JS_VERSION = assetVersion('site.js');
 
 /* ------------------------------------------------------------------ utils */
 
@@ -249,7 +248,7 @@ ${body}
   </div>
 </footer>
 
-<script src="/assets/site.js" defer></script>
+<script src="/assets/site.js?v=${JS_VERSION}" defer></script>
 </body>
 </html>
 `;
@@ -287,7 +286,7 @@ function entry(r) {
 /* ------------------------------------------------------------------- pages */
 
 function pageHome(reports, topics) {
-  const [lead, ...rest] = reports;
+  const [lead, ...rest] = reports.slice(0, config.homeCount);
 
   const body = `
 <section class="hero">
@@ -325,8 +324,9 @@ function pageHome(reports, topics) {
 
 <section class="band">
   <div class="wrap">
-    <div class="sec-head"><h2 class="sec-head__h">More from the series</h2><span class="sec-head__rule"></span><a class="sec-head__more" href="/reports/">All reports →</a></div>
+    <div class="sec-head"><h2 class="sec-head__h">Recent reports</h2><span class="sec-head__rule"></span><a class="sec-head__more" href="/reports/">All ${reports.length} reports →</a></div>
     <div class="entries">${rest.map(entry).join('\n')}</div>
+    <p class="more-link"><a class="btn" href="/reports/">Browse all ${reports.length} reports</a></p>
   </div>
 </section>
 
@@ -372,6 +372,29 @@ function pageHome(reports, topics) {
   });
 }
 
+function seriesSection() {
+  const sites = config.seriesSites || [];
+  if (!sites.length) return '';
+  return `
+<section class="band band--tint" id="series">
+  <div class="wrap">
+    <div class="sec-head"><h2 class="sec-head__h">Other H Heuristics series</h2><span class="sec-head__rule"></span></div>
+    <ul class="seriesgrid">
+      ${sites
+        .map(
+          (x) => `<li class="seriescard">
+        <p class="eyebrow">Series · ${esc(new URL(x.url).host)}</p>
+        <h3 class="seriescard__title"><a href="${x.url}/">${esc(x.name)}</a></h3>
+        <p class="seriescard__dek">${esc(x.description)}</p>
+        <p><a class="btn btn--primary" href="${x.url}/">Visit the series →</a></p>
+      </li>`
+        )
+        .join('')}
+    </ul>
+  </div>
+</section>`;
+}
+
 function pageReports(reports, topics) {
   const body = `
 <section class="pagehead">
@@ -379,6 +402,9 @@ function pageReports(reports, topics) {
     <p class="eyebrow">The series</p>
     <h1 class="pagehead__title">Reports</h1>
     <p class="pagehead__lede">${reports.length} reports in the ${esc(config.series)} series. Every report is open access; each page carries the abstract, key findings, structured metadata, and the full PDF.</p>
+    ${(config.seriesSites || []).length ? `<p class="pagehead__also">Also from H Heuristics: ${config.seriesSites
+      .map((x) => `<a href="${x.url}/">${esc(x.name)}</a>`)
+      .join(' · ')} — <a href="#series">about the series</a></p>` : ''}
   </div>
 </section>
 
@@ -394,11 +420,16 @@ function pageReports(reports, topics) {
         ${topics.map((t) => `<button type="button" class="chip" data-topic="${esc(t.name)}">${esc(t.name)}</button>`).join('')}
       </div>
     </form>
-    <p class="filters__count" data-filter-count hidden></p>
-    <div class="entries" data-filter-list>${reports.map(entry).join('\n')}</div>
+    <div class="listbar">
+      <p class="filters__count" data-filter-count hidden></p>
+      <nav class="pager" aria-label="Report pages" data-pager hidden></nav>
+    </div>
+    <div class="entries" data-filter-list data-page-size="${config.pageSize}">${reports.map(entry).join('\n')}</div>
     <p class="empty" data-filter-empty hidden>No reports match that filter.</p>
+    <nav class="pager pager--foot" aria-label="Report pages" data-pager hidden></nav>
   </div>
-</section>`;
+</section>
+${seriesSection()}`;
 
   const head = `<meta property="og:type" content="website">
 <meta property="og:title" content="Reports · ${esc(config.name)}">

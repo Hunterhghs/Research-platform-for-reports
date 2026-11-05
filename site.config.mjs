@@ -66,6 +66,21 @@ export default {
     'Complexity & Natural Form',
   ],
 
+  // Home page shows this many of the newest reports; /reports/ pages through
+  // the full list this many at a time.
+  homeCount: 10,
+  pageSize: 25,
+
+  // Companion series published on their own sites, listed on /reports/.
+  seriesSites: [
+    {
+      name: 'Polycrisis Resilience Series',
+      url: 'https://polycrisisresilience.hheuristics.com',
+      description:
+        'A separate H Heuristics series on how societies can anticipate, absorb and recover from interconnected global crises — climate change, pollution, fragile food and energy systems, pandemics, financial shocks and conflict. Plain-language, open-access reports, each with its own DOI.',
+    },
+  ],
+
   nav: [
     { href: '/reports/', label: 'Reports' },
     { href: '/topics/', label: 'Topics' },

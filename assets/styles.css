@@ -528,3 +528,32 @@ a.pill:hover { border-color: var(--navy); color: var(--navy); }
   font-style: italic; line-height: 1.4; color: var(--ink-2);
   max-width: 48ch; margin: -0.5rem 0 1.1rem;
 }
+
+/* Home: link to the full list under the recent reports. */
+.more-link { margin-top: 1.6rem; }
+
+/* Reports list: numbered page tabs (progressive enhancement; without JS every report is listed). */
+.listbar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 0.6rem 1rem; }
+.listbar .filters__count { margin: 0; }
+.pager[hidden] { display: none; }
+.pager { display: flex; flex-wrap: wrap; align-items: center; gap: 0.3rem; font-family: var(--sans); }
+.pager--foot { margin-top: 1.6rem; justify-content: center; }
+.pager__btn {
+  font-family: var(--sans); font-size: 0.78rem; font-weight: 500; min-width: 2.2rem;
+  padding: 0.42rem 0.6rem; border: 1px solid var(--line); background: transparent;
+  color: var(--ink-2); cursor: pointer; text-align: center;
+}
+.pager__btn:hover:not([disabled]) { border-color: var(--line-strong); color: var(--ink); }
+.pager__btn[aria-current="page"] { background: var(--navy); border-color: var(--navy); color: #fff; }
+.pager__btn[disabled] { opacity: 0.4; cursor: default; }
+.pager__gap { color: var(--ink-3); padding-inline: 0.2rem; font-size: 0.78rem; }
+
+/* Reports page: companion series hosted on their own sites. */
+.seriesgrid { list-style: none; margin: 1rem 0 0; padding: 0; display: grid; gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(min(100%, 26rem), 1fr)); }
+.seriescard { background: var(--paper); border: 1px solid var(--line); border-top: 3px solid var(--navy); padding: 1.4rem 1.5rem 1.5rem; }
+.seriescard .eyebrow { margin: 0 0 0.6rem; }
+.seriescard__title { font-family: var(--serif); font-size: 1.45rem; font-weight: 600; line-height: 1.2; margin: 0 0 0.6rem; }
+.seriescard__title a { color: var(--ink); text-decoration: none; }
+.seriescard__title a:hover { color: var(--navy); }
+.seriescard__dek { color: var(--ink-2); line-height: 1.6; margin: 0 0 1.1rem; max-width: 60ch; }
+.pagehead__also { font-family: var(--sans); font-size: 0.85rem; color: var(--ink-2); margin: 0.9rem 0 0; }
