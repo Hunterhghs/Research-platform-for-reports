@@ -1,0 +1,73 @@
+{
+  "slug": "polycrisis-resilience-2026",
+  "number": "HH-2026-54",
+  "title": "Polycrisis Resilience 2026",
+  "subtitle": "Capacity, Clustering and the Recovery Gap across 166 Countries",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-11-06",
+  "updated": "2026-11-06",
+  "language": "en",
+  "pdf": "polycrisis-resilience-2026.pdf",
+  "pages": 38,
+  "dek": "A resilience-capacity scorecard for 166 countries finds the buffers concentrated where they are least needed, weaknesses travelling together in 50 countries of 1.7 billion people, and the 2020–23 shocks felt less in the first blow than in an unequal recovery.",
+  "topics": [
+    "Systemic Risk",
+    "Development Finance",
+    "Institutions & Governance"
+  ],
+  "abstract": [
+    "Between 2020 and 2026 the world absorbed a pandemic, the sharpest commodity-price shock in half a century, the warmest years on record, a surge in armed conflict and a debt squeeze across the developing world. These were not separate events: each travelled through food, energy, finance, health and politics, and each arrived before societies had recovered from the last. This report, part of the H Heuristics Polycrisis Resilience series, asks which capacities let countries withstand, recover from and reduce their vulnerability to crises that compound, and where those capacities are missing.",
+    "It builds a Polycrisis Resilience Capacity score for 166 countries holding 8.0 billion people, combining sixteen public indicators into five capacities: fiscal and financial buffers, social protection and health, institutions, infrastructure and digital access, and exposure to imported food and fuel. It then tests whether those capacities shaped what happened to growth, inflation and life expectancy between 2020 and 2024, using the World Bank’s World Development Indicators and Worldwide Governance Indicators, the EM-DAT disaster database and IMF commodity prices.",
+    "Resilience capacity is steeply sorted by income, which explains 81 per cent of its cross-country variation, and thin buffers cluster: 50 countries with 1.7 billion people sit in the global bottom third on at least three of the five capacities. The shocks of 2020 to 2023 were felt more in recovery than in impact, with low-income countries falling further behind their pre-2020 path after the first year. Conditional on income, most static buffers predict outcomes only weakly; institutional capacity is the one robust exception, associated with markedly smaller losses of life expectancy. The report sets out ten priorities and a layered financing strategy built around recovery capacity, institutions and pre-arranged finance, and it does not claim that resilience can be bought with a single investment or delivered by income growth alone."
+  ],
+  "findings": [
+    "Resilience capacity is steeply sorted by income. The composite score averages 22 in low-income and 70 in high-income countries on a 0–100 percentile scale, and income per person explains 81 per cent of its variation; the gaps are widest in infrastructure (9 against 74) and social protection (15 against 81), while fiscal buffers are thin almost everywhere.",
+    "Thin buffers travel together. Thirty per cent of countries are in the bottom third on at least three of the five capacities, against 21 per cent if weaknesses were independent; these 50 countries hold 1.7 billion people, and 38 of them are in Sub-Saharan Africa. A country weak in one buffer usually has no other to fall back on.",
+    "The 2020–2023 shocks were felt in recovery more than in impact. Low-income countries’ output fell less below trend in 2020 than richer countries’, but by 2024 63 per cent of them were further below their pre-2020 path than in 2020, against 28 per cent of high-income countries; nearly three-quarters of all countries had not regained their earlier path.",
+    "Static buffers predict outcomes weakly, with one robust exception. Conditional on income, most capacities have little measurable association with the 2020 growth shock, the 2024 output gap or the 2022 inflation surge, but countries with more effective government and stronger rule of law lost markedly less life expectancy in 2020–21 than income peers (partial correlation 0.31). Larger foreign-exchange reserves were associated with smaller inflation surges.",
+    "Disaster deaths follow capacity: 49 per cent of 2005–2024 disaster deaths occurred in the lowest-capacity third of countries, home to 23 per cent of people.",
+    "Debt is closing the space to act. Interest absorbs more than a fifth of government revenue in 16 countries with 2.6 billion people, and in upper-middle-income countries it rose from about 6 to over 10 per cent of revenue between 2010 and 2024 while falling in high-income countries.",
+    "Capacity is shaped by policy, not income alone: Bhutan, Viet Nam and the Kyrgyz Republic score well above their income peers, while several resource-rich economies score far below theirs.",
+    "Of ten priorities, four carry the most weight: protect the core functions of the state during crises; pre-arrange disaster and shock finance so money arrives in days, not months; build adaptive social protection that scales automatically; and restore fiscal space through debt clauses and lower-cost finance."
+  ],
+  "keywords": [
+    "polycrisis resilience",
+    "systemic resilience",
+    "crisis compounding",
+    "interconnected risks",
+    "resilience capacity",
+    "recovery gap",
+    "institutional capacity",
+    "fiscal space",
+    "adaptive social protection",
+    "disaster risk finance",
+    "vulnerability reduction",
+    "economic resilience"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "The report builds a Polycrisis Resilience Capacity score for 166 of 217 World Bank-classified economies (those meeting the report’s data-coverage rule), combining sixteen public indicators into five capacities — fiscal and financial buffers, social protection and health, institutions, infrastructure and digital access, and exposure to imported food and fuel — on a 0–100 percentile scale. It tests clustering of weak capacities against an independence benchmark, measures 2020–2024 outcomes (output relative to the pre-2020 growth path, the 2022 inflation surge and 2020–21 life-expectancy losses) and estimates their association with each capacity conditional on income, and compares disaster mortality and interest burdens across capacity groups. Indicators were downloaded through the World Bank API in November 2026 from the World Development Indicators and Worldwide Governance Indicators; disaster mortality comes from EM-DAT as published by Our World in Data, and commodity prices are IMF primary commodity series retrieved from FRED. The appendix documents sources, indicator coverage, treatment of missing data and sensitivity checks. All data are public and calculations are by H Heuristics. The report contains 9 figures and 9 tables.",
+  "contents": [
+    "Executive Summary",
+    "1. A World of Compounding Crises",
+    "2. Defining Polycrisis Resilience",
+    "3. How Crises Compound",
+    "4. Measuring Resilience Capacity",
+    "5. Why Thin Buffers Travel Together",
+    "6. The Recovery Gap",
+    "7. Disasters, Debt and Shrinking Fiscal Space",
+    "8. Ten Priorities for Polycrisis Resilience",
+    "9. Financing Resilience",
+    "10. Conclusion and Research Agenda",
+    "Appendix: Data and Methods"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.5281/zenodo.24010659",
+  "license": "CC BY-NC-ND 4.0"
+}
