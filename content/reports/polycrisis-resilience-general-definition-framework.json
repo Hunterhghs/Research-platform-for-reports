@@ -1,0 +1,76 @@
+{
+  "slug": "polycrisis-resilience-general-definition-framework",
+  "number": "HH-2026-55",
+  "title": "Polycrisis Resilience: A General Definition and the H Heuristics Framework",
+  "subtitle": "The Capacity to Anticipate, Withstand, Adapt to, Recover from and Reduce Vulnerability to Multiple Interacting Crises",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-11-06",
+  "updated": "2026-11-06",
+  "language": "en",
+  "pdf": "polycrisis-resilience-general-definition-framework.pdf",
+  "pages": 48,
+  "dek": "The flagship statement of the concept: a general definition usable across disciplines, six capacities from prevention to transformation, and a development-oriented framework that applies four drivers to five systems through a five-stage cycle of continuous improvement.",
+  "topics": [
+    "Systemic Risk",
+    "Institutions & Governance",
+    "Emerging Markets"
+  ],
+  "abstract": [
+    "The defining risks of this century do not arrive one at a time. Climate change, environmental degradation, economic instability, geopolitical conflict, demographic change, public health threats, technological disruption and fragile infrastructure now act on one another, so that the harm entangled crises cause together exceeds the sum of their separate effects. This flagship report sets out a concept for that condition, Polycrisis Resilience, and a framework for building it, the H Heuristics Polycrisis Resilience Framework, which it presents as concepts developed by Hunter Hughes, Founder of H Heuristics. It defines Polycrisis Resilience as the capacity of individuals, communities, institutions, economies, societies and interconnected systems to anticipate, withstand, adapt to, recover from and reduce their vulnerability to multiple interacting crises.",
+    "Part I sets out a general definition usable across disciplines, institutions, economies and societies: what makes a polycrisis distinct, the components of the definition, six capacities (risk reduction, preventive, absorptive, recovery, adaptive and transformative), the scales at which resilience is held and for whom, how the concept relates to and differs from its neighbours in the resilience literature, and how it can be assessed. Part II presents the H Heuristics framework, which applies the concept through development: the evidence that development reduces vulnerability, the five interconnected systems it strengthens (economic, technological and infrastructure, environmental, human and institutional), a five-stage development cycle, and a screen for interventions that reduce several vulnerabilities at once.",
+    "The report argues that reducing vulnerability before crises occur is the concept’s distinctive element, and that development is one of the strongest forms of resilience on record: deaths from natural disasters per person have fallen by about 98 per cent globally since the 1920s even as recorded disasters became more frequent. It is explicit about the limits of that argument — development is slow and reversible, can create new risks, and does not remove the need for emergency response or global action — and it closes with ten propositions and a five-question research agenda."
+  ],
+  "findings": [
+    "A polycrisis requires its own idea of resilience. Crises become entangled through common causes, domino effects and feedback loops, so resilience to one hazard at a time cannot protect a society from a flood that strikes during a currency crisis, or a pandemic that arrives during a debt squeeze.",
+    "The concept has six capacities — risk reduction, preventive, absorptive, recovery, adaptive and transformative — acting before, during, after and between crises. A society needs all six, because a polycrisis tests every phase at once and new shocks often arrive before recovery from the last is complete.",
+    "Reducing vulnerability is the distinctive element. A society that recovers fully from each shock but never lowers its exposure is resilient only until shocks arrive faster than it can recover, so the concept places prevention, development, adaptation and systemic improvement at its centre.",
+    "Development is one of the strongest forms of resilience on record. Natural-disaster deaths per person fell by about 98 per cent globally between the 1920s and the 2010s, and Bangladesh’s cyclone death rate fell by about 99 per cent between the 1970 and 2007 storms; income, education, institutions and infrastructure explain much of the cross-country difference in disaster mortality.",
+    "An initial scorecard of 166 countries, drawn from the Polycrisis Resilience 2026 report, finds capacity steeply sorted by income (R² 0.81; averages of 22 in low-income and 70 in high-income countries) but not determined by it: countries at similar incomes differ by twenty points or more.",
+    "Interventions should be chosen for their multiple dividends. Reliable clean electricity, adaptive social protection, early warning systems, digital payments, water and sanitation, schooling and resilient infrastructure each reduce several vulnerabilities at once, and foundational systems should come first.",
+    "The framework applies four development drivers (convergence, technology diffusion, sustainable development and coordinated improvement) to five interconnected systems through a five-stage cycle — identify vulnerability, prioritise development interventions, strengthen interconnected systems, reduce systemic vulnerability, strengthen long-term resilience — treating resilience as continuous improvement rather than an end state.",
+    "The framework has stated limits: development can create new risks through exposed urban growth, emissions and tightly coupled infrastructure; falling mortality does not mean falling economic losses; development is slow and reversible; and the multi-dividend screen is a qualitative judgement still to be tested with better data."
+  ],
+  "keywords": [
+    "polycrisis resilience",
+    "systemic risk",
+    "vulnerability reduction",
+    "preventive capacity",
+    "transformative capacity",
+    "interconnected crises",
+    "development as resilience",
+    "sustainable development",
+    "convergence",
+    "multi-dividend interventions",
+    "development policy",
+    "disaster mortality"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "A conceptual flagship report in two parts. Part I develops a general definition of Polycrisis Resilience from the resilience, disaster-risk and polycrisis literatures, sets out six capacities and the scales at which resilience is held, compares the concept with neighbouring concepts and the critiques of resilience, and proposes principles for assessment, illustrated with the 166-country capacity scorecard from the H Heuristics Polycrisis Resilience 2026 report (sixteen World Bank indicators averaged as percentiles within five capacities). Part II presents the H Heuristics framework: it reviews evidence that development reduces vulnerability, including decadal natural-disaster death rates from EM-DAT as published by Our World in Data and the Bangladesh cyclone record, describes five interconnected systems and a five-stage development cycle, and applies an illustrative multi-dividend screen to candidate interventions. The screen is a qualitative judgement to be tested with better data. Figures, tables and boxes are listed in the report’s exhibits page.",
+  "contents": [
+    "Executive Summary",
+    "1. Introduction: An Age of Interconnected Crises",
+    "2. From Crisis to Polycrisis",
+    "3. A General Definition of Polycrisis Resilience",
+    "4. The Six Capacities of Polycrisis Resilience",
+    "5. Scales, Systems and the Distribution of Resilience",
+    "6. Polycrisis Resilience Among Related Concepts",
+    "7. Assessing Polycrisis Resilience",
+    "8. The H Heuristics Polycrisis Resilience Framework",
+    "9. Development as Resilience: The Evidence",
+    "10. Five Interconnected Systems",
+    "11. The Polycrisis Resilience Development Cycle",
+    "12. Prioritising Multi-Dividend Interventions",
+    "13. Implications for Policy and Practice",
+    "14. Conclusion"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.34938445",
+  "license": "CC BY-NC-ND 4.0"
+}
