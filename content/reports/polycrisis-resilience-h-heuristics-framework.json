@@ -1,0 +1,78 @@
+{
+  "slug": "polycrisis-resilience-h-heuristics-framework",
+  "number": "HH-2026-53",
+  "title": "Polycrisis Resilience: The H Heuristics Framework",
+  "subtitle": "How Economic Convergence, Technological Diffusion, Clean Transition, Adaptation and Human Development Can Reduce Vulnerability to Interconnected Global Crises",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-11-06",
+  "updated": "2026-11-06",
+  "language": "en",
+  "pdf": "polycrisis-resilience-h-heuristics-framework.pdf",
+  "pages": 41,
+  "dek": "Development as a resilience strategy, tested on 194 countries: development capability tracks sharply lower child mortality, poverty and disaster deaths, and deficit stacks have shrunk from 3.8 to 1.2 billion people. But development does not buy stability, and it raises emissions.",
+  "topics": [
+    "Systemic Risk",
+    "Emerging Markets",
+    "Climate Adaptation"
+  ],
+  "abstract": [
+    "This report sets out the H Heuristics Polycrisis Resilience Framework, a development-oriented framework developed by Hunter Hughes, Founder of H Heuristics, for reducing vulnerability to multiple interacting and compounding crises. It defines Polycrisis Resilience as the capacity of individuals, communities, societies, economies, institutions and interconnected systems to withstand, adapt to, recover from and reduce vulnerability to interconnected risks. Its central proposition is that improving the underlying economic, technological, environmental and institutional conditions of societies can progressively reduce their vulnerability to compounding global risks, so that development is treated not only as a route to higher incomes but as a fundamental mechanism of resilience. It is the third report in the Polycrisis Resilience series, after the founding report and a report on the clean transition.",
+    "The report states the framework as a whole — eight development capabilities, nine domains of vulnerability, six interaction links, a four-stage development cycle, three planning periods (2000–2030, 2030–2050, 2050–2100) and seven core objectives — and then tests its central proposition. A Development Capability Index built from the framework’s eight Global South priorities for 194 countries is set against thirteen measures of vulnerability, using the World Bank’s World Development Indicators and Worldwide Governance Indicators and the EM-DAT disaster database. The report also tests whether foundational deficits cluster in the same countries, tracks how those deficit stacks have changed since 2000, and estimates when each income group closes its remaining gaps at recent rates of progress.",
+    "The central proposition holds strongly for direct human harm: development capability correlates at −0.85 to −0.90 with child mortality, lack of sanitation, undernourishment and poverty, and at −0.55 to −0.66 with climate-disaster deaths and people affected. But development does not buy everything. Capability is unrelated to growth volatility, pandemic life-expectancy losses were largest in upper-middle capability countries, and CO2 per person rises steeply with capability. The framework therefore pairs development with buffers, adaptive capacity and a clean transition. The analysis is cross-country and correlational and does not by itself establish causation; where the published literature offers stronger causal evidence, the report cites it."
+  ],
+  "findings": [
+    "Development capability tracks sharply lower human harm. The Development Capability Index correlates at −0.90 with child mortality and at −0.85 to −0.86 with lack of sanitation, undernourishment and poverty. The least-capable fifth of countries holds 15 per cent of the world’s population but recorded 34 per cent of climate-disaster deaths in 2010–2024, a death rate 6.7 times that of the most capable fifth.",
+    "Vulnerabilities cluster, which is why a single-hazard approach falls short. Seven foundational deficits — electricity, clean cooking, water, sanitation, child mortality, undernourishment and government effectiveness — co-occur far more than chance predicts: 46 of 160 countries have four or more, against about 20 if they were independent, and the average pairwise correlation is 0.65.",
+    "Development has dismantled deficit stacks at scale, but not everywhere. The population living in countries with four or more deficits fell from 3.8 billion (67 per cent) in 2000 to 1.2 billion (16.5 per cent) today, and thirteen countries including China, India, Indonesia and Viet Nam went from four or more to one or none. But all 40 countries carrying four or more deficits today already carried them in 2000, and 29 still carry six or seven.",
+    "Development does not buy everything. Capability is unrelated to growth volatility (correlation −0.07) and to the share of growth erased by contraction years (−0.02); pandemic life-expectancy losses were largest in upper-middle capability countries; and CO2 per person rises steeply with capability (+0.86).",
+    "Convergence has stalled where vulnerability is greatest. Since 2015 GDP per person has grown 0.55 per cent a year in low-income countries against 1.53 per cent in high-income countries, and has slightly fallen in Sub-Saharan Africa, while lower-middle and upper-middle income countries continue to converge.",
+    "At recent rates the foundations will not be finished in the first planning period. Lower-middle-income countries reach universal electricity, basic water and widespread internet use around 2031 and clean cooking around 2037; low-income countries reach universal electricity around 2057 and do not reach universal clean cooking or basic sanitation this century, and undernourishment has been rising since 2015.",
+    "The framework asks four things of policy: finish the foundations in the 40 countries where deficits stack; pair development with protection through fiscal buffers, adaptive social protection, early warning and health-system surge capacity; make development clean; and measure the reduction of vulnerability, not only the growth of output, through seven trackable core objectives."
+  ],
+  "keywords": [
+    "polycrisis resilience",
+    "Development Capability Index",
+    "economic convergence",
+    "Global South",
+    "technological diffusion",
+    "clean transition",
+    "climate adaptation",
+    "vulnerability reduction",
+    "deficit stacking",
+    "human development",
+    "disaster mortality",
+    "systemic risk"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "The report states the H Heuristics Polycrisis Resilience Framework and tests its central proposition with public data only: the World Bank’s World Development Indicators and Worldwide Governance Indicators (downloaded through the World Bank API in November 2026) and the EM-DAT international disaster database as published by Our World in Data. A Development Capability Index for 194 countries is built as the mean percentile of eight indicators matching the framework’s Global South priorities and is correlated with thirteen measures of vulnerability. Seven foundational deficits are scored for the 160 countries with complete latest data, to test whether deficits cluster against an independence benchmark, and for the 148 countries with data in both periods, to compare deficit stacks in 2000 and the latest year. Gap-closing dates for each income group extrapolate recent rates of progress. Country-level latest values are the most recent observation from 2019 onward, and 2000 values the nearest observation within two years of 2000. All calculations are by H Heuristics and the analysis scripts are kept with the report so every number can be reproduced. The analysis is cross-country and correlational and does not by itself prove causation. Three figures are conceptual diagrams; every other figure reports data from the cited sources, processed by H Heuristics.",
+  "contents": [
+    "About This Report",
+    "Executive Summary",
+    "1. A Development-Oriented Answer to the Polycrisis",
+    "2. Defining Polycrisis Resilience",
+    "3. The Central Proposition and How It Works",
+    "4. Nine Domains of Vulnerability",
+    "5. Reinforcing Cycles of Vulnerability",
+    "6. Deficit Stacking, 2000 to Today",
+    "7. Testing the Central Proposition: The Development Gradient",
+    "8. What Development Does Not Buy",
+    "9. The Polycrisis Resilience Development Cycle",
+    "10. The Global South at the Centre",
+    "11. Three Periods: 2000–2030, 2030–2050, 2050–2100",
+    "12. Seven Core Objectives and How to Track Them",
+    "13. Measuring Polycrisis Resilience",
+    "14. Critiques, Limits and the Research Agenda",
+    "15. Conclusion"
+  ],
+  "backmatter": [
+    "Glossary",
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.34937067",
+  "license": "CC BY 4.0"
+}
