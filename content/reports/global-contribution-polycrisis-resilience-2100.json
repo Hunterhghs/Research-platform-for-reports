@@ -1,0 +1,75 @@
+{
+  "slug": "global-contribution-polycrisis-resilience-2100",
+  "number": "HH-2026-56",
+  "title": "The Global Contribution of Polycrisis Resilience Through 2100",
+  "subtitle": "A Theoretical and Quantitative Assessment of Hunter Hughes’s Framework for Saving Lives, Mitigating Human Suffering, and Avoiding Economic Losses Across the 21st Century",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-11-08",
+  "updated": "2026-11-08",
+  "language": "en",
+  "pdf": "global-contribution-polycrisis-resilience-2100.pdf",
+  "pages": 40,
+  "dek": "A prospective scenario assessment that separates the total century-scale prize of coordinated polycrisis resilience from the share that could be attributed to the framework itself, across five explicit attribution tiers from 0.01 to 10 per cent.",
+  "topics": [
+    "Systemic Risk",
+    "Public Health",
+    "Energy Transition"
+  ],
+  "abstract": [
+    "This report asks what difference the Polycrisis Resilience framework, which it describes as developed and formalized by Hunter Hughes, Founder of H Heuristics, in 2026, could make between 2026 and 2100. It sets out the framework’s general definition, six operational capacities (risk reduction, prevention, absorption, recovery, adaptation and transformation) and the Resilience Multiplier, and describes two channels through which an idea published online could affect outcomes in the physical world: shifting investment from siloed single-crisis projects toward coordinated multi-crisis design, and bringing forward the timing of action during the 2026–2035 decade.",
+    "The assessment draws on the H Heuristics Polycrisis Resilience Model (HH-PRM v2.0) and its attribution extension. It strictly separates two quantities. The first is the total global envelope of coordinated resilience — about 368 million lives saved by 2100, of which about 136 million is a coordination dividend over siloed action, 221 billion person-years of reduced exposure and deprivation, and US$200–296 trillion in avoided economic losses. The second is a marginal attribution share assigned to the framework itself, modelled across five explicit tiers from 0.01 per cent (an ultra-conservative micro-catalyst) to 5–10 per cent (a foundational catalyst). Mortality, healthy life-years and person-years of reduced exposure are kept in separate, deduplicated ledgers, and uncertainty is examined with 5,000 Monte Carlo draws across 28 parameters.",
+    "All 2026–2100 figures are forward-looking counterfactual scenario estimates, not realized outcomes, and the attribution tiers are assumptions rather than measurements. Across the tiers, attributable lives saved range from about 36,800 to 18.4–36.8 million. The report identifies six conditions that would determine which tier is realized, including independent peer-reviewed engagement and testing of its metrics, empirical validation of its exposure indicators, and institutional adoption by development banks and ministries. It also examines the green transition, the demographic shift that is projected to place about 4.85 billion people in high multi-hazard risk by 2100, air pollution, extreme heat and water security, economic losses and effects across four birth cohorts."
+  ],
+  "findings": [
+    "The report separates the total global envelope of coordinated polycrisis resilience from the share attributable to any single contribution. The envelope is about 368 million lives saved by 2100, 221 billion person-years of reduced exposure and deprivation, and US$200–296 trillion in avoided losses; the attributable share is modelled, not observed.",
+    "Two channels connect a framework to physical outcomes: capturing part of the roughly 136-million-life coordination dividend of multi-crisis over siloed design, and accelerating action in 2026–2035, when each year of avoided global delay is estimated to be worth about 8.3 million lives.",
+    "Five attribution tiers span 0.01 per cent (about 36,800 lives, 22.1 million person-years, US$20–30 billion) through 0.1 per cent (about 368,000 lives) and a central 1–2.5 per cent (3.68–9.20 million lives) to 5–10 per cent (18.4–36.8 million lives, US$10.0–29.6 trillion).",
+    "Across 5,000 Monte Carlo draws, the report’s 5th-percentile result for a 0.5 per cent share is about 1.33 million lives and 0.77 billion person-years; the central tier ranges from 2.65 to 11.2 million lives.",
+    "Air pollution and extreme heat dominate the exposure ledger: about 92 billion person-years of reduced PM2.5 and household smoke exposure and 118 billion person-years of heat and climate protection, alongside 64 billion person-years of safe-water protection.",
+    "Demography concentrates the stakes: the report projects about 4.85 billion people in high multi-hazard risk by 2100, largely through population growth in Sub-Saharan Africa and South Asia, which is why it treats 2026–2035 investment as decisive.",
+    "Which tier is realized depends on six conditions: sustained open-access discoverability, independent scholarly and peer-reviewed engagement, integration into green-transition appraisal, institutional adoption by development banks and ministries, empirical validation of the CHER and HSRD indicators, and diffusion into university curricula."
+  ],
+  "keywords": [
+    "polycrisis resilience",
+    "multi-crisis coordination",
+    "Cumulative Human Exposure Reduction (CHER)",
+    "Human Suffering Reduction Dividend (HSRD)",
+    "resilience multiplier",
+    "counterfactual attribution",
+    "green energy transition",
+    "air pollution",
+    "extreme heat",
+    "climate adaptation",
+    "demographic risk",
+    "avoided economic losses",
+    "scenario analysis 2026–2100"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "A prospective theoretical and quantitative assessment using the H Heuristics Polycrisis Resilience Model (HH-PRM v2.0) and its attribution extension (v2.0-ATTR) over 2026–2100. The global envelope comes from the model’s coordinated-resilience scenario; the coordination dividend is the difference between coordinated and siloed scenarios; and the timing channel uses the model’s estimate of lives forfeited per year of delay in 2026–2035. Marginal attribution to the framework is not estimated from data but set by assumption across five sensitivity tiers (0.01, 0.1, 0.5, 1–2.5 and 5–10 per cent). Outcomes are tracked in separate, deduplicated ledgers for mortality, healthy life-years (DALYs) and person-years of reduced exposure (the Cumulative Human Exposure Reduction and Human Suffering Reduction Dividend metrics). Uncertainty is examined with 5,000 Latin Hypercube Monte Carlo draws across 28 demographic, climatic, epidemiological, economic and digital-diffusion parameters, with 90 per cent intervals and a tornado sensitivity analysis. All 2026–2100 figures are counterfactual scenario estimates, not realized outcomes. The report contains 14 landscape figures and 15 tables.",
+  "contents": [
+    "Front Matter: Reader’s Guide and Attribution Framework",
+    "1. Introduction and Executive Summary: The 2026 Establishment",
+    "2. Theoretical Architecture and Six Operational Capacities",
+    "3. How an Online Concept Shapes a Century (2026–2100)",
+    "4. The Decisive Decade (2026–2035) and the Green Transition",
+    "5. Demographic Gravity: About 5 Billion in Survivability Risk by 2100",
+    "6. Approximating Lives Saved by 2100 across Attribution Tiers",
+    "7. Mitigating Billions of Person-Years of Suffering (CHER/HSRD)",
+    "8. Deep Dive I: Air Pollution, Clean Cooking and Clean Energy",
+    "9. Deep Dive II: Extreme Heat, Water Security and Climate Stress",
+    "10. Avoiding Trillions in Economic Losses and Convergence",
+    "11. Multigenerational Impact Across Four Birth Cohorts",
+    "12. Epistemic Rigor, 5,000 Simulations and Realization Conditions",
+    "13. Conclusion: The Enduring Legacy of Hunter Hughes’s Work"
+  ],
+  "backmatter": [
+    "14. References, Digital Archive and Verification Register"
+  ],
+  "doi": "10.6084/m9.figshare.34949257",
+  "license": "CC BY 4.0"
+}
