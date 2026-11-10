@@ -1,0 +1,75 @@
+{
+  "slug": "polycrisis-resilience-application-21st-century",
+  "number": "HH-2026-57",
+  "title": "Polycrisis Resilience: Application Across the 21st Century (2025–2100)",
+  "subtitle": "A Proactive Systems Architecture to Transcend Climate Shocks, Pollution Traps, Demographic Vulnerabilities, and Institutional Fragility",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-11-10",
+  "updated": "2026-11-10",
+  "language": "en",
+  "pdf": "polycrisis-resilience-application-21st-century.pdf",
+  "pages": 40,
+  "dek": "A century-scale programme for applying the Polycrisis Resilience framework through preventive development: six pillars, from clean transition and digital public infrastructure to adaptation and climate-resilient finance, illustrated with eleven country cases and a vision for 2100.",
+  "topics": [
+    "Systemic Risk",
+    "Emerging Markets",
+    "Development Finance"
+  ],
+  "abstract": [
+    "Humanity has entered a century in which climate change, environmental pollution, demographic transitions, economic inequality, technological disparities, conflict and institutional vulnerabilities increasingly interact, creating feedback loops that amplify human exposure, undermine development and reproduce vulnerability across generations. This monograph sets out how the Polycrisis Resilience framework, which it presents as formulated by Hunter Hughes, Founder of H Heuristics, could be applied between 2025 and 2100. Its central idea is preventive development: using high-impact interventions to change the underlying conditions that make populations vulnerable before shocks strike, rather than relying on post-disaster recovery.",
+    "The report is organized around six operational capacities (risk reduction, preventive, absorptive, recovery, adaptive and transformative) and six strategic pillars: sustainable economic convergence, the clean transition, technology diffusion through open digital public infrastructure, human development, climate adaptation and physical hardening, and institutional resilience against emerging threats. It examines the demographic concentration of exposure in Sub-Saharan Africa and South Asia, the pollution–development and education–climate traps, cross-pillar leverage points, and how century-scale resilience could be financed through lower costs of capital, development-bank first-loss guarantees and climate-resilient debt clauses. Each section draws on a country case, among them Odisha’s cyclone preparedness, Viet Nam’s solar feed-in tariff, Kenya’s geothermal and mini-grid build-out, Brazil’s Pix payment system, Peru’s Juntos and Cuna Más programmes, Ahmedabad’s heat action plan, Estonia’s X-Road and the Bridgetown Initiative.",
+    "The report closes with a long-run vision for 2100 that it calls Planetary Capability Parity, including an illustrative future scenario set in 2050. Its century-scale aggregates — such as more than 120 million lives saved and over US$345 trillion in avoided losses — are the report’s own scenario figures and should be read as an aspirational synthesis rather than as model outputs documented in the report."
+  ],
+  "findings": [
+    "The report argues that single-hazard, post-disaster response cannot break the feedback loops of a polycrisis, and that the central task of the century is preventive development: changing the economic, technological and infrastructural conditions that make people vulnerable before shocks arrive.",
+    "It structures the framework as six operational capacities — risk reduction, preventive, absorptive, recovery, adaptive and transformative — applied through six pillars: convergence, clean transition, technology diffusion, human development, climate adaptation and institutional resilience.",
+    "It identifies Sub-Saharan Africa and South Asia as the regions where population growth and climate exposure converge, and estimates that they will bear more than three-quarters of total polycrisis exposure this century.",
+    "Clean power combined with digital connectivity is presented as the main cross-pillar leverage point, generating what the report calls a resilience multiplier of 2.35 to 3.25 times the return of isolated investment.",
+    "Eleven country cases illustrate the pillars, including Odisha’s shift from more than 10,000 deaths in the 1999 super cyclone to a mass evacuation of 1.2 million people ahead of Cyclone Fani in 2019, Brazil’s Pix instant-payment system and Peru’s stunting reduction programmes.",
+    "On finance, the report calls for closing the cost-of-capital penalty faced by developing economies, wider use of development-bank first-loss guarantees and climate-resilient debt clauses, and a permanent facility for cross-border clean-energy grids and open digital infrastructure.",
+    "Its 2100 vision of Planetary Capability Parity — with aggregate claims of more than 120 million lives saved and US$345 trillion in avoided losses — is a normative scenario; the report does not document a model behind these totals."
+  ],
+  "keywords": [
+    "polycrisis resilience",
+    "preventive development",
+    "systems resilience",
+    "global development",
+    "sustainable economic convergence",
+    "climate adaptation",
+    "technology diffusion",
+    "digital public infrastructure",
+    "human development",
+    "clean cooking",
+    "climate finance",
+    "Global South",
+    "emerging economies"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "A conceptual and programmatic monograph. It synthesizes published literature on polycrisis dynamics, resilience, development economics and climate finance (its bibliography includes IPCC, UNDP, World Bank, IEA and WHO reports and work by Morin, Tooze, Rodrik, Pomeranz and Dasgupta) and organizes it around the H Heuristics Polycrisis Resilience framework, with one country case per section. Figure and table source lines credit H Heuristics compilations rather than named external datasets, and the century-scale aggregates (lives saved, avoided losses, the resilience multiplier) are presented without a documented model. The 2050 case study in Section 12 is an illustrative future scenario. The report includes a glossary and a bibliography.",
+  "contents": [
+    "Executive Summary: The 21st-Century Polycrisis Architecture",
+    "1. The 21st-Century Polycrisis Architecture",
+    "2. Demographic Asymmetry and Geographic Exposure",
+    "3. Breaking Systemic Development Traps",
+    "4. Pillar 1: Sustainable Economic Convergence",
+    "5. Pillar 2: Clean Transition and Airshed Decoupling",
+    "6. Pillar 3: Technology Diffusion and Open Rails",
+    "7. Pillar 4: Human Development and Cognitive Armor",
+    "8. Pillar 5: Climate Adaptation and Physical Hardening",
+    "9. Pillar 6: Institutional Resilience and Emerging Threats",
+    "10. Multi-Dimensional Leverage Points",
+    "11. Financing Century-Scale Resilience",
+    "12. The 2100 Civilizational Horizon"
+  ],
+  "backmatter": [
+    "Glossary",
+    "Bibliography"
+  ],
+  "doi": "10.6084/m9.figshare.34974355",
+  "license": "CC BY 4.0"
+}
