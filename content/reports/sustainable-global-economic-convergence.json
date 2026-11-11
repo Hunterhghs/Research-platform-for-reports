@@ -1,0 +1,82 @@
+{
+  "slug": "sustainable-global-economic-convergence",
+  "number": "HH-2026-59",
+  "title": "Sustainable Global Economic Convergence",
+  "subtitle": "A Framework for Advancing Prosperity, Environmental Quality and Systemic Resilience Together",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-11-11",
+  "updated": "2026-11-11",
+  "language": "en",
+  "pdf": "sustainable-global-economic-convergence.pdf",
+  "pages": 76,
+  "dek": "A five-dimension measurement framework for 151 economies shows technology, not income, is the weakest link for 72 of 103 developing countries, while three scenarios to 2100 show that the speed of convergence decides prosperity and the route decides the climate.",
+  "topics": [
+    "Emerging Markets",
+    "Energy Transition",
+    "Systemic Risk"
+  ],
+  "abstract": [
+    "For most of the past two centuries, the question of whether poorer countries are catching up with richer ones has been answered with a single number: income per person. This report argues that the question needs a wider answer, and that convergence should be judged by how it happens as well as how fast, and by whether prosperity, environmental quality and resilience advance together. It develops Sustainable Convergence, a concept the report presents as developed by Hunter Hughes, Founder of H Heuristics, and defines it as the process through which emerging and developing economies progressively narrow economic, technological, institutional and human-development gaps with advanced economies while pursuing environmentally sustainable, socially inclusive and systemically resilient development pathways.",
+    "The report sets out a formal definition and central proposition, eight academic foundations (from convergence and endogenous growth theory to ecological economics, innovation diffusion and resilience theory), five interdependent dimensions and a five-stage development mechanism. It reviews the record since 2000, contrasts the catch-up-first and clean-first routes, examines technology diffusion and leapfrogging, and links Sustainable Convergence to Polycrisis Resilience as a proactive way of reducing exposure to interconnected crises. It then introduces the Sustainable Convergence Measurement Framework (SCMF), a dashboard that tracks the five dimensions separately, in relative and absolute terms, for 151 economies, and states five testable research propositions.",
+    "The central findings are that catch-up has happened but is narrow, that most of it has so far followed carbon-intensive paths, and that technology is the most common binding gap. If the Global South closes 2 per cent of its remaining income gap each year, it reaches about 74 per cent of the high-income level by 2100; a fossil route would take cumulative world CO2 to about 3,084 billion tonnes, nearly three times the 2°C budget, while a sustainable route with the same income gains would keep it near 819 billion tonnes. The scenarios are illustrations of orders of magnitude, not forecasts, and the report closes with regional pathways, barriers, a strategy and a research agenda."
+  ],
+  "findings": [
+    "Catch-up has happened, but it is narrow. Average income in the Global South rose from 13 per cent of the high-income level in 2000 to 23 per cent in 2024; without China and India it moved only from 18 to 20 per cent, and low-income countries slipped from 4.2 to 3.7 per cent.",
+    "Relative convergence and absolute development are different things. Of 102 developing economies, 90 became richer after 2000, yet the absolute dollar gap with rich countries widened for 99, and the average gap per person grew from about $36,000 to $45,000.",
+    "Most catch-up so far has been carbon-intensive. Seventy-eight per cent of people in developing economies live in countries where income converged between 2000 and 2022 but emissions per person rose at least half as fast; only 6 per cent live where convergence came with slow-growing or falling emissions.",
+    "Latecomers can develop more cleanly. Countries first reaching $10,000 per person after 2000 emitted a median 2.9 tonnes of CO2 per person at that point, against 4.4 tonnes for those that got there before 1970, and solar modules now cost about 1,101 times less than in 1975.",
+    "Technology is the binding gap on the Sustainable Convergence Measurement Framework. It is the weakest of the five dimensions for 72 of 103 developing economies, home to 4.0 billion people; low-income countries score 10 out of 100 on it against 96 for high-income countries.",
+    "Few countries are converging in a balanced way. Only 18 of 103 developing economies score 60 or more on all five dimensions, while 59, with 3.3 billion people, score below 40 on at least one, and the median spread between a country's strongest and weakest dimension is 36 points.",
+    "Income alone misjudges many countries. Across developing economies the economic score correlates +0.88 with human development and +0.83 with technology but only +0.53 with institutions and −0.48 with the environmental indicators; ranking by income places only 54 of 103 countries in the same fifth as their average on the other four dimensions.",
+    "The route to 2100 decides the climate. At 2 per cent a year of income-gap closure the Global South reaches about 74 per cent of the high-income level on both routes, but world CO2 to 2100 is about 3,084 billion tonnes on a fossil route against about 819 billion on a sustainable one, within the roughly 1,050 billion tonne 2°C budget and still well above the 1.5°C budget; stalled convergence emits about 1,834 billion tonnes.",
+    "Seven priorities follow: measure convergence in five dimensions; make the cheapest path the cleanest by cutting the cost of capital for clean energy; close the technology gap deliberately; finish the access agenda; invest early in people and institutions; build resilience in from the start; and reform the international system around convergence."
+  ],
+  "keywords": [
+    "sustainable convergence",
+    "global economic convergence",
+    "sustainable development",
+    "Sustainable Convergence Measurement Framework",
+    "SCMF",
+    "polycrisis resilience",
+    "Global South",
+    "emerging economies",
+    "technology diffusion",
+    "leapfrogging",
+    "clean energy transition",
+    "decoupling",
+    "development economics",
+    "scenarios to 2100"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "A conceptual and empirical report. It defines Sustainable Convergence, derives five dimensions and a five-stage mechanism from eight academic traditions, and measures the record since 2000 with public data for more than 200 economies, separating relative convergence from absolute development. It builds the Sustainable Convergence Measurement Framework (SCMF), a dashboard that scores five dimensions (economic, technological, human development, institutional, and environmental and resilience) separately for 151 economies, 103 of them developing, from indicators in the World Development Indicators, Worldwide Governance Indicators, UNDP Human Development Report series, INFORM Risk Index and Our World in Data. Each indicator is scored 0–100 against the high-income median (capability indicators) or a health-based threshold such as the WHO air-quality guideline (environmental indicators); dimension scores are simple averages, and 2000 is scored against both that year's and today's benchmark. Three stylised scenarios treat the Global South as one economy and vary the speed of income convergence and the rate at which carbon intensity falls, with carbon budgets from Forster et al. (2025) as reference and sensitivity tests at 1 and 3 per cent a year; they exclude non-CO2 gases, climate damage and co-benefits. All data are public; calculations, scores and scenarios are the author's. The report contains 28 figures and 17 tables, listed in its exhibits page.",
+  "contents": [
+    "Executive Summary",
+    "1. Beyond Income Catch-Up",
+    "2. Defining Sustainable Convergence",
+    "3. Academic Foundations",
+    "4. The Five Dimensions",
+    "5. The Five-Stage Development Mechanism",
+    "6. The Record: Relative and Absolute Progress",
+    "7. Two Development Pathways",
+    "8. Technology Diffusion and Leapfrogging",
+    "9. Sustainable Convergence and Polycrisis Resilience",
+    "10. Reducing Human Exposure to Polycrisis",
+    "11. The Sustainable Convergence Measurement Framework",
+    "12. Five Propositions for Research",
+    "13. Regional Pathways in the Global South",
+    "14. Barriers and Risks",
+    "15. Pathways to 2100",
+    "16. A Strategy for Sustainable Convergence",
+    "17. Research Agenda and Conclusion"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.34988089",
+  "license": "CC BY-NC-ND 4.0"
+}
