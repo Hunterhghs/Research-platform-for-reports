@@ -1,0 +1,76 @@
+{
+  "slug": "sustainable-convergence",
+  "number": "HH-2026-58",
+  "title": "Sustainable Convergence",
+  "subtitle": "Sustainable Development and Global Economic Convergence: How Emerging Economies Can Close the Gaps Without Repeating the Mistakes of the Past",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-11-11",
+  "updated": "2026-11-11",
+  "language": "en",
+  "pdf": "sustainable-convergence.pdf",
+  "pages": 66,
+  "dek": "The Global South has caught up from 13 to 23 per cent of rich-country income since 2000, mostly along the old carbon-heavy route. A seven-dimension index and three scenarios to 2100 show that the route, not the pace, decides whether catching up fits within the climate budget.",
+  "topics": [
+    "Emerging Markets",
+    "Energy Transition",
+    "Development Finance"
+  ],
+  "abstract": [
+    "Billions of people still live with large gaps in income, health, technology and public services. Closing those gaps is the central task of this century, and doing it without wrecking the climate, the air and the systems everyone depends on is the second. This report argues that the two must be answered together and gives the combined answer a name: Sustainable Convergence, a concept developed by Hunter Hughes, Founder of H Heuristics. It defines Sustainable Convergence as the process through which emerging and developing economies progressively narrow economic, technological, institutional and human-development gaps with advanced economies while pursuing environmentally sustainable, socially inclusive and systemically resilient development pathways, and it relates the concept to the companion concept of Polycrisis Resilience.",
+    "The report sets out a seven-dimension framework (economic, environmental, technological, human-development, infrastructure, institutional and resilience convergence) and measures the record since 2000 with public data for more than 200 economies, separating absolute improvement from true convergence. It examines the mechanisms that make clean catch-up possible — cheaper clean technology, leapfrogging in energy, clean cooking, digital public infrastructure and clean industrialisation, and a compounding flywheel across dimensions — and introduces an H Heuristics Sustainable Convergence Index that scores 184 economies. It then applies the framework to five regions, identifies the barriers (the cost of capital, debt, premature deindustrialisation, technology concentration, political economy and climate damage), models three scenarios to 2100 and sets out a strategy and research agenda.",
+    "The central findings are that catch-up has happened but unevenly, that it has so far mostly followed the old carbon-heavy path, and that the route decides the climate. If the Global South closes its income gap at about 2 per cent a year, its income reaches roughly 74 per cent of the high-income level by 2100. On a fossil path that implies about 3,084 billion tonnes of world CO2 to 2100, nearly three times the 2°C budget; on a sustainable path with the same income gains the total is about 819 billion tonnes, within it. The report treats these as scenarios, not forecasts, and notes that the 1.5°C budget is almost exhausted on any path."
+  ],
+  "findings": [
+    "Catch-up has happened, but unevenly. Average income in the Global South rose from 13 per cent of the high-income level in 2000 to 23 per cent in 2024, mostly because of China and India; without them it moved only from 18 to 20 per cent, and low-income countries fell back from 4.2 to 3.7 per cent.",
+    "Relative progress hides absolute distance. The dollar gap between the average person in the Global South and in a rich country widened from about $36,000 to $45,000 a year: of 102 developing economies, 90 became richer, yet the absolute gap widened for 99.",
+    "Access has converged faster than income. People without electricity in the Global South fell from 1.3 billion to 0.69 billion since 2000, but 2.1 billion still cook with polluting fuels and 86 per cent of those without power live in Sub-Saharan Africa.",
+    "So far, catching up has mostly followed the old carbon-heavy path. Between 2000 and 2022, 78 per cent of people in developing economies lived in countries where income converged but emissions per person grew at least half as fast as income, and only 6 per cent in countries that converged while emissions grew slowly or fell.",
+    "Latecomers already develop more cleanly: countries that reached $10,000 of income per person before 1970 emitted a median 4.4 tonnes of CO2 per person at that point, against 2.9 tonnes for those that crossed after 2000, and solar modules are about 1,101 times cheaper than in 1975. Decoupling has so far been a privilege of wealth, though: 34 of 45 growing high-income economies cut territorial CO2 in 2010–2022, against 12 of 91 developing ones.",
+    "The Sustainable Convergence Index shows the trade-off. Among developing economies, stronger capabilities go with worse environmental scores (correlation −0.43) but much better resilience scores (0.88), and high-income countries score only 50 out of 100 on the environmental dimension, so no group is yet on a sustainable path.",
+    "The route to 2100 decides the climate. With the same income gains, world CO2 to 2100 is about 3,084 billion tonnes on a fossil catch-up path against about 819 billion on a sustainable one, within the roughly 1,050 billion tonne 2°C budget; stalled convergence emits about 1,834 billion tonnes while leaving incomes at 23 per cent of rich-country levels.",
+    "Six priorities follow: make the cheapest path the cleanest, notably by cutting a cost of capital for clean energy that is often two to three times higher in developing economies; finish the access agenda; build digital public infrastructure; invest early in people; build resilience in from the start; and measure convergence in capabilities and sustainability together."
+  ],
+  "keywords": [
+    "sustainable convergence",
+    "economic convergence",
+    "sustainable development",
+    "polycrisis resilience",
+    "Global South",
+    "emerging economies",
+    "technology diffusion",
+    "clean energy transition",
+    "decoupling",
+    "development economics",
+    "Sustainable Convergence Index",
+    "scenarios to 2100"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "The report develops a seven-dimension framework and measures the record since 2000 with public data for more than 200 economies, separating absolute improvement from relative convergence and comparing catch-up-first and clean-first trajectories using emissions per person at given income levels and decoupling counts for 2010–2022. It builds the H Heuristics Sustainable Convergence Index for 184 economies from seventeen indicators in six dimensions, with resilience measured by the INFORM risk index: each indicator is scored 0–100 by distance to a benchmark (the median of high-income economies for the five capability dimensions, and sustainability thresholds such as the WHO air-quality guideline of 5 µg/m³ for the environmental dimension), averaged within dimensions and combined by a geometric mean so that a very low score in one dimension cannot be fully offset by others. Three scenarios to 2100 — stalled convergence, fossil catch-up and Sustainable Convergence — hold carbon budgets from Forster et al. (2025) as reference and test sensitivity to a 1 per cent and 3 per cent annual pace of gap closure. All data are public and the calculations, index and scenarios are the author’s. The report contains exhibits listed in its exhibits page, applies the framework to five regional pathways, and discusses research priorities.",
+  "contents": [
+    "Executive Summary",
+    "1. Why Sustainable Convergence, and Why Now",
+    "2. Defining Sustainable Convergence",
+    "3. Intellectual Foundations",
+    "4. The Seven Dimensions of Sustainable Convergence",
+    "5. The Record: How Far Has Convergence Come?",
+    "6. Two Development Trajectories",
+    "7. Leapfrogging: Clean Technology and Digital Rails",
+    "8. The Compounding Convergence Flywheel",
+    "9. Measuring Progress: The Sustainable Convergence Index",
+    "10. Regional Pathways in the Global South",
+    "11. Barriers and Risks",
+    "12. Pathways to 2100",
+    "13. A Strategy for Sustainable Convergence",
+    "14. Research Agenda and Conclusion"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.34987696",
+  "license": "CC BY-NC-ND 4.0"
+}
