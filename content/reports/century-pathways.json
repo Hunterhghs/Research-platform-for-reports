@@ -1,0 +1,76 @@
+{
+  "slug": "century-pathways",
+  "number": "HH-2026-61",
+  "title": "Century Pathways",
+  "subtitle": "Paradoxical Outlook Optimization: How Positive Development Loops Can Improve Humanity's Outlook in a Worsening Century",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-11-12",
+  "updated": "2026-11-12",
+  "language": "en",
+  "pdf": "century-pathways.pdf",
+  "pages": 38,
+  "dek": "The century's population growth is concentrated where risk is highest: 96% of growth to 2050 occurs in high-risk countries. A programme report on how faster service access could cut a frozen century's 859 billion person-years of deprivation to 112 billion, and how research can be turned into influence.",
+  "topics": [
+    "Systemic Risk",
+    "Emerging Markets",
+    "Energy Transition"
+  ],
+  "abstract": [
+    "The twenty-first century may grow more dangerous while humanity grows safer. This report is built on that paradox: climate, pollution, geopolitical and economic hazards may intensify, yet human outcomes can still improve if exposure and vulnerability decline faster than risks grow. It introduces Century Pathways, a research and influence programme of H Heuristics on the positive development loops that can reduce human exposure to polycrisis over the course of the century, guided by a principle it calls Paradoxical Outlook Optimization: the deliberate effort to improve long-term human outcomes despite a worsening hazard baseline through early investment in compounding development pathways. It builds on the Positive Pathways framework (HH-2026-60) and on Sustainable Convergence and Polycrisis Resilience, which it describes as concepts developed by Hunter Hughes, Founder of H Heuristics.",
+    "Using public data from the World Bank, United Nations, UNDP, WHO and the INFORM Risk Index, the report examines demographic, developmental and service-access trends to 2100. It finds that countries rated high-risk by INFORM hold 49 per cent of the world's people today but account for 96 per cent of population growth to 2050, and compares three benchmark paths for five basic services: access rates frozen at today's levels, current trends, and proven peer pace, the pace the top quarter of peer countries has already achieved. To explain how gains compound, it sets out a four-tier concept architecture, Six Capitals, Conversion Chains and Multi-Dividend Investments, and tests two of them with cross-country associations.",
+    "Beyond analysis, the report proposes a ten-step Century Pathways cycle, a five-track report series, a research-to-influence model that treats every report as the start of a campaign with a single ask, a worked campaign on the clean cooking transition, and an annual Century Ledger that counts both the world's progress and the programme's own influence. It is explicit that its tests are associations rather than causes, its paths are scenarios rather than forecasts, its scores are documented judgements, and that influence is uncertain and slow."
+  ],
+  "findings": [
+    "The century's population growth is concentrated where risk is highest. Countries rated high-risk by INFORM hold 49 per cent of the world's people today but account for 96 per cent of population growth to 2050; Sub-Saharan Africa alone accounts for 59 per cent of that growth and rises from 16 per cent of humanity to 34 per cent by 2100, and high-risk countries will hold 65 per cent of humanity by 2100.",
+    "Standing still means going backwards. If access rates froze at today's levels, population growth alone would raise the number of people without electricity from 0.67 billion to 1.8 billion by 2100 and without clean cooking from 2.0 to 4.0 billion.",
+    "The paradox can be resolved on paper. At proven peer pace, the same gaps fall to about 4 million (electricity) and 14 million (clean cooking) people by 2100, and across five services the century's person-years without basic services fall from 859 billion (frozen) to 255 billion (trend) and 112 billion (proven pace), a difference of about 747 billion. These are benchmark scenarios, not forecasts.",
+    "The same places hold the greatest opportunity. High-risk countries are home to 61 per cent of the world's children; young populations adopt technology fast, build new infrastructure rather than replace old, and compound human capital for decades, so the demographic risk is also the demographic dividend.",
+    "Investments pay several dividends at once. Holding income constant, internet use is associated with better outcomes on 5 of 5 human and environmental measures, and electricity, water, sanitation and vaccination on 4 each; the report's multi-dividend matrix is a documented judgement, not an estimate.",
+    "The learning-to-development chain is real but gated. Across 100 developing economies each extra year of schooling in 2010 is associated with 0.36 points of faster annual growth to 2023; electricity is the most robust predictor once both are included (+0.44 points per 10 points of access), internet use alone is not significant, and countries starting with both high internet use and high schooling grew about 1.1 points a year faster than those with neither.",
+    "Clean cooking is the proposed first campaign. Twelve countries hold about two thirds of the people cooking with polluting fuels, and most of the largest groups already have electricity.",
+    "Research can be a multiplier too. Century Pathways treats every report as the first step of a campaign (publish, translate, engage, commit and track), organised through a ten-step cycle, five report tracks, an influence ladder and an annual Century Ledger, with five public commitments including reporting failures and null results as prominently as successes."
+  ],
+  "keywords": [
+    "century pathways",
+    "paradoxical outlook optimization",
+    "positive development dynamics",
+    "positive pathways",
+    "sustainable convergence",
+    "polycrisis resilience",
+    "human exposure",
+    "exposure momentum",
+    "six capitals",
+    "conversion chains",
+    "multi-dividend investments",
+    "proven pace",
+    "Global South",
+    "research influence"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "A programme and framework report with illustrative quantification. It uses public data from the World Development Indicators, UN World Population Prospects, UNDP Human Development Report data, WHO and the INFORM Risk Index. It projects population by INFORM risk class and region to 2100; compares three benchmark paths for five basic services (electricity, clean cooking, internet use, basic water and basic sanitation) in which access rates are frozen, follow each country's trend, or follow proven peer pace, defined as the 75th percentile of trend growth among peers; and expresses the difference in person-years without each service over 2026–2100. It tests multi-dividend associations and a learning-to-development chain with partial correlations and OLS growth regressions with robust standard errors for 100 developing economies (income per person growth 2010–2023 against starting schooling, internet use and electricity, holding starting income constant). The six-capitals matrix, concept architecture, influence model and campaign estimates are the author's documented judgements. All data are public; projections, partial correlations, growth regressions, screens and campaign estimates are the author's calculations and judgements. The report states that the tests show direction rather than causal size and that the scenarios are benchmarks, not forecasts. It contains 10 figures and 17 tables.",
+  "contents": [
+    "Executive Summary",
+    "1. H Heuristics Century Pathways",
+    "2. The Outlook Paradox",
+    "3. Paradoxical Outlook Optimization",
+    "4. The Concept Architecture",
+    "5. Six Capitals and Conversion Chains",
+    "6. Multi-Dividend Investments",
+    "7. The Century Pathways Cycle",
+    "8. The Report Series",
+    "9. From Report to Reality",
+    "10. A Worked Campaign: The Clean Cooking Transition",
+    "11. Measuring Impact: The Century Ledger",
+    "12. Limits and Commitments"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.34989967",
+  "license": "CC BY-NC-ND 4.0"
+}
