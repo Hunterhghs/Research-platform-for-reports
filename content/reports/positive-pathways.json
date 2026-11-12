@@ -1,0 +1,75 @@
+{
+  "slug": "positive-pathways",
+  "number": "HH-2026-60",
+  "title": "Positive Pathways",
+  "subtitle": "A Framework for the Development Loops That Can Cut Human Exposure to Polycrisis This Century",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-11-12",
+  "updated": "2026-11-12",
+  "language": "en",
+  "pdf": "positive-pathways.pdf",
+  "pages": 37,
+  "dek": "Proven peer pace on six basic services would avoid about 32 billion person-years of deprivation by 2050, and starting in 2035 instead of 2026 forfeits 57–62% of it. A framework of multipliers, loops, gates and clocks for deciding which development investments compound.",
+  "topics": [
+    "Emerging Markets",
+    "Systemic Risk",
+    "Energy Transition"
+  ],
+  "abstract": [
+    "Polycrisis conditions may intensify throughout the twenty-first century, but how many people they reach, and how hard, is not predetermined. This report sets out the Positive Pathways framework, a development-focused approach to the reinforcing feedback loops in energy, health, connectivity, learning and institutional capacity that can reduce vulnerability and accelerate human progress. It builds on Sustainable Convergence and Polycrisis Resilience, which it describes as concepts developed by Hunter Hughes, Founder of H Heuristics, and treats them as the two applications of one umbrella idea, Positive Development Dynamics: the development path and the protection it buys.",
+    "The framework has four working terms. Multipliers are the investments that start loops; loops are the mechanisms that make gains compound (learning curves, network effects, human-capital returns, fiscal reinvestment and demonstration); gates are the conditions that let a loop spin or make it leak; and clocks are the reasons timing matters (demographic momentum, infrastructure lock-in and rising hazards). Progress is scored in a Positive Pathways Ledger of lives saved, person-years of exposure avoided, people reached, losses avoided and the cost of essentials, rather than in GDP alone. Using public international datasets, the report fits country trends in six basic services, tests the loops with cross-lagged regressions across developing economies, and screens ten development pathways against six criteria.",
+    "The central findings are that development has historically been the most effective tool for reducing human exposure to hazards, that many access gaps will outlast 2050 on current trends, and that timing carries much of the value: moving lagging countries to the pace their best-performing peers have already achieved avoids about 32 billion person-years of life without basic services by 2050, and a ten-year delay forfeits 57–62% of that gain. The report is explicit that its pathway scores are judgements, its loop tests are associations and its pace benchmarks are not forecasts, and it closes with a research programme and next steps for H Heuristics."
+  ],
+  "findings": [
+    "Development has already been the most powerful exposure-reduction tool on record. Child mortality fell from 11.9 per cent in 1980 to 3.7 per cent in 2024, the death rate from natural disasters is roughly forty times lower than in the 1920s, and solar modules are about 1,101 times cheaper than in 1975.",
+    "The remaining gaps are concrete and countable: about 2.3 billion people are offline, 2.0 billion cook with polluting fuels, 1.5 billion lack basic sanitation, 1.4 billion adults have no financial account, and 691 million and 655 million lack basic water and electricity.",
+    "On current trends many gaps outlast 2050. For the median lagging country, near-universal clean cooking arrives around 2067 and basic sanitation around 2084; at the proven pace already achieved by the top quarter of peers, both arrive around 2050, and the share of lagging countries still short of 95 per cent electricity access in 2050 falls from 56 to 11 per cent.",
+    "Time is the scarcest input. Moving every lagging country to proven pace from 2026 avoids about 32 billion person-years without six basic services by 2050; each year of delay costs about 2.0 billion person-years, and starting in 2035 forfeits 57–62 per cent of the gain. The totals are lower bounds, because countries without a usable trend are excluded.",
+    "Loops run upward from physical foundations to digital ones. In 36 cross-lagged tests across developing economies, holding income and starting levels constant, 15 links were significantly positive and 2 negative: more electricity, water, sanitation and vaccination in 2010 predicted faster later gains in internet use and clean cooking, while internet use did not speed up physical services. The tests indicate direction, not causal size.",
+    "Power is the first gate. Of 181 countries with 2023 data, 179 have internet use no more than five points above electricity access (correlation 0.85), and 1.38 billion people have electricity but still cook with polluting fuels, an open gate that has not been walked through. Five gates recur: power, affordability, skills, the cost of capital, and institutions and trust.",
+    "Ten pathways pass a transparent screen scored on lives, reach, speed, loop strength, cost-effectiveness and exposure reduction. Preventive primary health, early warning and climate information, clean cooking, digital public infrastructure and distributed clean power lead, and preventive health ranks in the top three under 88 per cent of 20,000 random weightings; the middle five are close calls.",
+    "Faster clean-cooking adoption could avoid roughly 2.9–6.7 million deaths from household air pollution by 2050 in the report's ledger illustration.",
+    "The report recommends that H Heuristics lead with what can be changed, keep three flagship concepts and four working terms, launch a flagship series of pathway reports with 2030 and 2035 milestones, publish an annual Ledger, and report failures (Kenya rural grid extension, the HAPIN cookstove trial, early generative-AI trials) as carefully as successes. It also names harmful loops to avoid feeding, such as rising cooling demand and fossil lock-in."
+  ],
+  "keywords": [
+    "positive pathways",
+    "positive development dynamics",
+    "development multipliers",
+    "feedback loops",
+    "sustainable convergence",
+    "polycrisis resilience",
+    "human exposure",
+    "clean cooking",
+    "digital public infrastructure",
+    "distributed clean power",
+    "early warning",
+    "Global South",
+    "development economics",
+    "person-years"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "A framework report with illustrative quantification. It builds the Positive Pathways framework from cumulative causation, learning-curve, human-capital and positive-tipping-point literatures; fits each country's 2012–2024 trend in six services (electricity, clean cooking, basic water, basic sanitation, internet use and financial accounts) on a logistic scale using the World Development Indicators; and compares three paces for the median country below 95 per cent coverage: its own trend, proven pace (the 75th percentile of trend growth among peers starting between 5 and 90 per cent coverage) and frontier pace (the 90th percentile). Person-year ledgers combine these paths with UN World Population Prospects 2024 for 2026–2050. Loops are tested with 36 cross-lagged regressions across developing economies that control for income and starting levels but not governance or geography, and ten pathways are screened on six criteria whose scores are the author's judgement, with robustness checked under 20,000 random weightings. All data are public (World Bank, UN, WHO, ITU, Our World in Data); pace benchmarks, ledgers, the loop test and the pathway screen are the author's calculations and judgements, and the report states that the screen is not estimated, the loop test is correlational and the ledger is partial. It contains 11 figures and 9 tables.",
+  "contents": [
+    "Executive Summary",
+    "1. Why a Positive Agenda, and Why Now",
+    "2. Intellectual Foundations",
+    "3. The Positive Pathways Framework",
+    "4. The Loops Are Already Running",
+    "5. Gates: What Stops a Loop",
+    "6. Ten Development Multipliers",
+    "7. Clocks: Why the Next Decade Decides",
+    "8. The Ledger: Measuring What Matters",
+    "9. The H Heuristics Research Programme",
+    "10. Limits, Risks and Next Steps"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.34989424",
+  "license": "CC BY-NC-ND 4.0"
+}
