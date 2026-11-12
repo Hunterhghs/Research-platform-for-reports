@@ -1,0 +1,74 @@
+{
+  "slug": "global-concept-adoption-initiative",
+  "number": "HH-2026-63",
+  "title": "Global Concept Adoption Initiative",
+  "subtitle": "Mobilizing Intellectual and Social Capital to Improve Humanity's Outlook This Century",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-11-12",
+  "updated": "2026-11-12",
+  "language": "en",
+  "pdf": "global-concept-adoption-initiative.pdf",
+  "pages": 39,
+  "dek": "A programme report that sets out how H Heuristics will move from publishing concepts to helping them spread, be tested and be applied, with a five-stage theory of change, audience and campaign plans, credibility safeguards and scenario projections of citations and readers to 2050.",
+  "topics": [
+    "Institutions & Governance",
+    "Technology & Innovation",
+    "Systemic Risk"
+  ],
+  "abstract": [
+    "This report presents the Global Concept Adoption Initiative, an H Heuristics research and outreach programme that shifts the organisation's emphasis from developing and publishing original concepts to helping them spread, be tested and be applied. It rests on a three-step guiding principle: ideas can influence decisions, decisions can direct investment, and investment can change development trajectories. It draws on four existing assets (intellectual capital, a digital presence, social capital and open publishing infrastructure) to share a connected system of six concepts: Polycrisis Resilience, Preventive Development Economics, Sustainable Convergence, Development Optimization, Human Vulnerability Reduction Economics and the Human Survivability Dividend.",
+    "Drawing on research into policy influence and four historical cases (the capability approach, planetary boundaries, doughnut economics and polycrisis), the report argues that influential concepts typically took 6 to 30 years to reach wide institutional use, and that champions, simple visuals and timing matter as much as content. It sets out a five-stage theory of change (develop, disseminate, adopt, apply, improve) with testable assumptions at each link, eight priority audiences in four roles (validators, amplifiers, adopters and appliers), channel and campaign plans within anti-spam and data-protection rules, indicators and counting rules, a four-phase roadmap to 2050, a risk register and a programme of seven working documents.",
+    "It also presents scenario projections from a Bass diffusion model. In the central scenario, independent citing works reach about 140 by 2030, 670 by 2035 and 2,900 by 2050 (range about 1,100 to 7,900), against about 43 by 2035 and 500 by 2050 without the initiative, and cumulative readers reach about 148,000 by 2050. The report states that these are scenarios built on its own assumed parameters, which it will check against real data each year, and that they are targets to test against, not forecasts or results. It also states that its credibility depends on describing the concepts as proposed frameworks offered for testing, and on counting only independent citations as evidence of adoption."
+  ],
+  "findings": [
+    "The report argues that publishing is necessary but not sufficient: a report that is read but never questioned, tested or used changes little. It sets out an initiative that adds planned outreach, relationship-building, feedback and honest tracking to H Heuristics' research work.",
+    "Reviewing four cases (the capability approach, planetary boundaries, doughnut economics and polycrisis), it finds that influential concepts took between 6 and 30 years to move from first statement to wide institutional use, and draws six lessons: influence takes years, champions matter, simple pictures and numbers travel, plain-language versions widen reach, a first adopter gives permission, and timing follows events.",
+    "It proposes a five-stage theory of change (develop, disseminate, adopt, apply, improve) with stated assumptions and tests at each link, and distinguishes reach (who has seen the work) from influence (who has been changed by it).",
+    "It identifies eight priority audiences playing four roles and proposes anchoring the network with about 100 expert contacts first, supported by personal email campaigns that follow CAN-SPAM, CASL and GDPR rules, with Substack, the research library, events and repositories keeping the conversation open.",
+    "On credibility, it sets out seven principles (invite scrutiny, separate evidence from projection, publish the method, keep the work open, make citation easy, count independently, follow responsible-metrics guidance) and a list of things the initiative will not do, such as buying citations, sending bulk unsolicited messages, presenting projections as measured results, or counting its own citations as adoption.",
+    "It states that the concepts should be described as proposed frameworks offered for testing, and that earlier H Heuristics wording calling them 'established' or 'canonical', together with large century-scale estimates of lives saved, should be treated as the author's own characterisation and scenario projections for outreach purposes.",
+    "Its central scenario gives about 670 independent citing works by 2035 and 2,900 by 2050, against about 43 and 500 without the initiative; the initiative's main effect in the model is on timing, with about 16 times more citations by 2035. The low and high scenarios give about 1,100 and 7,900 by 2050. These rest on assumed Bass-model parameters, and the report links readers, courses, policy documents and engaged institutions to citations by fixed assumed ratios.",
+    "It proposes quarterly review and annual public reporting, a four-phase roadmap to 2050 with three decision gates, a first-year plan, and a risk register that treats loss of credibility as the hardest risk to reverse. It closes with seven documents to prepare and a commitment to keep developing new concepts."
+  ],
+  "keywords": [
+    "concept adoption",
+    "diffusion of innovations",
+    "Bass diffusion model",
+    "research impact",
+    "theory of change",
+    "social capital",
+    "independent citations",
+    "polycrisis resilience",
+    "preventive development economics",
+    "sustainable convergence",
+    "open-access research",
+    "responsible metrics"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "A programme and strategy report with scenario quantification. It draws on literature on the diffusion of innovations and policy influence (Bass, Rogers, Kingdon, Weiss, Merton), on four historical cases of concepts that reached wide use, and on guidance on responsible research metrics and email and data-protection law. Its projections of citing works, readers, courses, policy documents and engaged institutions come from a Bass diffusion model run under four assumed parameter sets (without the initiative, low, central and high) and fixed assumed ratios, which the report describes as its own assumptions; no empirical calibration to observed H Heuristics citations is shown. Audience positions and campaign assumptions are described as documented judgements. The report contains 10 figures and 21 tables across twelve numbered sections.",
+  "contents": [
+    "Executive Summary",
+    "1. The Initiative in Brief",
+    "2. How Ideas Change the World",
+    "3. The Intellectual Foundation: Six Pillars",
+    "4. Theory of Change",
+    "5. Audiences and Social Capital",
+    "6. Channels and Campaigns",
+    "7. Credibility First",
+    "8. Impact Projections",
+    "9. Measuring Progress",
+    "10. Roadmap to 2050",
+    "11. Risks and Safeguards",
+    "12. Next Steps: The Document Program"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.34998118",
+  "license": "CC BY 4.0"
+}
