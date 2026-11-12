@@ -1,0 +1,73 @@
+{
+  "slug": "november-2026-update",
+  "number": "HH-2026-64",
+  "title": "The November 2026 Update",
+  "subtitle": "From Research to Influence, Adoption and a Better Century",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-11-12",
+  "updated": "2026-11-12",
+  "language": "en",
+  "pdf": "november-2026-update.pdf",
+  "pages": 34,
+  "dek": "A strategic update describing H Heuristics' shift from publishing concepts to helping them spread, be tested and be applied, the five November 2026 publications that launched it, and the report's own scenario estimates of citations, influence and illustrative service gains.",
+  "topics": [
+    "Institutions & Governance",
+    "Technology & Innovation",
+    "Systemic Risk"
+  ],
+  "abstract": [
+    "This report describes a strategic recalibration at H Heuristics on 12 November 2026: a shift from mainly developing and publishing research to also helping it spread, be tested and be applied, with the aim of influencing how people, institutions and governments approach development, risk and resilience. It sets out the five connected publications that launched the change: Century Pathways, The H Heuristics Macroeconomic Architecture, the Global Concept Adoption Initiative and two Substack essays.",
+    "It summarises Century Pathways' benchmark result that, at proven peer pace, person-years spent without five basic services (electricity, clean cooking, internet, water and sanitation) fall from 859 billion if access is frozen to 112 billion over 2026–2100, a gap of about 143 billion person-years against the current trend. It summarises the Macroeconomic Architecture as one sequence of six concepts running from diagnosis to execution to valuation, and the adoption initiative as a five-stage theory of change with four participant roles (validators, amplifiers, adopters and appliers) and an outreach plan anchored on about 100 expert contacts, with an email campaign described as under way.",
+    "Using the Bass diffusion model set out in the adoption initiative report, its central scenario projects about 140 independent citations by 2030, 670 by 2035 and 2,900 by 2050 (range roughly 1,100 to 7,900), against about 500 by 2050 without active outreach, leading to about 48 university courses, 116 policy and institutional documents and 39 engaged institutions by 2050. As an illustration, if the broader movement closed 1% of the gap between trend and proven pace, it would gain about 1.4 billion person-years of basic services. The report describes these as its own general estimates and illustrative shares, not attribution estimates or forecasts, and closes with a concept development engine, a four-phase roadmap to 2050 and commitments to present projections as estimates, publish methods, welcome critique and count only independent citations."
+  ],
+  "findings": [
+    "The report describes a move from an organisation that developed and published concepts to one that also plans outreach, builds relationships, listens to feedback and tracks adoption, and treats intellectual influence as an instrument of development.",
+    "It presents five publications released on 12 November 2026 as one strategy: two research reports (Century Pathways and the Macroeconomic Architecture), one initiative report (the Global Concept Adoption Initiative) and two Substack essays.",
+    "Summarising Century Pathways, it reports that person-years without five basic services over 2026–2100 are 859 billion if access is frozen and 112 billion at proven peer pace, a gap of about 143 billion against the current trend, and argues that the century can become more dangerous while lives still improve if development reduces exposure and vulnerability faster than hazards grow.",
+    "It frames outreach as a positive feedback loop in which published research, personal outreach, engagement and feedback reinforce each other, and lists early signals to track (substantive replies, forwarding, invitations, first independent citations and return visitors) before citations accumulate.",
+    "Its central scenario gives about 670 independent citing works by 2035 and 2,900 by 2050 (about 1,100 to 7,900 across scenarios), with the initiative mainly bringing the curve forward in time. Courses, policy documents and engaged institutions are derived from citations using fixed assumed ratios, so they are not independent projections.",
+    "Its illustration of outcomes is explicitly not an attribution estimate: closing 0.5%, 1% or 2% of the 143 billion person-year gap between trend and proven pace would correspond to about 0.7, 1.4 or 2.9 billion person-years of basic services (about 0.23, 0.46 or 0.92 billion for clean cooking alone).",
+    "It commits H Heuristics to describing its concepts as proposed frameworks offered for testing, presenting projections as estimates, publishing methods, welcoming critique and counting only independent citations as adoption, and sets out a four-phase roadmap to 2050, a first campaign on clean cooking and a twelve-month action list."
+  ],
+  "keywords": [
+    "November 2026 update",
+    "research dissemination",
+    "concept adoption",
+    "Century Pathways",
+    "Macroeconomic Architecture",
+    "Global Concept Adoption Initiative",
+    "Bass diffusion model",
+    "independent citations",
+    "policy influence",
+    "basic services access",
+    "sustainable convergence",
+    "theory of change"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "A strategic update and synthesis report. It summarises five H Heuristics publications of 12 November 2026 and the strategy that links them. Its quantitative content is reused from those publications: the benchmark person-year figures come from Century Pathways, which uses public World Development Indicators, UN population and INFORM data, and the citation, reader, course, policy-document and institution projections come from the Bass diffusion model and assumed ratios in the Global Concept Adoption Initiative. The contribution figures in its Section 10 apply assumed shares of 0.5%, 1% and 2% to the Century Pathways gap and are described as illustrative, not as estimates of attribution. The statement that an email campaign is under way is the author's own and is not documented with campaign data. The report contains 14 figures and 13 tables across twelve numbered sections.",
+  "contents": [
+    "Executive Summary",
+    "1. What Changed on November 12, 2026",
+    "2. Five Publications, One Strategy",
+    "3. Century Pathways: Better Lives in a Harder Century",
+    "4. The Macroeconomic Architecture: Six Connected Ideas",
+    "5. The Global Concept Adoption Initiative",
+    "6. From Ideas to Trajectory: Digital Reach and Social Capital",
+    "7. A Positive Feedback Loop",
+    "8. Citations: From Hundreds to Thousands",
+    "9. From Citations to Societal and Institutional Influence",
+    "10. From Influence to Outcomes: Sustainable Convergence",
+    "11. Continuing to Develop New Concepts",
+    "12. The Road Ahead: The Execution Era"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.34998613",
+  "license": "CC BY 4.0"
+}
