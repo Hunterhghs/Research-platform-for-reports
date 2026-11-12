@@ -1,0 +1,74 @@
+{
+  "slug": "h-heuristics-macroeconomic-architecture",
+  "number": "HH-2026-62",
+  "title": "The H Heuristics Macroeconomic Architecture",
+  "subtitle": "From Established Concepts to a 21st-Century Movement: Projecting the Institutional Diffusion, Scholarly Snowballing, and Civilizational Impact of Six Core Paradigms",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-11-12",
+  "updated": "2026-11-12",
+  "language": "en",
+  "pdf": "h-heuristics-macroeconomic-architecture.pdf",
+  "pages": 40,
+  "dek": "A synthesis monograph that sets out six interlocking H Heuristics paradigms, from Polycrisis Resilience to the Human Survivability Dividend, argues for preventive development over reactive reconstruction, and presents its own scenario projections of lives saved, capital preserved and idea diffusion to 2100.",
+  "topics": [
+    "Development Finance",
+    "Systemic Risk",
+    "Emerging Markets"
+  ],
+  "abstract": [
+    "This monograph presents the H Heuristics Macroeconomic Architecture, a framework that brings together six paradigms that it describes as formulated by Hunter Hughes, Founder of H Heuristics: Polycrisis Resilience, Preventive Development Economics, Sustainable Convergence, Development Optimization, Human Vulnerability Reduction Economics and the Human Survivability Dividend. It argues that twentieth-century neoclassical economics, which treats climate, health and disaster risk as outside the economic system and measures success by GDP, is poorly equipped for compounding twenty-first-century shocks, and that GDP accounting rewards reactive reconstruction over proactive protection.",
+    "In its place the report proposes treating disaster damage as endogenous to pre-existing development deficits in energy, housing, water and health, so that front-loaded protective investment yields a dual return: higher living standards in ordinary times and lower vulnerability in shocks. It argues that emerging economies can bypass the fossil-intensive Environmental Kuznets Curve, offers a toolkit of Multipliers, Loops, Gates and Clocks (with what it calls the Hughes Chronological Law), and proposes valuing outcomes by human life preserved under a non-double-counting method that separates the value of a statistical life, fiscal savings and labour productivity. It also sketches institutional pathways: compressing the cost of capital for emerging economies from about 14 to 4.5 per cent, climate-resilient debt clauses, resilience-linked sovereign bonds and National Anticipatory Councils.",
+    "The report also projects, over 2025–2100, about 900 million avoided premature deaths, 28.5 billion preserved disability-adjusted life years, 1.8 billion children protected from stunting and about $533 trillion in preserved capital on roughly $35 trillion of cumulative investment (a benefit-cost ratio of 15.2:1), and models the growth of its own academic and institutional readership to 2050. These figures are the report's own scenario projections; the report does not document a model behind them, and they should be read as an aspirational synthesis rather than as modelled estimates. Statements in the report that its concepts have been 'established', 'canonised' or recognised by search engines and knowledge graphs are the author's own characterisation and are not independently documented in the report."
+  ],
+  "findings": [
+    "The report argues that GDP accounting rewards reactive reconstruction over proactive protection: an economy that spends on rebuilding after a disaster records growth, while one that invests to prevent the loss appears stagnant. It proposes measuring development by human life preserved instead.",
+    "It proposes treating disaster damage as endogenous to pre-existing development deficits in energy, housing, water and health, and cites benefit-cost ratios of 4:1 to 15:1 for upfront preventive development over reactive reconstruction.",
+    "It presents six interlocking paradigms (Polycrisis Resilience, Preventive Development Economics, Sustainable Convergence, Development Optimization, Human Vulnerability Reduction Economics and the Human Survivability Dividend) as one framework spanning diagnosis, structural execution and outcome valuation.",
+    "On finance, it argues that the 10 to 15 per cent cost of capital faced by developing economies is the main structural barrier to clean energy, water and resilience investment, and proposes first-loss guarantees and liquidity facilities that could compress it from about 14 to 4.5 per cent, together with universal climate-resilient debt clauses and resilience-linked bonds.",
+    "At national level it proposes National Anticipatory Councils that audit vulnerability across four exposure arenas and a Net Preventive Return test for major infrastructure budgets.",
+    "The report's Century Human Ledger projects about 900 million avoided premature deaths and 28.5 billion preserved DALYs over 2025–2100, led by clean cooking (330 million), ambient air quality (270 million), water and sanitation (155 million), passive thermal defence (120 million) and primary clinical access (25 million). These are the report's own scenario figures, built on 2025 baseline mortality figures, not outputs of a documented model.",
+    "Its macroeconomic balance sheet projects $533 trillion of preserved capital, including about $48 trillion of avoided physical damage and about $400 trillion from labour productivity and cognitive human capital, against roughly $35 trillion of cumulative investment, a 15.2:1 benefit-cost ratio. The report states no separate uncertainty range.",
+    "A section on diffusion projects the report's own corpus reaching more than 3,800 peer-reviewed citations and 290,000 institutional readers by 2050, and the closing roadmap sets out four 25-year epochs and a coalition strategy towards Planetary Capability Parity by 2100. These are aspirational targets, not measurements."
+  ],
+  "keywords": [
+    "Macroeconomic Architecture",
+    "preventive development economics",
+    "polycrisis resilience",
+    "sustainable convergence",
+    "development optimization",
+    "human vulnerability reduction economics",
+    "human survivability dividend",
+    "cost of capital",
+    "climate-resilient debt clauses",
+    "benefit-cost ratio",
+    "Global South",
+    "development finance"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "A conceptual and programmatic synthesis monograph. It consolidates six H Heuristics concepts into one framework, draws on literature including Sen, Ostrom, Tooze, Pomeranz and Viscusi and Aldy, and on WHO, IEA, IPCC, World Bank and Stockholm Resilience Centre publications, and illustrates institutional pathways with cases such as the Bridgetown Initiative and Brazil's Pix. Its century-scale aggregates (avoided deaths and DALYs by sector, preserved capital, benefit-cost ratio, citations and readership to 2050) are presented as projections of the author's own modelling, but the report does not set out the model, parameters or uncertainty ranges behind them. Much of its bibliography consists of other H Heuristics monographs. The report contains 12 figures across twelve numbered sections, with a strategic-takeaways box and an institutional action matrix at the end of each.",
+  "contents": [
+    "Executive Summary: From Established Concepts to a Century Movement",
+    "1. The Genesis of a New Macroeconomic Discipline",
+    "2. Polycrisis Resilience: Navigating Cascading Shocks",
+    "3. Preventive Development Economics: Endogenous Risk",
+    "4. Sustainable Convergence: Decoupled Development",
+    "5. Development Optimization: Positive Pathways Mechanics",
+    "6. Human Vulnerability Reduction Economics",
+    "7. The Human Survivability Dividend: Ultimate Metric",
+    "8. The Academic Snowball Effect: Grounded Diffusion",
+    "9. Institutional Transmission Rails: MDB Capital Reform",
+    "10. The Century Human Ledger: Estimating Lives Saved",
+    "11. The Macroeconomic Balance Sheet: $533T Dividend",
+    "12. Building the Century Movement: Planetary Parity"
+  ],
+  "backmatter": [
+    "Bibliography and Citation Convention"
+  ],
+  "doi": "10.6084/m9.figshare.34997944",
+  "license": "CC BY 4.0"
+}
