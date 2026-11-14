@@ -1,0 +1,84 @@
+{
+  "slug": "optimizing-humanitys-outlook",
+  "number": "HH-2026-65",
+  "title": "Optimizing Humanity's Outlook This Century",
+  "subtitle": "Sustainable Convergence, Innovation Diffusion and Multidimensional Development in the Global South",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-11-14",
+  "updated": "2026-11-14",
+  "language": "en",
+  "pdf": "optimizing-humanitys-outlook.pdf",
+  "pages": 68,
+  "dek": "A design-question report on which choices would most improve humanity's outlook this century, combining public-data ledgers, a measured test of multiple development dividends across 131 economies, an illustrative ranking of twelve interventions and a six-dimension Century Outlook Dashboard.",
+  "topics": [
+    "Emerging Markets",
+    "Development Finance",
+    "Systemic Risk"
+  ],
+  "abstract": [
+    "This report asks which choices would most improve humanity's outlook over the rest of the twenty-first century. It argues that the long-term outlook depends on accelerating sustainable global convergence, diffusing beneficial innovations, strengthening emerging economies and reducing vulnerability to interconnected crises, and that the greatest opportunities lie in multidimensional interventions that improve economic productivity, human development, environmental conditions and systemic resilience at the same time. It gives priority to the Global South, where future population growth, development opportunity and climate vulnerability intersect.",
+    "Using public data from the World Bank, the United Nations, WHO and the INFORM Risk Index, the report finds that countries at high INFORM risk will absorb 96% of world population growth to 2050 and hold 65% of humanity by 2100. The global death rate from natural disasters fell about 98% between the 1920s and the 2010s, which it takes to show that development reduces vulnerability even when hazards persist. Summed over five basic services (electricity, clean cooking, internet use, safe water and sanitation), people lacking access would accumulate about 859 billion person-years of deprivation over 2026–2100 if access stayed frozen; the current trend cuts this to 255 billion, and matching the pace of the best-performing peer countries cuts it to 112 billion.",
+    "It contributes three analyses. The first measures multiple dividends across up to 131 low- and middle-income economies, holding income fixed: internet use, electricity, water, sanitation and secondary schooling are each favourably associated with six or seven of nine economic, health, demographic, environmental and resilience outcomes. The second tests an illustrative ranking of twelve interventions against 20,000 alternative weightings and scoring errors, in which six stay near the top: girls' education with voluntary family planning, digital public infrastructure, early nutrition with water and sanitation, climate-resilient agriculture, distributed renewables and clean cooking. The third is a six-dimension Century Outlook Dashboard, in which Sub-Saharan Africa scores 39 out of 100, against 88 for high-income countries. The report proposes a two-track strategy (deploy proven multi-dividend interventions now while fixing structural constraints such as the cost of capital, debt and trade) and a measurement framework counting lives saved and person-years of deprivation avoided. It states that all projections are scenarios, not forecasts, and that cross-country associations are not causal estimates."
+  ],
+  "findings": [
+    "Countries at high INFORM risk absorb 96% of world population growth to 2050 and hold 65% of humanity by 2100, so the report argues the century will be decided where population growth, development opportunity and climate vulnerability coincide.",
+    "Development lowers vulnerability faster than hazards raise it in the historical record: deaths from natural disasters per person fell about 98% between the 1920s and the 2010s. The report calls the resulting strategy Paradoxical Outlook Optimization and says the outcome is still open rather than forecast to improve.",
+    "Person-years without five basic services over 2026–2100 are about 859 billion if access is frozen, 255 billion on the current trend and 112 billion at proven peer pace (the 75th percentile of peer trends), so the room for improvement that needs no new technology is about 143 billion person-years.",
+    "Across up to 131 low- and middle-income economies, and holding income fixed, internet use, electricity, water, sanitation and secondary schooling are each favourably associated with six or seven of nine outcomes. Digital financial accounts (1 of 9) and the environmental dividend of energy access are weaker than the report's own judgement, and no service is strongly associated with a smaller 2020 growth shock. The report treats these associations as a screen, not causal evidence.",
+    "In an illustrative multi-criteria ranking of twelve interventions, girls' education with voluntary family planning, digital public infrastructure, early nutrition with water and sanitation, climate-resilient agriculture, distributed renewables and clean cooking stay in the top six across 20,000 simulated weightings and scoring errors, although the exact order within them does not. The report calls the ranking a tool for argument, not a verdict.",
+    "It proposes a two-track portfolio and two timing windows: a lock-in window to about 2035, when cities, power systems and cooling stock are being built, and a compounding window to about 2050, when children born now become the workforce. On its ledger, delaying acceleration by ten years forfeits about 57% to 62% of the possible gain to 2050 for six services.",
+    "Its six-dimension Century Outlook Dashboard puts Sub-Saharan Africa at 39 out of 100, South Asia at 62 and high-income countries at 88. The overall score correlates 0.92 with log income, only 28 of 112 developing economies score 60 or more on all six dimensions, and the weakest dimension differs by country.",
+    "It illustrates the value of acceleration with its own scenarios: closing 0.5%, 1% or 2% of the 143 billion person-year gap would avoid about 0.7, 1.4 or 2.9 billion person-years of deprivation, and a sustainable convergence route would hold cumulative emissions to about 819 billion tonnes of CO2 against about 3,084 billion on a fossil-heavy route. It frames the six H Heuristics concepts as proposed frameworks open to testing."
+  ],
+  "keywords": [
+    "optimizing humanity's outlook",
+    "sustainable convergence",
+    "global economic convergence",
+    "emerging economies",
+    "diffusion of innovations",
+    "digital public infrastructure",
+    "clean cooking transition",
+    "green transition",
+    "demographic dividend",
+    "multidimensional development",
+    "Global South",
+    "Century Pathways"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "A programme and framework report with public-data quantification. It uses World Bank World Development Indicators and Worldwide Governance Indicators, UN World Population Prospects 2024, WHO data, the INFORM Risk Index and Our World in Data. It builds a ledger of person-years without five basic services under frozen, current-trend and proven-peer-pace paths (proven pace is the 75th percentile of peer logit trends over 2012–2024), tests multiple dividends with partial correlations across up to 131 low- and middle-income economies holding log GDP per person fixed, ranks twelve interventions with an illustrative judgement-based multi-criteria score tested by 20,000 Monte Carlo draws with Dirichlet weights and plus or minus one score errors, and scores countries on a six-dimension Century Outlook Dashboard. It reviews experimental and quasi-experimental evidence by intervention, including studies that found smaller effects than expected. Intervention scores and the ranking are the author's stated judgements; the report says the associations are not causal estimates and the projections are scenarios, not forecasts. It contains 18 figures and 19 tables across twenty-two numbered sections.",
+  "contents": [
+    "Executive Summary",
+    "1. The Century Objective",
+    "2. Where the Century Will Be Decided",
+    "3. Development Is the Master Variable",
+    "4. Sustainable Global Economic Convergence",
+    "5. Emerging Economies as the Engine",
+    "6. The Diffusion of Innovations",
+    "7. Digital Infrastructure and Digital Public Goods",
+    "8. The Green Transition and the Latecomer Advantage",
+    "9. Human Development and the Demographic Dividend",
+    "10. Polycrisis Adaptation in Survivability-Risk Regions",
+    "11. Thinking in Multiple Dividends",
+    "12. Measuring Multiple Dividends",
+    "13. Human-Capital Compounders",
+    "14. Digital Rails, Online Learning and Upskilling",
+    "15. Clean Energy, Clean Cooking and Cold Chains",
+    "16. Adaptation Interventions: Crops, Cities, Biosecurity and Warnings",
+    "17. The Enablers: Finance, Trade and Debt",
+    "18. Ranking and Sequencing the Interventions",
+    "19. Regional Pathways",
+    "20. The Century Ledger: Scenarios to 2100",
+    "21. Measuring Progress and Developing the Concepts",
+    "22. Conclusion: Ten Propositions for the Century"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.5281/zenodo.24213251",
+  "license": "CC BY 4.0"
+}
