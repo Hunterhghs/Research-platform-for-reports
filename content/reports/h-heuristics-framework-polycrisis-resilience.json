@@ -1,0 +1,76 @@
+{
+  "slug": "h-heuristics-framework-polycrisis-resilience",
+  "number": "HH-2026-66",
+  "title": "The H Heuristics Framework for Polycrisis Resilience",
+  "subtitle": "Formal Framework and Application for the 21st Century",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-11-17",
+  "updated": "2026-11-17",
+  "language": "en",
+  "pdf": "h-heuristics-framework-polycrisis-resilience.pdf",
+  "pages": 64,
+  "dek": "A flagship report that states the H Heuristics Framework for Polycrisis Resilience formally (one objective, two tracks, three dimensions, six pillars), tests its five claims against data for 182 economies, and introduces a prototype Survivability-Risk Screen, a resilience scorecard and an illustrative feedback model.",
+  "topics": [
+    "Systemic Risk",
+    "Climate Adaptation",
+    "Emerging Markets"
+  ],
+  "abstract": [
+    "Climate hazard, polluted air, water stress, hunger and weak institutions strike the same people at the same time, and no single response reaches them all. This report sets out the H Heuristics Framework for Polycrisis Resilience, a development-oriented strategy that reduces vulnerability before a crisis, strengthens adaptation during it, and plans for conditions that persist or cannot be prevented. The framework is presented as developed by Hunter Hughes, Founder of H Heuristics. It is structured as one objective (reducing human and systemic vulnerability), two complementary tracks (proactive transformation and adaptive capacity), a third dimension of reactive resilience, and six application pillars: sustainable convergence, diffusion of innovations, targeted risk reduction, human development and vulnerability reduction, resilient infrastructure and institutions, and long-term adaptation and survivability.",
+    "It tests the framework against data for 182 economies holding 99% of humanity. Hazard and capacity vary largely independently: the rank correlation between a hazard score and a capacity-gap score is 0.30, and of 4.79 billion people in high-hazard economies, 1.09 billion also face a high capacity gap. At PM2.5 between 25 and 45 micrograms per cubic metre, air pollution deaths run at 202 per 100,000 where under half of people cook cleanly and 76 where over 90% do; PM2.5 alone explains 23% of the variation in death rates across economies, and adding cooking access and health spending raises that to 80%. A Survivability-Risk Screen places 1.45 billion people in 36 economies, 31 of them in Sub-Saharan Africa, in a Severe tier, and shows that this tier would hold 39% of humanity in 2100, and the Severe and Elevated tiers together 46%, if today's tiers held under the UN medium projection. The report notes that this is a conditional screen, not a forecast, and that it falls short of a majority under the UN low, medium and high variants alike.",
+    "The report also presents an illustrative feedback model in which a programme starting in 2030 holds a vulnerability index at 17 in 2100, against 26 for a start in 2045, 35 for a start in 2060 and 63 for none, a six-category resilience scorecard, decision rules, a research programme, and the results that would count against each of its five claims. It states that the screen, scorecard, feedback model, co-benefit and priority scores and horizons are prototypes and the author's judgement, that modelled exhibits are illustrative and not forecasts, and that regression results are associations."
+  ],
+  "findings": [
+    "Hazard and capacity are separate variables. Across 182 economies the rank correlation between a hazard score (heat, coastal exposure, PM2.5, water stress) and a capacity-gap score (income, infrastructure, institutions) is 0.30; only 21 of the 45 high-hazard economies also have a high capacity gap, and 1.09 billion of the 4.79 billion people in high-hazard economies also face a high capacity gap while 0.86 billion face a high capacity gap without high hazard.",
+    "Consequences follow capacity. At the same PM2.5 level (25 to 45 micrograms per cubic metre) the air pollution death rate is 202 per 100,000 where under half of people cook cleanly and 76 where over 90% do. PM2.5 alone explains 23% of the variation in log death rates across 182 economies, and with cooking access and health spending the figure is 80%. These are cross-country associations from ordinary least squares, not causal estimates.",
+    "The prototype Survivability-Risk Screen scores six dimensions from 0 to 100 and places 36 economies with 1.45 billion people in its Severe tier, 31 of them in Sub-Saharan Africa, with a median income of $3,044 per person and health spending of $53. Tier boundaries matter: with alternative cut-offs the Severe tier holds between 1.07 and 1.62 billion people. Severe-tier economies account for 66% of projected population growth to 2050.",
+    "If today's tiers held, the Severe tier's share of humanity would rise from 18% in 2024 to 26% in 2050 and 39% in 2100, and the Severe and Elevated tiers together would hold 46% in 2100 (47% under the UN low variant, 45% under the high). The report concludes that a majority of humanity in vulnerable regions is not supported by present data.",
+    "Diffusion, not invention, is presented as the bottleneck: solar costs fell about 90% between 2010 and 2023, yet clean-cooking access in Sub-Saharan Africa rose only from 12.0% to 22.9% over 2010 to 2024, a path of about 99 years to universal access at that pace.",
+    "It proposes two tracks, Track A to shrink the future scale of the polycrisis (clean development, emissions cuts, pollution control, anticipatory investment) and Track B to adapt to what persists, and a third dimension, reactive resilience, for conditions beyond what infrastructure and settlement can bear. In its illustrative feedback model each 15 years of delay adds about 9 points to the 2100 vulnerability index; the model is author judgement and not an estimate.",
+    "Its six-category resilience scorecard ranks Sub-Saharan Africa lowest in 96% of 3,000 random weightings and high-income economies highest in all of them, and shows exposure reduction to be only weakly related to the other categories, which move together.",
+    "It states five testable claims and, for each, the result that would count against it, including a hazard-capacity correlation above 0.70 on updated data and a back-test in which tiers built from older data fail to separate later outcomes. It recommends directing the next decade of resilience finance and research at the 36 Severe-tier economies and the 21 economies where high hazard meets a high capacity gap."
+  ],
+  "keywords": [
+    "polycrisis resilience",
+    "vulnerability reduction",
+    "sustainable convergence",
+    "innovation diffusion",
+    "survivability-risk regions",
+    "habitability",
+    "adaptation",
+    "clean cooking",
+    "air pollution",
+    "resilience measurement",
+    "Global South",
+    "development"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "A framework and application report combining published evidence, data processed for the report, author judgement and simple illustrative models; each exhibit states which of the four it is. Country data come from the World Development Indicators and Worldwide Governance Indicators (downloaded November 2026), population estimates and projections to 2100 from UN World Population Prospects 2024 (medium variant, with low and high variants for ranges), and heat exposure from ERA5 days above 35C averaged over 2014 to 2023 via the World Bank Climate Change Knowledge Portal. The Survivability-Risk Screen covers 182 economies (124 low- and middle-income) and scores six dimensions from 0 to 100 by scaling indicators between the 5th and 95th percentiles; the composite is the unweighted mean and tiers are Lower below 35, Moderate 35 to 50, Elevated 50 to 65 and Severe at 65 and above, with sensitivity to alternative cut-offs reported. The six-category scorecard is tested with 3,000 random weightings and by dropping each category in turn. Regressions are ordinary least squares on log death rates. The tier-share projection applies today's tiers to projected national populations holding all else fixed. The feedback model, co-benefit scores, priority scores and horizons are author judgement and illustrative models, not estimates; the report labels the screen, scorecard and model as prototypes. It contains 29 exhibits and 19 tables across thirteen sections.",
+  "contents": [
+    "Summary",
+    "1. Polycrisis Resilience Is Built Before the Crisis and Sustained Through It",
+    "2. The Polycrisis Lands Where Hazard Meets Weak Capacity",
+    "3. Sustainable Convergence Is the Framework's First and Largest Application",
+    "4. Innovation Protects People Only When It Reaches Them",
+    "5. Risk Reduction Should Follow Severity, Exposure, Vulnerability, Trajectory and Tractability",
+    "6. Survivability-Risk Regions Hold 1.45 Billion People Today, and the Number Is Rising",
+    "7. Two Tracks Are Needed: Shrink the Polycrisis and Adapt to What Remains",
+    "8. The Horizon Is Centuries, and the Third Dimension Is Reactive Resilience",
+    "9. Feedback Loops Decide Whether Vulnerability Compounds or Recedes",
+    "10. Habitability Is a Gradient, and the Long-Horizon Question Is How Many People End Up on Its Harsh End",
+    "11. Measurement Needs Six Categories Because No Single Index Captures Resilience",
+    "12. Priorities Follow from Decision Rules, and the Research Programme Tests Them",
+    "13. The Framework's Contribution Is Integration, and Its Claims Can Be Tested"
+  ],
+  "backmatter": [
+    "Method and Data",
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35037463",
+  "license": "CC BY 4.0"
+}
