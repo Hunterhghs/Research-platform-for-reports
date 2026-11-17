@@ -1,0 +1,79 @@
+{
+  "slug": "polycrisis-resilience-flagship-report",
+  "number": "HH-2026-67",
+  "title": "Polycrisis Resilience: Flagship Report",
+  "subtitle": "Defining the Concept, Understanding the Global Polycrisis, and Establishing the H Heuristics Framework",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Flagship Report",
+  "institution": "H Heuristics",
+  "published": "2026-11-17",
+  "updated": "2026-11-17",
+  "language": "en",
+  "pdf": "polycrisis-resilience-flagship-report.pdf",
+  "pages": 57,
+  "dek": "A flagship report in three pillars: it defines Polycrisis Resilience as an integrated, long-horizon approach whose measure of success is lower vulnerability, documents six dimensions of the global polycrisis, and sets out the H Heuristics framework of six pathways, three strategies and eight principles.",
+  "topics": [
+    "Systemic Risk",
+    "Climate Adaptation",
+    "Emerging Markets"
+  ],
+  "abstract": [
+    "Humanity's largest risks now reinforce one another: heat cuts harvests, prices rise, thin budgets cannot absorb the shock, and weakened institutions adapt less. This report defines Polycrisis Resilience as the capacity of human populations, societies, economies, institutions and interconnected ecological systems to anticipate, withstand, adapt to and recover from multiple interacting crises, while systematically reducing the underlying vulnerabilities that amplify their consequences. It argues that the concept is not another word for general robustness but an integrated, long-horizon approach whose measure of success is lower vulnerability, not faster recovery. The concept and framework are presented as developed by Hunter Hughes, Founder of H Heuristics, and the report builds on two H Heuristics essays published in March 2025.",
+    "The report rests on three pillars. Pillar I sets out the concept: a definition, five capacities, three tests, and the distinction between conventional and Polycrisis Resilience and between human and systemic resilience. Pillar II examines six dimensions of the global polycrisis (climate, pollution, poverty and development, conflict and instability, demographics, and human exposure) across three horizons: 2025–2050, 2050–2100 and 2100 onward. Pillar III is the report's principal original contribution, the H Heuristics framework, with six mutually reinforcing pathways, three strategies (prevention, adaptation and reactive resilience), eight principles of systemic implementation and a long-horizon application.",
+    "Its original analysis finds that income is strongly associated with most access, health and capability indicators (R-squared 0.54 to 0.74) but only weakly with air pollution, water stress and tax capacity. Across 192 countries, 59 holding 42% of the world's people show four or more of eight vulnerability deficits at once, a result that moves with the thresholds (24% to 45% at plus or minus 10%, and 21% to 72% at plus or minus 20%). The UN medium projection places all of the world's net population growth to 2100 in Sub-Saharan Africa, and a no-progress counterfactual that holds today's deficits fixed would put 60% of the 2100 population in the four-or-more group. The report treats this as a measure of the development task and not as a forecast, and treats human exposure as a scenario to investigate, not an inevitability. It separates published evidence from H Heuristics' own synthesis, states that the integrated framework has not been tested as a whole, and ends with a research agenda and a binding term fixing how the concept is to be read."
+  ],
+  "findings": [
+    "The report defines Polycrisis Resilience around five capacities (anticipate, withstand, adapt, recover and reduce underlying vulnerability) and three tests, and distinguishes it from conventional resilience by its vulnerability-reduction objective, its separation of human from systemic resilience, and a horizon running from the next decade to the next century and beyond.",
+    "It documents six dimensions of the global polycrisis, citing 1.55°C of warming in 2024 as the first calendar year above 1.5°C (a single year does not establish a long-term crossing), pollution as the largest environmental cause of premature death, and a fall of about 98% in the global disaster death rate between the 1920s and the 2010s as evidence that development reduces vulnerability.",
+    "In its own cross-country analysis, income explains 54% to 74% of the variation in most access, health and capability indicators but only weakly explains air pollution, water stress and tax capacity, so the report concludes that income growth alone will not remove every vulnerability. These are cross-sectional associations and not causal estimates.",
+    "Across 192 countries, 59 countries with about 3.4 billion people (42% of the world) show four or more of eight vulnerability deficits at once, concentrated in Sub-Saharan Africa and South Asia. The share depends strongly on the thresholds: 24% to 45% at plus or minus 10%, and 21% to 72% at plus or minus 20%. The report says the finding that a large minority live in countries with several overlapping deficits survives these tests, but the exact figure does not.",
+    "On the UN medium projection, Sub-Saharan Africa's population grows by 2.2 billion over 2024–2100, more than the world's net gain of 2.0 billion. A no-progress counterfactual holding today's deficits fixed would put 60% of the 2100 population in the four-or-more group; the report says this measures the size of the development task, not a forecast, and ignores migration, climate mortality and any response to the deficits.",
+    "The framework proposes six development pathways (sustainable economic convergence, clean technological transition, climate and environmental adaptation, human development and exposure reduction, institutional and systemic resilience, and long-term spatial and demographic adaptation), three strategies (prevention, adaptation and reactive resilience) and eight implementation principles, with multiple dividends as the rule for selecting interventions.",
+    "For long horizons it treats worst cases as a design constraint and not a forecast, and frames actions that keep choices open for later generations as valuable through option value even when their payoff cannot be calculated. It argues that the case does not rest on a forecast but on an asymmetry: the recommended investments pay for themselves in ordinary terms if the worst cases are avoided.",
+    "Its own evidence-status table labels the claims that the six pathways reinforce one another, and that the eight principles improve outcomes, as H Heuristics judgement that has not been empirically tested as a set. It lists eight research priorities, including subnational overlap mapping, coupled hazard-exposure-vulnerability projections, evidence on multiple dividends and measures of limits to adaptation."
+  ],
+  "keywords": [
+    "polycrisis resilience",
+    "systemic risk",
+    "vulnerability reduction",
+    "climate",
+    "pollution",
+    "poverty",
+    "conflict",
+    "demographic shift",
+    "human exposure",
+    "adaptation",
+    "long-horizon",
+    "development pathways"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "A concept and framework report combining published evidence, an original cross-country analysis, illustrative scenarios and H Heuristics judgement; each exhibit's source line states which of the four applies. The original analysis uses public World Bank and other indicators for 192 countries: cross-sectional regressions of access, health, capability and environmental indicators on income, and an overlap screen counting eight vulnerability deficits against judgemental thresholds, with sensitivity tests at plus or minus 10% and 20%. Population figures are from the UN World Population Prospects 2024 medium projection. The no-progress counterfactual holds current deficits fixed and is a measure of the task, not a forecast. Indicators come from different years (latest observation since 2012, and since 2018 for income, electricity, cooking and mortality), national averages hide subnational variation, and the analysis shows association and overlap, not cause. The framework's pathways and principles are the author's judgement and are not tested as a set. It contains 15 figures and 22 tables across fifteen numbered sections in four parts, with a glossary and a data-and-methods appendix.",
+  "contents": [
+    "Executive Summary",
+    "1. Introduction: A Concept for an Age of Compounding Crises",
+    "2. Defining Polycrisis Resilience",
+    "3. From Crisis to Polycrisis: Interconnected Systems, Feedback Loops and Cascades",
+    "4. Beyond Conventional Resilience",
+    "5. The Global Polycrisis: Six Dimensions of Compounding Risk",
+    "6. Demographic Shift and Human Exposure",
+    "7. Feedback Loops, Secondary Effects and Converging Vulnerabilities",
+    "8. Three Horizons: 2025–2050, 2050–2100 and Beyond",
+    "9. The H Heuristics Framework: From Concept to Development Agenda",
+    "10. Six Development Pathways",
+    "11. Three Strategies: Prevention, Adaptation and Reactive Resilience",
+    "12. Systemic Implementation: Eight Principles",
+    "13. Long-Horizon Application: 2050, 2100 and the Centuries After",
+    "14. Evidence, Limits and Research Agenda",
+    "15. Conclusion: Polycrisis Resilience as an Integrated, Long-Horizon Approach"
+  ],
+  "backmatter": [
+    "Appendix A: Glossary",
+    "Appendix B: Data and Methods",
+    "References"
+  ],
+  "doi": "10.5281/zenodo.24323986",
+  "license": "CC BY-NC-ND 4.0"
+}
