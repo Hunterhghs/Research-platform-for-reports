@@ -1,0 +1,72 @@
+{
+  "slug": "high-impact-rd-priorities-2026-2036",
+  "number": "HH-2026-95",
+  "title": "High-Impact Research and Development Priorities, 2026–2036",
+  "subtitle": "Multidimensional Sustainable Economic Convergence, Intersectional R&D Pathways, and Polycrisis Resilience in the Global South",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "series": "H Heuristics Research Report",
+  "institution": "H Heuristics",
+  "published": "2026-11-21",
+  "updated": "2026-11-21",
+  "language": "en",
+  "pdf": "high-impact-rd-priorities-2026-2036.pdf",
+  "pages": 30,
+  "dek": "A decadal research agenda that ranks five development research areas, identifies twelve intersectional frontiers and thirty-three research programmes, and sets out a phased 2026–2036 plan, with the report's own scoring and scenario estimates of the returns to coordinated investment.",
+  "topics": [
+    "Emerging Markets",
+    "Technology & Innovation",
+    "Infrastructure"
+  ],
+  "abstract": [
+    "This report sets out a decadal research and development agenda for H Heuristics for 2026–2036. It examines how economic convergence, AI and technology diffusion, green industrialisation, complementary infrastructure and climate adaptation interact under the Polycrisis Resilience framework, and argues that the highest-impact research priority for the decade is multidimensional sustainable economic convergence in the Global South. Rather than treating macroeconomics, artificial intelligence, energy engineering and climate science as separate silos, it proposes studying the coupled mechanisms through which convergence proceeds or stalls.",
+    "The report organises the agenda as a five-pillar architecture (economic convergence, technology and innovation diffusion, sustainable infrastructure and industrialisation, climate adaptation and sustainability, and Polycrisis Resilience as an integrating framework). It scores five core research areas on a weighted five-criterion rubric, identifies twelve intersectional research frontiers, and sets out thirty-three research programmes in five niches (A to E), regional convergence archetypes for Southeast Asia, Sub-Saharan Africa and middle-income economies, and a three-phase execution plan with a falsifiability protocol. It grades its evidence as established, substantiated, emerging or scenario/speculative.",
+    "It also presents its own quantitative estimates: spillover multipliers of 1.28x to 1.48x for intersectional research, five-year productivity gains of 13.5% to 17.8% for bundled power, digital and transport infrastructure against 3.9% to 5.1% for single-sector builds, and up to $792 billion a year of avoided Global South climate-related GDP losses by 2036 from integrated adaptation. These come from the report's own scoring matrix and loss-avoidance modelling, or from a meta-analysis that its reference list does not identify; the report does not document the models, data or parameters behind them, and they should be read as the author's scenario estimates and working hypotheses for testing, not as measured results."
+  ],
+  "findings": [
+    "The report argues that the highest-impact research opportunities of 2026–2036 sit at the intersection of economic development, technology diffusion, infrastructure and environmental sustainability, and recommends prioritising multidimensional research on sustainable economic convergence in the Global South, with Polycrisis Resilience as the integrating framework.",
+    "On its own weighted rubric (economic transformation 25%, technological spillover 25%, environmental co-benefit 20%, polycrisis risk reduction 15%, research tractability and institutional differentiation 15%), it ranks sustainable economic convergence first (96.4 of 100), followed by technology diffusion and AI adoption (92.8), the green transition and sustainable industrialisation (90.5), infrastructure foundations (88.7) and climate adaptation (85.2). The scores are the author's judgement and the report does not describe independent scoring.",
+    "It argues that intersectional research areas, such as technology diffusion with economic convergence and digital infrastructure with AI adoption, deliver more insight than standalone disciplines, and reports spillover multipliers of 1.28x to 1.48x for twelve intersectional frontiers. The multipliers are drawn from the report's own portfolio scoring matrix, and the report does not document how they were estimated.",
+    "It argues from a constant-elasticity-of-substitution argument (elasticity between 0.3 and 0.7) that infrastructure in one dimension quickly meets diminishing returns bounded by the scarcest complementary network, and reports that triads of power, digital and transport infrastructure raise five-year firm-level productivity by 13.5% to 17.8%, against 3.9% to 5.1% for single-sector builds. It attributes these to meta-analytic estimates across five Global South regions, but the reference list does not include such a meta-analysis.",
+    "It reports its own loss-avoidance modelling in which integrated climate adaptation across four mechanisms (resilient infrastructure $268 billion, clean-energy and microgrid buffers $234 billion, agri-tech and water security $176 billion, and early-warning and adaptive digital public infrastructure $114 billion) could avert about $792 billion a year of Global South GDP losses by 2036, up from $105 billion in 2026. The model, its inputs and its uncertainty are not documented.",
+    "It sets out thirty-three research programmes in five niches: technology diffusion and AI adoption (including guardrails on labour-market complementarity and AI governance), green technology and sustainable industrialisation, infrastructure foundations, climate adaptation and polycrisis risk reduction, and structural transformation and critical minerals.",
+    "It proposes a three-phase 2026–2036 execution plan (baseline telemetry and formal models, intersectional modelling and regional corridor pilots, and policy institutionalisation with a decadal retrospective), a research-capacity allocation across the five niches, and a four-stage validation protocol covering micro-econometric identification, spatial and network coupling, systems-dynamics and general-equilibrium modelling, and polycrisis stress testing with stated failure modes.",
+    "It commits to open-science dissemination, with baseline datasets, composite indices and replication code planned for release under CC BY 4.0 on repositories such as Figshare and Zenodo. These are stated commitments, and the report does not itself release the data or code behind its estimates."
+  ],
+  "keywords": [
+    "research priorities",
+    "sustainable economic convergence",
+    "technology diffusion",
+    "AI adoption",
+    "green industrialization",
+    "infrastructure complementarities",
+    "climate adaptation",
+    "Polycrisis Resilience",
+    "Global South",
+    "research strategy 2026-2036",
+    "structural transformation",
+    "critical minerals"
+  ],
+  "jelCodes": [],
+  "jelNote": "",
+  "method": "A research-strategy and agenda-setting report. It ranks five research areas with a weighted five-criterion scoring rubric (the H Heuristics Decadal R&D Assessment Model, version 2.1) and positions twelve intersectional frontiers on tractability and impact using a portfolio scoring matrix; the criteria weights and scores are the author's judgements. Its quantitative claims (spillover multipliers, productivity gains from bundled infrastructure, avoided climate losses) are stated as the report's own scenario modelling or as estimates from a meta-analysis that the reference list does not identify, and the models, data and parameters are not documented in the report. It draws on classic growth and development theory (Solow, Romer, Aghion and Howitt, Lewis, Rodrik, Mankiw, Romer and Weil, Benhabib and Spiegel, Nelson and Phelps) and on IEA, World Bank, UNCTAD and other data baselines named in figure sources. It grades claims as established, substantiated, emerging or scenario/speculative, and sets out a four-stage validation and falsifiability protocol for future studies. It contains 11 figures across eleven numbered sections.",
+  "contents": [
+    "1. Executive Synthesis: The 2026–2036 Decadal R&D Thesis",
+    "2. Theoretical Foundations: Multidimensional Convergence and Polycrisis Resilience",
+    "3. Decadal Priority Ranking (2026–2036): Evaluating High-Impact Research Areas",
+    "4. The Intersectional R&D Advantage: Twelve High-Value Cross-Domain Frontiers",
+    "5. Research Niche A: Technology Diffusion, AI Adoption, and Economic Convergence",
+    "6. Research Niche B: Green Technology Diffusion and Sustainable Industrialization",
+    "7. Research Niche C: Infrastructure Foundations and Multidimensional Convergence",
+    "8. Research Niche D: Climate Adaptation, Sustainable Development, and Polycrisis Risk Reduction",
+    "9. Research Niche E: Structural Transformation, Critical Minerals, and Emerging Economies",
+    "10. Regional Convergence Archetypes: Southeast Asia, Sub-Saharan Africa, and Middle-Income Traps",
+    "11. Decadal Execution Architecture, Empirical Methodology, and Portfolio Roadmap"
+  ],
+  "backmatter": [
+    "Key Academic and Institutional References"
+  ],
+  "doi": "10.6084/m9.figshare.35083456",
+  "license": "CC BY 4.0"
+}
