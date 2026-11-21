@@ -130,6 +130,10 @@ function buildTopics(reports) {
 // A report may carry its own licence (the Zenodo deposit wins for DOI'd work).
 const licenceOf = (r) => config.licenses?.[r.license] || config.license;
 const doiUrl = (r) => (r.doi ? `https://doi.org/${r.doi.replace(/^https?:\/\/doi\.org\//, '')}` : null);
+// Optional second deposit of the same work (e.g. figshare + Zenodo). Shown on the page and in
+// JSON-LD sameAs; citation_doi stays single because Scholar reads only one.
+const bareDoi = (d) => d.replace(/^https?:\/\/doi\.org\//, '');
+const altDoiUrl = (r) => (r.altDoi ? `https://doi.org/${bareDoi(r.altDoi)}` : null);
 
 function surnameFirst(name) {
   const parts = name.trim().split(/\s+/);
@@ -528,7 +532,7 @@ ${r.topics.map((t) => `<meta property="article:tag" content="${esc(t)}">`).join(
     numberOfPages: r.pages,
     license: lic.url,
     url: r.absUrl,
-    ...(doi ? { identifier: doi, sameAs: doi } : {}),
+    ...(doi ? { identifier: doi, sameAs: altDoiUrl(r) ? [doi, altDoiUrl(r)] : doi } : {}),
     isPartOf: { '@type': 'PublicationVolume', name: config.series },
     author: r.authors.map((a) => ({ '@type': 'Person', name: a })),
     publisher: { '@type': 'Organization', name: config.publisher, url: SITE + '/' },
@@ -646,6 +650,7 @@ ${r.topics.map((t) => `<meta property="article:tag" content="${esc(t)}">`).join(
         <dt>Pages</dt><dd class="tabular">${r.pages}</dd>
         <dt>Language</dt><dd>English</dd>
         ${doi ? `<dt>DOI</dt><dd><a href="${doi}" rel="noopener" target="_blank">${esc(r.doi.replace(/^https?:\/\/doi\.org\//, ''))}</a></dd>` : ''}
+        ${altDoiUrl(r) ? `<dt>Also deposited</dt><dd><a href="${altDoiUrl(r)}" rel="noopener" target="_blank">${esc(bareDoi(r.altDoi))}</a></dd>` : ''}
         ${r.jelCodes?.length ? `<dt>JEL codes</dt><dd class="tabular">${r.jelCodes.map(esc).join(', ')}</dd>` : ''}
         <dt>Licence</dt><dd><a href="${lic.url}" rel="license noopener" target="_blank">${esc(lic.name)}</a></dd>
       </dl>
@@ -906,6 +911,7 @@ function metadataJson(reports) {
         url: r.absUrl,
         pdf: r.pdfAbsUrl,
         doi: r.doi || null,
+        altDoi: r.altDoi || null,
         license: licenceOf(r).name,
       })),
     },
